@@ -3,12 +3,12 @@ Humbly invoking the blessings of Almighty God, the people of the State of Texas,
 establish this Constitution.
                            ARTICLE 1
                          BILL OF RIGHTS
-That the general, great and essential principles of liberty and free government may be recognized and
-established, we declare:
+That the general, great and essential principles of liberty and free government may be recognized
+and established, we declare:
 Sec. 1.  FREEDOM AND SOVEREIGNTY OF STATE.  Texas is a free and independent State,
-subject only to the Constitution of the United States, and the maintenance of our free institutions and the
-perpetuity of the Union depend upon the preservation of the right of local self-government, unimpaired
-to all the States.
+subject only to the Constitution of the United States, and the maintenance of our free institutions and
+the perpetuity of the Union depend upon the preservation of the right of local self-government,
+unimpaired to all the States.
 Sec. 2.  INHERENT POLITICAL POWER; REPUBLICAN FORM OF GOVERNMENT.  All
 political power is inherent in the people, and all free governments are founded on their authority, and
 instituted for their benefit.  The faith of the people of Texas stands pledged to the preservation of a
@@ -38,13 +38,13 @@ religious denomination in the peaceable enjoyment of its own mode of public wors
 Sec. 7.  APPROPRIATIONS FOR SECTARIAN PURPOSES.  No money shall be appropriated,
 or drawn from the Treasury for the benefit of any sect, or religious society, theological or religious
 seminary; nor shall property belonging to the State be appropriated for any such purposes.
-Sec. 8.  FREEDOM OF SPEECH AND PRESS; LIBEL.  Every person shall be at liberty to speak,
-write or publish his opinions on any subject, being responsible for the abuse of that privilege; and no law
-shall ever be passed curtailing the liberty of speech or of the press.  In prosecutions for the publication
-of papers, investigating the conduct of officers, or men in public capacity, or when the matter published
-is proper for public information, the truth thereof may be given in evidence.  And in all indictments for
-libels, the jury shall have the right to determine the law and the facts, under the direction of the court,
-as in other cases.
+Sec. 8.  FREEDOM OF SPEECH AND PRESS; LIBEL.  Every person shall be at liberty to
+speak, write or publish his opinions on any subject, being responsible for the abuse of that privilege; and
+no law shall ever be passed curtailing the liberty of speech or of the press.  In prosecutions for the
+publication of papers, investigating the conduct of officers, or men in public capacity, or when the
+matter published is proper for public information, the truth thereof may be given in evidence.  And in
+all indictments for libels, the jury shall have the right to determine the law and the facts, under the
+direction of the court, as in other cases.
 Sec. 9.  SEARCHES AND SEIZURES.  The people shall be secure in their persons, houses, papers
 and possessions, from all unreasonable seizures or searches, and no warrant to search any place, or to
 seize any person or thing, shall issue without describing them as near as may be, nor without probable
@@ -53,14 +53,14 @@ Sec. 10.  RIGHTS OF ACCUSED IN CRIMINAL PROSECUTIONS.  In all criminal
 prosecutions the accused shall have a speedy public trial by an impartial jury.  He shall have the right
 to demand the nature and cause of the accusation against him, and to have a copy thereof.  He shall not
 be compelled to give evidence against himself, and shall have the right of being heard by himself or
-counsel, or both, shall be confronted by the witnesses against him and shall have compulsory process for
-obtaining witnesses in his favor, except that when the witness resides out of the State and the offense
+counsel, or both, shall be confronted by the witnesses against him and shall have compulsory process
+for obtaining witnesses in his favor, except that when the witness resides out of the State and the offense
 charged is a violation of any of the anti-trust laws of this State, the defendant and the State shall have
 the right to produce and have the evidence admitted by deposition, under such rules and laws as the
 Legislature may hereafter provide; and no person shall be held to answer for a criminal offense, unless
 on an indictment of a grand jury, except in cases in which the punishment is by fine or imprisonment,
-otherwise than in the penitentiary, in cases of impeachment, and in cases arising in the army or navy, or
-in the militia, when in actual service in time of war or public danger.  (Amended Nov. 5, 1918.)
+otherwise than in the penitentiary, in cases of impeachment, and in cases arising in the army or navy,
+or in the militia, when in actual service in time of war or public danger.  (Amended Nov. 5, 1918.)
 Sec. 11.  BAIL.  All prisoners shall be bailable by sufficient sureties, unless for capital offenses,
 when the proof is evident; but this provision shall not be so construed as to prevent bail after indictment
 found upon examination of the evidence, in such manner as may be prescribed by law.
@@ -98,26 +98,26 @@ the assault;
 (b) added Nov. 2, 1993.)
 Sec. 12.  HABEAS CORPUS.  The writ of habeas corpus is a writ of right, and shall never be
 suspended.  The Legislature shall enact laws to render the remedy speedy and effectual.
-Sec. 13.  EXCESSIVE BAIL OR FINES; CRUEL AND UNUSUAL PUNISHMENT; REMEDY BY DUE
-COURSE OF LAW.  Excessive bail shall not be required, nor excessive fines imposed, nor cruel or
-unusual punishment inflicted.  All courts shall be open, and every person for an injury done him, in his
-lands, goods, person or reputation, shall have remedy by due course of law.
+Sec. 13.  EXCESSIVE BAIL OR FINES; CRUEL AND UNUSUAL PUNISHMENT; REMEDY BY
+DUE COURSE OF LAW.  Excessive bail shall not be required, nor excessive fines imposed, nor cruel
+or unusual punishment inflicted.  All courts shall be open, and every person for an injury done him, in
+his lands, goods, person or reputation, shall have remedy by due course of law.
 Sec. 14.  DOUBLE JEOPARDY.  No person, for the same offense, shall be twice put in jeopardy
 of life or liberty, nor shall a person be again put upon trial for the same offense, after a verdict of not
 guilty in a court of competent jurisdiction.
 Sec. 15.  RIGHT OF TRIAL BY JURY.  The right of trial by jury shall remain inviolate.  The
 Legislature shall pass such laws as may be needed to regulate the same, and to maintain its purity and
 efficiency.  Provided, that the Legislature may provide for the temporary commitment, for observation
-and/or treatment, of mentally ill persons not charged with a criminal offense, for a period of time not to
-exceed ninety (90) days, by order of the County Court without the necessity of a trial by jury.  (Amended
-Aug. 24, 1935.)
+and/or treatment, of mentally ill persons not charged with a criminal offense, for a period of time not
+to exceed ninety (90) days, by order of the County Court without the necessity of a trial by jury. 
+(Amended Aug. 24, 1935.)
 Sec. 15-a.  COMMITMENT OF PERSONS OF UNSOUND MIND.  No person shall be
 committed as a person of unsound mind except on competent medical or psychiatric testimony.  The
 Legislature may enact all laws necessary to provide for the trial, adjudication of insanity and
-commitment of persons of unsound mind and to provide for a method of appeal from judgments rendered
-in such cases.  Such laws may provide for a waiver of trial by jury, in cases where the person under
-inquiry has not been charged with the commission of a criminal offense, by the concurrence of the
-person under inquiry, or his next of kin, and an attorney ad litem appointed by a judge of either the
+commitment of persons of unsound mind and to provide for a method of appeal from judgments
+rendered in such cases.  Such laws may provide for a waiver of trial by jury, in cases where the person
+under inquiry has not been charged with the commission of a criminal offense, by the concurrence of
+the person under inquiry, or his next of kin, and an attorney ad litem appointed by a judge of either the
 County or Probate Court of the county where the trial is being held, and shall provide for a method of
 service of notice of such trial upon the person under inquiry and of his right to demand a trial by jury. 
 (Added Nov. 6, 1956.)
@@ -130,15 +130,16 @@ person's property shall be taken, damaged or destroyed for or applied to public 
 compensation being made, unless by the consent of such person; and, when taken, except for the use of
 the State, such compensation shall be first made, or secured by a deposit of money; and no irrevocable
 or uncontrollable grant of special privileges or immunities, shall be made; but all privileges and
-franchises granted by the Legislature, or created under its authority shall be subject to the control thereof.
+franchises granted by the Legislature, or created under its authority shall be subject to the control
+thereof.
 Sec. 18.  IMPRISONMENT FOR DEBT.  No person shall ever be imprisoned for debt.
 Sec. 19.  DEPRIVATION OF LIFE, LIBERTY, ETC.; DUE COURSE OF LAW.  No citizen
 of this State shall be deprived of life, liberty, property, privileges or immunities, or in any manner
 disfranchised, except by the due course of the law of the land.
 Sec. 20.  OUTLAWRY OR TRANSPORTATION FOR OFFENSE.  No citizen shall be outlawed.  No
-person shall be transported out of the State for any offense committed within the same.  This section does
-not prohibit an agreement with another state providing for the confinement of inmates of this State in
-the penal or correctional facilities of that state.  (Amended Nov. 5, 1985.)
+person shall be transported out of the State for any offense committed within the same.  This section
+does not prohibit an agreement with another state providing for the confinement of inmates of this State
+in the penal or correctional facilities of that state.  (Amended Nov. 5, 1985.)
 Sec. 21.  CORRUPTION OF BLOOD; FORFEITURE; SUICIDES.  No conviction shall work corruption
 of blood, or forfeiture of estate, and the estates of those who destroy their own lives shall descend or vest
 as in case of natural death.
@@ -173,9 +174,9 @@ throughout the criminal justice process; and
 (2)  the right to be reasonably protected from the accused throughout the criminal justice process.
 (b)  On the request of a crime victim, the crime victim has the following rights:
 (1)  the right to notification of court proceedings;
-(2)  the right to be present at all public court proceedings related to the offense, unless the victim is
-to testify and the court determines that the victim's testimony would be materially affected if the victim
-hears other testimony at the trial;
+(2)  the right to be present at all public court proceedings related to the offense, unless the victim
+is to testify and the court determines that the victim's testimony would be materially affected if the
+victim hears other testimony at the trial;
 (3)  the right to confer with a representative of the prosecutor's office;
 (4)  the right to restitution; and
 (5)  the right to information about the conviction, sentence, imprisonment, and release of the
@@ -202,7 +203,6 @@ or funding victim-related compensation, services, or assistance.
 or in the compensation to victims of crime auxiliary fund may be expended for the purpose of assisting
 victims of episodes of mass violence if other money appropriated for emergency assistance is depleted. 
 (Added Nov. 4, 1997.)
-
                            ARTICLE 2
                     THE POWERS OF GOVERNMENT
 Sec. 1.  DIVISION OF POWERS; THREE SEPARATE DEPARTMENTS; EXERCISE OF POWER
@@ -212,24 +212,23 @@ body of magistracy, to wit:  Those which are Legislative to one; those which are
 and those which are Judicial to another; and no person, or collection of persons, being of one of these
 departments, shall exercise any power properly attached to either of the others, except in the instances
 herein expressly permitted.
-
                            ARTICLE 3
                      LEGISLATIVE DEPARTMENT
 Sec. 1.  SENATE AND HOUSE OF REPRESENTATIVES.  The Legislative power of this State
-shall be vested in a Senate and House of Representatives, which together shall be styled "The Legislature
-of the State of Texas."
+shall be vested in a Senate and House of Representatives, which together shall be styled "The
+Legislature of the State of Texas."
 Sec. 2.  MEMBERSHIP OF SENATE AND HOUSE OF REPRESENTATIVES.  The Senate
 shall consist of thirty-one members.  The House of Representatives shall consist of 150 members. 
 (Amended Nov. 2, 1999.)
 TEMPORARY TRANSITION PROVISIONS.1
 Sec. 3.  ELECTION AND TERM OF OFFICE OF SENATORS.  The Senators shall be chosen
 by the qualified voters for the term of four years; but a new Senate shall be chosen after every
-apportionment, and the Senators elected after each apportionment shall be divided by lot into two classes. 
-The seats of the Senators of the first class shall be vacated at the expiration of the first two years, and
-those of the second class at the expiration of four years, so that one half of the Senators shall be chosen
-biennially thereafter.  Senators shall take office following their election, on the day set by law for the
-convening of the Regular Session of the Legislature, and shall serve thereafter for the full term of years
-to which elected.  (Amended Nov. 8, 1966, and Nov. 2, 1999.)
+apportionment, and the Senators elected after each apportionment shall be divided by lot into two
+classes.  The seats of the Senators of the first class shall be vacated at the expiration of the first two
+years, and those of the second class at the expiration of four years, so that one half of the Senators shall
+be chosen biennially thereafter.  Senators shall take office following their election, on the day set by law
+for the convening of the Regular Session of the Legislature, and shall serve thereafter for the full term
+of years to which elected.  (Amended Nov. 8, 1966, and Nov. 2, 1999.)
 TEMPORARY TRANSITION PROVISIONS.1
 Sec. 4.  ELECTION AND TERM OF MEMBERS OF HOUSE OF REPRESENTATIVES.  The
 Members of the House of Representatives shall be chosen by the qualified voters for the term of two
@@ -244,18 +243,18 @@ introduction of bills and resolutions, acting upon emergency appropriations, pas
 confirmation of the recess appointees of the Governor and such emergency matters as may be submitted
 by the Governor in special messages to the Legislature.  During the succeeding thirty days of the regular
 session of the Legislature the various committees of each House shall hold hearings to consider all bills
-and resolutions and other matters then pending; and such emergency matters as may be submitted by the
-Governor.  During the remainder of the session the Legislature shall act upon such bills and resolutions
-as may be then pending and upon such emergency matters as may be submitted by the Governor in
-special messages to the Legislature.
+and resolutions and other matters then pending; and such emergency matters as may be submitted by
+the Governor.  During the remainder of the session the Legislature shall act upon such bills and
+resolutions as may be then pending and upon such emergency matters as may be submitted by the
+Governor in special messages to the Legislature.
 (c)  Notwithstanding Subsection (b), either House may determine its order of business by an
 affirmative vote of four-fifths of its membership.  (Amended Nov. 4, 1930, and Nov. 2, 1999.)
 TEMPORARY TRANSITION PROVISIONS.1
 Sec. 6.  QUALIFICATIONS OF SENATORS.  No person shall be a Senator, unless he be a citizen
 of the United States, and, at the time of his election a qualified voter of this State, and shall have been
 a resident of this State five years next preceding his election, and the last year thereof a resident of the
-district for which he shall be chosen, and shall have attained the age of twenty-six years.  (Amended Nov.
-2, 1999.)
+district for which he shall be chosen, and shall have attained the age of twenty-six years.  (Amended
+Nov. 2, 1999.)
 TEMPORARY TRANSITION PROVISIONS.1
 Sec. 7.  QUALIFICATIONS OF REPRESENTATIVES.  No person shall be a Representative,
 unless he be a citizen of the United States, and, at the time of his election, a qualified voter of this State,
@@ -271,16 +270,16 @@ VACANCY; SPEAKER OF HOUSE OF REPRESENTATIVES.  (a) The Senate shall, at the
 beginning and close of each session, and at such other times as may be necessary, elect one of its
 members President pro tempore, who shall perform the duties of the Lieutenant Governor in any case
 of absence or temporary disability of that officer.  If the office of Lieutenant Governor becomes vacant,
-the President pro tempore of the Senate shall convene the Committee of the Whole Senate within 30 days
-after the vacancy occurs.  The Committee of the Whole shall elect one of its members to perform the
-duties of the Lieutenant Governor in addition to the member's duties as Senator until the next general
-election.  If the Senator so elected ceases to be a Senator before the election of a new Lieutenant
+the President pro tempore of the Senate shall convene the Committee of the Whole Senate within 30
+days after the vacancy occurs.  The Committee of the Whole shall elect one of its members to perform
+the duties of the Lieutenant Governor in addition to the member's duties as Senator until the next
+general election.  If the Senator so elected ceases to be a Senator before the election of a new Lieutenant
 Governor, another Senator shall be elected in the same manner to perform the duties of the Lieutenant
 Governor until the next general election.  Until the Committee of the Whole elects one of its members
 for this purpose, the President pro tempore shall perform the duties of the Lieutenant Governor as
 provided by this subsection.
-(b)  The House of Representatives shall, when it first assembles, organize temporarily, and thereupon
-proceed to the election of a Speaker from its own members.
+(b)  The House of Representatives shall, when it first assembles, organize temporarily, and
+thereupon proceed to the election of a Speaker from its own members.
 (c)  Each House shall choose its other officers.  (Amended Nov. 6, 1984; Subsec. (a) amended Nov.
 2, 1999.)
 Sec. 10.  QUORUM; ADJOURNMENTS FROM DAY TO DAY; COMPELLING
@@ -293,11 +292,14 @@ expel a member, but not a second time for the same offense.
 Sec. 12.  JOURNALS OF PROCEEDINGS; ENTERING YEAS AND NAYS.  Each House shall
 keep a journal of its proceedings, and publish the same; and the yeas and nays of the members of either
 House on any question shall, at the desire of any three members present, be entered on the journals.
-Sec. 13.  VACANCIES; WRITS OF ELECTION.  When vacancies occur in either House, the
+Sec. 13.  VACANCIES; WRITS OF ELECTION. (a) When vacancies occur in either House, the
 Governor, or the person exercising the power of the Governor, shall issue writs of election to fill such
 vacancies; and should the Governor fail to issue a writ of election to fill any such vacancy within twenty
 days after it occurs, the returning officer of the district in which such vacancy may have happened, shall
 be authorized to order an election for that purpose.
+(b)  The legislature may provide by general law for the filling of a vacancy in the legislature without
+an election if only one person qualifies and declares a candidacy in an election to fill the vacancy. 
+(Amended Nov. 6, 2001.)
 Sec. 14.  PRIVILEGED FROM ARREST.  Senators and Representatives shall, except in cases of
 treason, felony, or breach of the peace, be privileged from arrest during the session of the Legislature,
 and in going to and returning from the same.  (Amended Nov. 2, 1999.)
@@ -310,19 +312,19 @@ Sec. 16.  OPEN SESSIONS.  The sessions of each House shall be open, except the S
 Executive session.
 Sec. 17.  ADJOURNMENTS.  Neither House shall, without the consent of the other, adjourn for
 more than three days, nor to any other place than that where the Legislature may be sitting.
-Sec. 18.  INELIGIBILITY FOR OTHER OFFICES; INTEREST IN CONTRACTS.  No Senator
-or Representative shall, during the term for which he was elected, be eligible to (1) any civil office of
-profit under this State which shall have been created, or the emoluments of which may have been
-increased, during such term, or (2) any office or place, the appointment to which may be made, in whole
-or in part, by either branch of the Legislature; provided, however, the fact that the term of office of
-Senators and Representatives does not end precisely on the last day of December but extends a few days
-into January of the succeeding year shall be considered as de minimis, and the ineligibility herein created
-shall terminate on the last day in December of the last full calendar year of the term for which he was
-elected.  No member of either House shall vote for any other member for any office whatever, which
-may be filled by a vote of the Legislature, except in such cases as are in this Constitution provided, nor
-shall any member of the Legislature be interested, either directly or indirectly, in any contract with the
-State, or any county thereof, authorized by any law passed during the term for which he was elected. 
-(Amended Nov. 5, 1968.)
+Sec. 18.  INELIGIBILITY FOR OTHER OFFICES; INTEREST IN CONTRACTS.  No
+Senator or Representative shall, during the term for which he was elected, be eligible to (1) any civil
+office of profit under this State which shall have been created, or the emoluments of which may have
+been increased, during such term, or (2) any office or place, the appointment to which may be made, in
+whole or in part, by either branch of the Legislature; provided, however, the fact that the term of office
+of Senators and Representatives does not end precisely on the last day of December but extends a few
+days into January of the succeeding year shall be considered as de minimis, and the ineligibility herein
+created shall terminate on the last day in December of the last full calendar year of the term for which
+he was elected.  No member of either House shall vote for any other member for any office whatever,
+which may be filled by a vote of the Legislature, except in such cases as are in this Constitution
+provided, nor shall any member of the Legislature be interested, either directly or indirectly, in any
+contract with the State, or any county thereof, authorized by any law passed during the term for which
+he was elected.  (Amended Nov. 5, 1968.)
 Sec. 19.  INELIGIBILITY OF PERSONS HOLDING OTHER OFFICES.  No judge of any
 court, Secretary of State, Attorney General, clerk of any court of record, or any person holding a
 lucrative office under the United States, or this State, or any foreign government shall during the term
@@ -379,20 +381,20 @@ any part of a second term is not eligible for reappointment.
 recommend that the salary of the speaker of the house of representatives and the lieutenant governor be
 set at an amount higher than that of other members.  The commission shall set the per diem of members
 of the legislature and the lieutenant governor, and the per diem shall reflect reasonable estimates of costs
-and may be raised or lowered biennially as necessary to pay those costs, but the per diem may not exceed
-during a calendar year the amount allowed as of January 1 of that year for federal income tax purposes
-as a deduction for living expenses incurred in a legislative day by a state legislator in connection with
-the legislator's business as a legislator, disregarding any exception in federal law for legislators residing
-near the Capitol.
-(f)  At each general election for state and county officers following a proposed change in salary, the
-voters shall approve or disapprove the salary recommended by the commission if the commission
+and may be raised or lowered biennially as necessary to pay those costs, but the per diem may not
+exceed during a calendar year the amount allowed as of January 1 of that year for federal income tax
+purposes as a deduction for living expenses incurred in a legislative day by a state legislator in
+connection with the legislator's business as a legislator, disregarding any exception in federal law for
+legislators residing near the Capitol.
+(f)  At each general election for state and county officers following a proposed change in salary,
+the voters shall approve or disapprove the salary recommended by the commission if the commission
 recommends a change in salary.  If the voters disapprove the salary, the salary continues at the amount
 paid immediately before disapproval until another amount is recommended by the commission and
 approved by the voters.  If the voters approve the salary, the approved salary takes effect January 1 of
 the next odd-numbered year.  (Added Nov. 5, 1991.)
 Sec. 25.  SENATORIAL DISTRICTS.  The State shall be divided into Senatorial Districts of
-contiguous territory according to the number of qualified electors, as nearly as may be, and each district
-shall be entitled to elect one Senator; and no single county shall be entitled to more than one Senator.
+contiguous territory, and each district shall be entitled to elect one Senator.  (Amended Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
 Sec. 26.  APPORTIONMENT OF MEMBERS OF HOUSE OF REPRESENTATIVES.  The
 members of the House of Representatives shall be apportioned among the several counties, according
 to the number of population in each, as nearly as may be, on a ratio obtained by dividing the population
@@ -401,9 +403,9 @@ the House is composed; provided, that whenever a single county has sufficient po
 to a Representative, such county shall be formed into a separate Representative District, and when two
 or more counties are required to make up the ratio of representation, such counties shall be contiguous
 to each other; and when any one county has more than sufficient population to be entitled to one or more
-Representatives, such Representative or Representatives shall be apportioned to such county, and for any
-surplus of population it may be joined in a Representative District with any other contiguous county or
-counties.
+Representatives, such Representative or Representatives shall be apportioned to such county, and for
+any surplus of population it may be joined in a Representative District with any other contiguous county
+or counties.
 Sec. 26a.  (Repealed Nov. 2, 1999.)
 TEMPORARY TRANSITION PROVISIONS.1
 Sec. 27.  ELECTIONS.  Elections for Senators and Representatives shall be general throughout the
@@ -411,26 +413,27 @@ State, and shall be regulated by law.
 Sec. 28.  TIME FOR APPORTIONMENT; APPORTIONMENT BY LEGISLATIVE
 REDISTRICTING BOARD.  The Legislature shall, at its first regular session after the publication of
 each United States decennial census, apportion the state into senatorial and representative districts,
-agreeable to the provisions of Sections 25, 26, and 26-a of this Article.  In the event the Legislature shall
-at any such first regular session following the publication of a United States decennial census, fail to
-make such apportionment, same shall be done by the Legislative Redistricting Board of Texas, which
-is hereby created, and shall be composed of five (5) members, as follows:  The Lieutenant Governor, the
-Speaker of the House of Representatives, the Attorney General, the  Comptroller of Public Accounts and
-the Commissioner of the General Land Office, a majority of whom shall constitute a quorum.  Said
-Board shall assemble in the City of Austin within ninety (90) days after the final adjournment of such
-regular session.  The Board shall, within sixty (60) days after assembling, apportion the state into
-senatorial and representative districts, or into senatorial or representative districts, as the failure of action
-of such Legislature may make necessary.  Such apportionment shall be in writing and signed by three
-(3) or more of the members of the Board duly acknowledged as the act and deed of such Board, and,
-when so executed and filed with the Secretary of State, shall have force and effect of law.  Such
-apportionment shall become effective at the next succeeding state-wide general election.  The Supreme
-Court of Texas shall have jurisdiction to compel such Commission to perform its duties in accordance
-with the provisions of this section by writ of mandamus or other extraordinary writs conformable to the
-usages of law.  The Legislature shall provide necessary funds for clerical and technical aid and for other
-expenses incidental to the work of the Board, and the Lieutenant Governor and the Speaker of the House
-of Representatives shall be entitled to receive per diem and travel expense during the Board's session in
-the same manner and amount as they would receive while attending a special session of the Legislature. 
-This amendment shall become effective January 1, 1951.  (Amended Nov. 2, 1948.)
+agreeable to the provisions of Sections 25 and 26 of this Article.  In the event the Legislature shall at
+any such first regular session following the publication of a United States decennial census, fail to make
+such apportionment, same shall be done by the Legislative Redistricting Board of Texas, which is hereby
+created, and shall be composed of five (5) members, as follows:  The Lieutenant Governor, the Speaker
+of the House of Representatives, the Attorney General, the  Comptroller of Public Accounts and the
+Commissioner of the General Land Office, a majority of whom shall constitute a quorum.  Said Board
+shall assemble in the City of Austin within ninety (90) days after the final adjournment of such regular
+session.  The Board shall, within sixty (60) days after assembling, apportion the state into senatorial and
+representative districts, or into senatorial or representative districts, as the failure of action of such
+Legislature may make necessary.  Such apportionment shall be in writing and signed by three (3) or
+more of the members of the Board duly acknowledged as the act and deed of such Board, and, when so
+executed and filed with the Secretary of State, shall have force and effect of law.  Such apportionment
+shall become effective at the next succeeding statewide general election.  The Supreme Court of Texas
+shall have jurisdiction to compel such Board to perform its duties in accordance with the provisions of
+this section by writ of mandamus or other extraordinary writs conformable to the usages of law.  The
+Legislature shall provide necessary funds for clerical and technical aid and for other expenses incidental
+to the work of the Board, and the Lieutenant Governor and the Speaker of the House of Representatives
+shall be entitled to receive per diem and travel expense during the Board's session in the same manner
+and amount as they would receive while attending a special session of the Legislature.  (Amended Nov.
+2, 1948, and Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
                           proceedings
 Sec. 29.  ENACTING CLAUSE OF LAWS.  The enacting clause of all laws shall be:  "Be it enacted by the
 Legislature of the State of Texas."
@@ -438,10 +441,11 @@ Sec. 30.  LAWS PASSED BY BILL; AMENDMENTS CHANGING PURPOSE.  No law shall be pas
 by bill, and no bill shall be so amended in its passage through either House, as to change its original purpose.
 Sec. 31.  ORIGINATION IN EITHER HOUSE; AMENDMENT.  Bills may originate in either
 House, and, when passed by such House, may be amended, altered or rejected by the other.
-Sec. 32.  READING ON THREE SEVERAL DAYS; SUSPENSION OF RULE.  No bill shall have the force
-of a law, until it has been read on three several days in each House, and free discussion allowed thereon;
-but four-fifths of the House, in which the bill may be pending, may suspend this rule, the yeas and nays
-being taken on the question of suspension, and entered upon the journals.  (Amended Nov. 2, 1999.)
+Sec. 32.  READING ON THREE SEVERAL DAYS; SUSPENSION OF RULE.  No bill shall have the
+force of a law, until it has been read on three several days in each House, and free discussion allowed
+thereon; but four-fifths of the House, in which the bill may be pending, may suspend this rule, the yeas
+and nays being taken on the question of suspension, and entered upon the journals.  (Amended Nov. 2,
+1999.)
 TEMPORARY TRANSITION PROVISIONS.1
 Sec. 33.  REVENUE BILLS.  All bills for raising revenue shall originate in the House of
 Representatives.  (Amended Nov. 2, 1999.)
@@ -465,8 +469,8 @@ Sec. 37.  REFERENCE TO COMMITTEE AND REPORT.  No bill shall be considered, unles
 it has been first referred to a committee and reported thereon, and no bill shall be passed which has not
 been presented and referred to and reported from a committee at least three days before the final
 adjournment of the Legislature.
-Sec. 38.  SIGNING BILLS AND JOINT RESOLUTIONS; ENTRY ON JOURNALS.   The presiding officer
-of each House shall, in the presence of the House over which he presides, sign all bills and joint
+Sec. 38.  SIGNING BILLS AND JOINT RESOLUTIONS; ENTRY ON JOURNALS.   The presiding
+officer of each House shall, in the presence of the House over which he presides, sign all bills and joint
 resolutions passed by the Legislature, after their titles have been publicly read before signing; and the
 fact of signing shall be entered on the journals.
 Sec. 39.  TIME OF TAKING EFFECT OF LAWS; EMERGENCIES; ENTRY ON JOURNAL. 
@@ -491,8 +495,8 @@ digest or revision, the Legislature shall not be limited by sections 35 and 36 o
 enactment having the purpose, declared in the enactment, of codifying without substantive change
 statutes that individually relate to different subjects.  (Subsec. (a) amended and (b) added Nov. 4, 1986.)
 Sec. 44.  COMPENSATION OF PUBLIC OFFICERS, SERVANTS, AGENTS, AND CONTRACTORS;
-EXTRA COMPENSATION; UNAUTHORIZED CLAIMS; UNAUTHORIZED EMPLOYMENT.  The
-Legislature shall provide by law for the compensation of all officers, servants, agents and public
+EXTRA COMPENSATION; UNAUTHORIZED CLAIMS; UNAUTHORIZED EMPLOYMENT. 
+The Legislature shall provide by law for the compensation of all officers, servants, agents and public
 contractors, not provided for in this Constitution, but shall not grant extra compensation to any officer,
 agent, servant, or public contractors, after such public service shall have been performed or contract
 entered into, for the performance of the same; nor grant, by appropriation or otherwise, any amount of
@@ -500,23 +504,35 @@ money out of the Treasury of the State, to any individual, on a claim, real or p
 been provided for by pre-existing law; nor employ any one in the name of the State, unless authorized
 by pre-existing law.
 Sec. 45.  CHANGE OF VENUE IN CIVIL AND CRIMINAL CASES.  The power to change the
-venue in civil and criminal cases shall be vested in the courts, to be exercised in such manner as shall be
-provided by law; and the Legislature shall pass laws for that purpose.
-Sec. 46.  (Repealed Aug. 5, 1969.)
+venue in civil and criminal cases shall be vested in the courts, to be exercised in such manner as shall
+be provided by law; and the Legislature shall pass laws for that purpose.
+Sec. 46.  UNIFORMITY IN COLLECTION OF FEES.  (a)  In this section, "fee" means a fee in
+a criminal or civil matter all or a portion of which is required to be collected by local officers, clerks,
+or other local personnel and remitted to the comptroller of public accounts for deposit in the manner
+provided for in the law imposing the fee.
+(b)  This section applies only if the legislature enacts by law a program to consolidate and
+standardize the collection, deposit, reporting, and remitting of fees.
+(c)  A fee imposed by the legislature after the enactment of the program described by Subsection
+(b) of this section is valid only if the requirements relating to its collection, deposit, reporting, and
+remitting conform to the program.
+(d)  A fee to which this section applies may take effect on a date before the next January 1 after the
+regular session at which the bill adopting the fee was enacted only if the bill is passed by a record vote
+of two-thirds of all the members elected to each house of the legislature on final consideration in each
+house.  (Added Nov. 6, 2001.)
 Sec. 47.  LOTTERIES AND GIFT ENTERPRISES; BINGO GAMES.  (a) The Legislature shall
-pass laws prohibiting lotteries and gift enterprises in this State other than those authorized by Subsections
-(b), (d), and (e) of this section.
+pass laws prohibiting lotteries and gift enterprises in this State other than those authorized by
+Subsections (b), (d), and (e) of this section.
 (b)  The Legislature by law may authorize and regulate bingo games conducted by a church,
 synagogue, religious society, volunteer fire department, nonprofit veterans organization, fraternal
 organization, or nonprofit organization supporting medical research or treatment programs.  A law
 enacted under this subsection must permit the qualified voters of any county, justice precinct, or
-incorporated city or town to determine from time to time by a majority vote of the qualified voters voting
-on the question at an election whether bingo games may be held in the county, justice precinct, or city
-or town.  The law must also require that:
+incorporated city or town to determine from time to time by a majority vote of the qualified voters
+voting on the question at an election whether bingo games may be held in the county, justice precinct,
+or city or town.  The law must also require that:
 (1)  all proceeds from the games are spent in Texas for charitable purposes of the organizations;
 (2)  the games are limited to one location as defined by law on property owned or leased by the
-church, synagogue, religious society, volunteer fire department, nonprofit veterans organization, fraternal
-organization, or nonprofit organization supporting medical research or treatment programs; and
+church, synagogue, religious society, volunteer fire department, nonprofit veterans organization,
+fraternal organization, or nonprofit organization supporting medical research or treatment programs; and
 (3)  the games are conducted, promoted, and administered by members of the church, synagogue,
 religious society, volunteer fire department, nonprofit veterans organization, fraternal organization, or
 nonprofit organization supporting medical research or treatment programs.
@@ -543,9 +559,10 @@ Sec. 48a.  (Repealed April 22, 1975.)
 Sec. 48b.  (Repealed April 22, 1975.)
 Sec. 48c.  (Blank.)
 Sec. 48-d.  RURAL FIRE PREVENTION DISTRICTS.  (a) The Legislature shall have the power
-to provide for the establishment and creation of rural fire prevention districts and, except as provided by
-Subsection (b) of this section, to authorize a tax on the ad valorem property situated in said districts not
-to exceed Three (3›) Cents  on  the  One  Hundred  ($100.00)  Dollars  valuation for the support thereof.
+to provide for the establishment and creation of rural fire prevention districts and, except as provided
+by Subsection (b) of this section, to authorize a tax on the ad valorem property situated in said districts
+not to exceed Three (3›) Cents  on  the  One  Hundred  ($100.00)  Dollars  valuation for the support
+thereof.
 (b)  The Legislature shall have the power to authorize a tax on the ad valorem property situated in
 a rural fire prevention district located in whole or part in Harris County not to exceed Five (5›) Cents
 on the One Hundred ($100.00) Dollars valuation for the support of the district.
@@ -577,17 +594,18 @@ hundred thousand dollars;
 (b)  The legislature, by joint resolution approved by at least two-thirds of the members of each
 house, may from time to time call an election and submit to the eligible voters of this State one or more
 propositions that, if approved by a majority of those voting on the question, authorize the legislature to
-create State debt for the purposes and subject to the limitations stated in the applicable proposition.  Each
-election and proposition must conform to the requirements of Subsections (c) and (d) of this section.
+create State debt for the purposes and subject to the limitations stated in the applicable proposition. 
+Each election and proposition must conform to the requirements of Subsections (c) and (d) of this
+section.
 (c)  The legislature may call an election during any regular session of the legislature or during any
 special session of the legislature in which the subject of the election is designated in the governor's
 proclamation for that special session.  The election may be held on any date, and notice of the election
 shall be given for the period and in the manner required for amending this constitution.  The election
 shall be held in each county in the manner provided by law for other statewide elections.
 (d)  A proposition must clearly describe the amount and purpose for which debt is to be created and
-must describe the source of payment for the debt.  Except as provided by law under Subsection (f) of this
-section, the amount of debt stated in the proposition may not be exceeded and may not be renewed after
-the debt has been created unless the right to exceed or renew is stated in the proposition.
+must describe the source of payment for the debt.  Except as provided by law under Subsection (f) of
+this section, the amount of debt stated in the proposition may not be exceeded and may not be renewed
+after the debt has been created unless the right to exceed or renew is stated in the proposition.
 (e)  The legislature may enact all laws necessary or appropriate to implement the authority granted
 by a proposition that is approved as provided by Subsection (b) of this section.  A law enacted in
 anticipation of the election is valid if, by its terms, it is subject to the approval of the related proposition.
@@ -616,48 +634,49 @@ appropriated is within the amount estimated to be available in the affected fund
 finds an appropriation bill exceeds the estimated revenue he shall endorse such finding thereon and
 return to the House in which same originated.  Such information shall be immediately made known to
 both the House of Representatives and the Senate and the necessary steps shall be taken to bring such
-appropriation to within the revenue, either by providing additional revenue or reducing the appropriation. 
-(Added Nov. 3, 1942; amended Nov. 2, 1999.)
+appropriation to within the revenue, either by providing additional revenue or reducing the
+appropriation.  (Added Nov. 3, 1942; amended Nov. 2, 1999.)
 TEMPORARY TRANSITION PROVISIONS.1
-Sec. 49-b.  VETERANS' LAND BOARD; BOND ISSUE; VETERANS' LAND FUND;
-PURCHASE OF LANDS AND RESALE TO TEXAS VETERANS; VETERANS' HOUSING
-ASSISTANCE FUND; VETERANS' HOUSING ASSISTANCE FUND II.  (a) The Veterans' Land
-Board shall be composed of the Commissioner of the General Land Office and two (2) citizens of the
-State of Texas, one (1) of whom shall be well versed in veterans' affairs and one (1) of whom shall be
-well versed in finances.  One (1) such citizen member shall, with the advice and consent of the Senate,
-be appointed biennially by the Governor to serve for a term of four (4) years.  In the event of the
-resignation or death of any such citizen member, the Governor shall appoint a replacement to serve for
-the unexpired portion of the term to which the deceased or resigning member had been appointed.  The
-compensation for said citizen members shall be as is now or may hereafter be fixed by the Legislature;
-and each shall make bond in such amount as is now or may hereafter be prescribed by the Legislature.
-(b)  The Commissioner of the General Land Office shall act as Chairman of said Board and shall be
-the administrator of the Veterans' Land Program under such terms and restrictions as are now or may
+Sec. 49-b.  VETERANS' LAND BOARD; BOND ISSUES; VETERANS' LAND FUND; 
+VETERANS' HOUSING ASSISTANCE FUND; VETERANS' HOUSING ASSISTANCE FUND
+II.  (a) The Veterans' Land Board shall be composed of the Commissioner of the General Land Office
+and two (2) citizens of the State of Texas, one (1) of whom shall be well versed in veterans' affairs and
+one (1) of whom shall be well versed in finances.  One (1) such citizen member shall, with the advice
+and consent of the Senate, be appointed biennially by the Governor to serve for a term of four (4) years. 
+In the event of the resignation or death of any such citizen member, the Governor shall appoint a
+replacement to serve for the unexpired portion of the term to which the deceased or resigning member
+had been appointed.  The compensation for said citizen members shall be as is now or may hereafter be
+fixed by the Legislature; and each shall make bond in such amount as is now or may hereafter be
+prescribed by the Legislature.
+(b)  The Commissioner of the General Land Office shall act as Chairman of said Board and shall
+be the administrator of the Veterans' Land Program under such terms and restrictions as are now or may
 hereafter be provided by law.  In the absence or illness of said Commissioner, the Chief Clerk of the
 General Land Office shall be the Acting Chairman of said Board with the same duties and powers that
 said Commissioner would have if present.
 (c)  The Veterans' Land Board may provide for, issue and sell bonds or obligations of the State of
-Texas as authorized by constitutional amendment or by a debt proposition under Section 49 of this article
-for the purpose of creating the Veterans' Land Fund, the Veterans' Housing Assistance Fund, and the
-Veterans' Housing Assistance Fund II.
+Texas as authorized by constitutional amendment or by a debt proposition under Section 49 of this
+article for the purpose of creating the Veterans' Land Fund, the Veterans' Housing Assistance Fund, and
+the Veterans' Housing Assistance Fund II.
 (d)  Said Veterans' Land Fund, to the extent of the moneys attributable to any bonds hereafter issued
 and sold by said Board may be used by said Board, as is now or may hereafter be provided by law, for
-the purpose of paying the expenses of surveying, monumenting, road construction, legal fees, recordation
-fees, advertising and other like costs necessary or incidental to the purchase and sale, or resale, of any
-lands purchased with any of the moneys attributable to such additional bonds, such expenses to be added
-to the price of such lands when sold, or resold, by said Board; for the purpose of paying the expenses of
-issuing, selling, and delivering any such additional bonds; and for the purpose of meeting the expenses
-of paying the interest or principal due or to become due on any such additional bonds.
+the purpose of paying the expenses of surveying, monumenting, road construction, legal fees,
+recordation fees, advertising and other like costs necessary or incidental to the purchase and sale, or
+resale, of any lands purchased with any of the moneys attributable to such additional bonds, such
+expenses to be added to the price of such lands when sold, or resold, by said Board; for the purpose of
+paying the expenses of issuing, selling, and delivering any such additional bonds; and for the purpose
+of meeting the expenses of paying the interest or principal due or to become due on any such additional
+bonds.
 (e)  For purposes of this section, "veteran" means a person who satisfies the definition of "veteran"
 as set forth by the laws of the State of Texas.
-(f)  The Veterans' Housing Assistance Fund shall be administered by the Veterans' Land Board  and
-shall be used for the purpose of making home mortgage loans to veterans for housing within the State
-of Texas in such quantities, on such terms, at such rates of interest, and under such rules and regulations
-as may be authorized by law.  The expenses of the board in connection with the issuance of the bonds
-for the benefit of the Veterans' Housing Assistance Fund and the making of the loans may be paid from
-money in the fund.  The principal of and interest on the general obligation bonds authorized by this
-section for the benefit of the Veterans' Housing Assistance Fund shall be paid out of the money of the
-fund, but the money of the fund which is not immediately committed to the payment of principal and
-interest on such bonds, the making of home mortgage loans as herein provided, or the payment of
+(f)  The Veterans' Housing Assistance Fund shall be administered by the Veterans' Land Board 
+and shall be used for the purpose of making home mortgage loans to veterans for housing within the
+State of Texas in such quantities, on such terms, at such rates of interest, and under such rules and
+regulations as may be authorized by law.  The expenses of the board in connection with the issuance of
+the bonds for the benefit of the Veterans' Housing Assistance Fund and the making of the loans may be
+paid from money in the fund.  The principal of and interest on the general obligation bonds authorized
+by this section for the benefit of the Veterans' Housing Assistance Fund shall be paid out of the money
+of the fund, but the money of the fund which is not immediately committed to the payment of principal
+and interest on such bonds, the making of home mortgage loans as herein provided, or the payment of
 expenses as herein provided may be invested as authorized by law until the money is needed for such
 purposes.
 (g)  The Veterans' Land Fund shall be used by the Veterans' Land Board to purchase lands situated
@@ -668,14 +687,14 @@ a governmental purpose, but the individual purchasers of those lands shall be su
 same extent and in the same manner as are purchasers of lands dedicated to the Permanent Free Public
 School Fund.  The lands shall be sold to veterans in quantities, on terms, at prices, and at fixed, variable,
 floating, or other rates of interest, determined by the Board and in accordance with rules of the Board. 
-Notwithstanding any provisions of this section to the contrary, lands in the Veterans' Land Fund that are
-offered for sale to veterans and that are not sold may be sold or resold to the purchasers in quantities, on
-terms, at prices, and at rates of interest determined by the Board and in accordance with rules of the
+Notwithstanding any provisions of this section to the contrary, lands in the Veterans' Land Fund that
+are offered for sale to veterans and that are not sold may be sold or resold to the purchasers in quantities,
+on terms, at prices, and at rates of interest determined by the Board and in accordance with rules of the
 Board.
 (i)  The expenses of the Board in connection with the issuance of the bonds for the benefit of the
 Veterans' Land Fund and the purchase and sale of the lands may be paid from money in the Veterans' Land Fund.
 (j)  The Veterans' Land Fund shall consist of:
-         (1)     lands heretofore or hereafter purchased by the Board;
+(1)  lands heretofore or hereafter purchased by the Board;
          (2)     money attributable to bonds heretofore or hereafter issued and sold by the Board for the fund,
 including proceeds from the issuance and sale of the bonds;
          (3)     money received from the sale or resale of lands or rights in lands purchased from those
@@ -717,15 +736,15 @@ including the proceeds from the issuance and sale of bonds;
 (4)  income, rents, and other pecuniary benefits received by the Board as a result of making loans;
 (5)  money received by way of indemnity or forfeiture for the failure of a bidder for the purchase
 of bonds to comply with the bid and accept and pay for the bonds;
-(6)  payments received by the Board under a bond enhancement agreement with respect to the bonds;
-and
+(6)  payments received by the Board under a bond enhancement agreement with respect to the
+bonds; and
 (7)  interest received from investments of money.
 (n)  The principal of and interest on the general obligation bonds for the benefit of the Veterans'
 Housing Assistance Fund II, including payments by the Board under a bond enhancement agreement
 with respect to principal of or interest on the bonds, shall be paid out of the money of the Veterans'
-Housing Assistance Fund II, but the money in the fund that is not immediately committed to the payment
-of principal and interest on the bonds, the making of home mortgage loans, or the payment of expenses
-may be invested as authorized by law until the money is needed for those purposes.
+Housing Assistance Fund II, but the money in the fund that is not immediately committed to the
+payment of principal and interest on the bonds, the making of home mortgage loans, or the payment of
+expenses may be invested as authorized by law until the money is needed for those purposes.
 (o)  The Veterans' Housing Assistance Fund shall consist of:
 (1)  the Board's interest in home mortgage loans the Board makes to veterans from money in the
 fund under the Veterans' Housing Assistance Program established by law;
@@ -736,21 +755,21 @@ including proceeds from the issuance and sale of bonds;
 (4)  income, rents, and other pecuniary benefits received by the Board as a result of making loans;
 (5)  money received by way of indemnity or forfeiture for the failure of a bidder for the purchase
 of bonds to comply with the bid and accept and pay for the bonds;
-(6)  payments received by the Board under a bond enhancement agreement with respect to the bonds;
-and
+(6)  payments received by the Board under a bond enhancement agreement with respect to the
+bonds; and
 (7)  interest received from investments of money.
 (p)  The principal of and interest on the general obligation bonds for the benefit of the Veterans'
 Housing Assistance Fund, including payments by the Board under a bond enhancement agreement with
 respect to principal of or interest on the bonds, shall be paid out of money in the Veterans' Housing
 Assistance Fund.
 (q)  If there is not enough money in the Veterans' Land Fund, the Veterans' Housing Assistance
-Fund, or the Veterans' Housing Assistance Fund II, as the case may be, available to pay the principal of
-and interest on the general obligation bonds benefiting those funds, including money to make payments
-by the Board under a bond enhancement agreement with respect to principal of or interest on the bonds,
-there is appropriated out of the first money coming into the treasury in each fiscal year, not otherwise
-appropriated by this constitution, an amount that is sufficient to pay the principal of and interest on the
-general obligation bonds that mature or become due during that fiscal year or to make bond enhancement
-payments with respect to those bonds.
+Fund, or the Veterans' Housing Assistance Fund II, as the case may be, available to pay the principal
+of and interest on the general obligation bonds benefiting those funds, including money to make
+payments by the Board under a bond enhancement agreement with respect to principal of or interest on
+the bonds, there is appropriated out of the first money coming into the treasury in each fiscal year, not
+otherwise appropriated by this constitution, an amount that is sufficient to pay the principal of and
+interest on the general obligation bonds that mature or become due during that fiscal year or to make
+bond enhancement payments with respect to those bonds.
 (r)  Receipts of all kinds of the Veterans' Land Fund, the Veterans' Housing Assistance Fund, or
 the Veterans' Housing Assistance Fund II that the Board determines are not required for the payment
 of principal of and interest on the general obligation bonds benefiting those funds, including payments
@@ -758,15 +777,17 @@ by the Board under a bond enhancement agreement with respect to principal of or 
 may be used by the Board, to the extent not inconsistent with the proceedings authorizing the bonds to:
 (1)  make temporary transfers to another of those funds to avoid a temporary cash deficiency in that
 fund or make a transfer to another of those funds for the purposes of that fund;
-(2)  pay the principal of and interest on general obligation bonds issued to provide money for another
-of those funds or make bond enhancement payments with respect to the bonds; or
+(2)  pay the principal of and interest on general obligation bonds issued to provide money for
+another of those funds or make bond enhancement payments with respect to the bonds; or
 (3)  pay the principal of and interest on revenue bonds of the Board or make bond enhancement
 payments with respect to the bonds if the bonds are issued to provide funds to purchase lands and sell
 lands to veterans or make home mortgage loans to veterans.
 (s)  If the Board determines that assets from the Veterans' Land Fund, the Veterans' Housing
 Assistance Fund, or the Veterans' Housing Assistance Fund II are not required for the purposes of the
-fund, the Board may transfer the assets to another of those funds or use the assets to secure revenue
-bonds issued by the Board under this section.
+fund, the Board may:
+(1)  transfer the assets to another of those funds;
+(2)  use the assets to secure revenue bonds issued by the Board; or
+(3)  use the assets to plan and design, operate, maintain, enlarge, or improve veterans cemeteries.
 (t)  The revenue bonds shall be special obligations of the Board and payable only from and secured
 only by receipts of the funds, assets transferred from the funds, and other revenues and assets as
 determined by the Board and shall not constitute indebtedness of the state or the Veterans' Land Board. 
@@ -776,25 +797,35 @@ transferred from the funds, and the other revenues and assets pledged to the ret
 bonds.  Notwithstanding the rate of interest specified by any other provision of this constitution, revenue
 bonds shall bear a rate or rates of interest the Board determines.  A determination made by the Board
 under this subsection shall be binding and conclusive as to the matter determined.
-(u)  The bonds authorized to be issued and sold by the Veterans' Land Board shall be issued and sold
-in forms and denominations, on terms, at times, in the manner, at places, and in installments the Board
-determines.  The bonds shall bear a rate or rates of interest the Board determines.  The bonds shall be
-incontestable after execution by the Board, approval by the Attorney General of Texas, and delivery to
-the purchaser or purchasers of the bonds.
+(u)  The bonds authorized to be issued and sold by the Veterans' Land Board shall be issued and
+sold in forms and denominations, on terms, at times, in the manner, at places, and in installments the
+Board determines.  The bonds shall bear a rate or rates of interest the Board determines.  The bonds shall
+be incontestable after execution by the Board, approval by the Attorney General of Texas, and delivery
+to the purchaser or purchasers of the bonds.
 (v)  This Amendment being intended only to establish a basic framework and not to be a
-comprehensive treatment of the Veterans' Housing Assistance Program and the Veterans' Land Program,
-there is hereby reposed in the Legislature full power to implement and effectuate the design and objects
-of this Amendment, including the power to delegate such duties, responsibilities, functions, and authority
-to the Veterans' Land Board as it believes necessary.  (Added Nov. 7, 1946, amended Nov. 13, 1951,
-Nov. 6, 1956, Nov. 8, 1960, Nov. 6, 1962, Nov. 11, 1967, Nov. 6, 1973, Nov. 8, 1977, Nov. 3, 1981,
-Nov. 5, 1985, and Nov. 5, 1991; Secs. 49-b, 49-b-1, 49-b-2, and 49-b-3 combined, reenacted as Sec. 49-b
-and amended Nov. 2, 1999.)
+comprehensive treatment of the Veterans' Housing Assistance Program and the Veterans' Land
+Program, there is hereby reposed in the Legislature full power to implement and effectuate the design
+and objects of this Amendment, including the power to delegate such duties, responsibilities, functions,
+and authority to the Veterans' Land Board as it believes necessary.
+(w)  In addition to the general obligation bonds authorized to be issued and to be sold by the
+Veterans' Land Board by previous constitutional amendments, the Veterans' Land Board may provide
+for, issue, and sell general obligation bonds of the state to provide home mortgage loans to veterans of
+the state.  The principal amount of outstanding bonds authorized by this subsection may not at any one
+time exceed $500 million.  The bond proceeds shall be deposited in or used to benefit and augment the
+Veterans' Housing Assistance Fund II and shall be administered and invested as provided by law. 
+Payments of principal and interest on the bonds, including payments made under a bond enhancement
+agreement with respect to principal of or interest on the bonds, shall be made from the sources and in
+the manner provided by this section for general obligation bonds issued for the benefit of the Veterans'
+Housing Assistance Fund II. (Added Nov. 7, 1946, amended Nov. 13, 1951, Nov. 6, 1956, Nov. 8, 1960,
+Nov. 6, 1962, Nov. 11, 1967, Nov. 6, 1973, Nov. 8, 1977, Nov. 3, 1981, Nov. 5, 1985, and Nov. 5, 1991;
+Secs. 49-b, 49-b-1, 49-b-2, and 49-b-3 combined, reenacted as Sec. 49-b and amended Nov. 2, 1999;
+Subsec. (s) amended and (w) added Nov. 6, 2001.)
 TEMPORARY TRANSITION PROVISIONS.1
 Sec. 49-c.  TEXAS WATER DEVELOPMENT BOARD; BOND ISSUE; TEXAS WATER
 DEVELOPMENT FUND.  (a)  The Texas Water Development Board, an agency of the State of Texas,
 shall exercise such powers as necessary under this provision together with such other duties and
-restrictions as may be prescribed by law.  The qualifications, compensation, and number of members of
-said Board shall be determined by law.  They shall be appointed by the Governor with the advice and
+restrictions as may be prescribed by law.  The qualifications, compensation, and number of members
+of said Board shall be determined by law.  They shall be appointed by the Governor with the advice and
 consent of the Senate in the manner and for such terms as may be prescribed by law.
 (b)  The Texas Water Development Board shall have the authority to provide for, issue and sell
 general obligation bonds of the State of Texas as authorized by constitutional amendment or by a debt
@@ -830,9 +861,9 @@ the Texas Water Development Board.  Income from such investment shall be used fo
 prescribed by the Legislature.  The Legislature may also make appropriations from the General Revenue
 Fund for paying administrative expenses of the Board.
 (h)  From the moneys received by the Texas Water Development Board as repayment of principal
-for financial assistance or as interest thereon, there shall be deposited in the interest and sinking fund for
-the bonds sufficient moneys to pay the interest and principal to become due during the ensuing year and
-sufficient to establish and maintain a reserve in said fund equal to the average annual principal and
+for financial assistance or as interest thereon, there shall be deposited in the interest and sinking fund
+for the bonds sufficient moneys to pay the interest and principal to become due during the ensuing year
+and sufficient to establish and maintain a reserve in said fund equal to the average annual principal and
 interest requirements on all outstanding bonds.  If any year moneys are received in excess of the
 foregoing requirements then such excess shall be deposited to the Texas Water Development Fund, and
 may be used for administrative expenses of the Board and for the same purposes and upon the same
@@ -849,23 +880,23 @@ optimum development of the limited number of feasible sites available for the co
 enlargement of dams and reservoirs for conservation of the public waters of the state, which waters are
 held in trust for the use and benefit of the public, and to encourage the optimum regional development
 of systems built for the filtration, treatment, and transmission of water and wastewater.  The proceeds
-from the sale of bonds deposited in the Texas Water Development Fund may be used by the Texas Water
-Development Board, under such provisions as the Legislature may prescribe by General Law, including
-the requirement of a permit for storage or beneficial use, for the additional purposes of acquiring and
-developing storage facilities, and any system or works necessary for the filtration, treatment and
-transportation of water or waste water, or for any one or more of such purposes or methods, whether or
-not such a system or works is connected with a reservoir in which the state has a financial interest;
-provided, however, the Texas Water Development Fund or any other state fund provided for water
-development, transmission, transfer or filtration shall not be used to finance any project which
-contemplates or results in the removal from the basin of origin of any surface water necessary to supply
-the reasonably foreseeable future water requirements for the next ensuing fifty-year period within the
-river basin of origin, except on a temporary, interim basis.
+from the sale of bonds deposited in the Texas Water Development Fund may be used by the Texas
+Water Development Board, under such provisions as the Legislature may prescribe by General Law,
+including the requirement of a permit for storage or beneficial use, for the additional purposes of
+acquiring and developing storage facilities, and any system or works necessary for the filtration,
+treatment and transportation of water or waste water, or for any one or more of such purposes or
+methods, whether or not such a system or works is connected with a reservoir in which the state has a
+financial interest; provided, however, the Texas Water Development Fund or any other state fund
+provided for water development, transmission, transfer or filtration shall not be used to finance any
+project which contemplates or results in the removal from the basin of origin of any surface water
+necessary to supply the reasonably foreseeable future water requirements for the next ensuing fifty-year
+period within the river basin of origin, except on a temporary, interim basis.
 (b)  Under such provisions as the Legislature may prescribe by General Law the Texas Water
 Development Fund may be used for the conservation and development of water for useful purposes by
 construction or reconstruction or enlargement of reservoirs constructed or to be constructed or enlarged
 within the State of Texas or on any stream constituting a boundary of the State of Texas, together with
-any system or works necessary for the filtration, treatment and/or transportation of water, by any one or
-more of the following governmental agencies:  by the United States of America or any agency,
+any system or works necessary for the filtration, treatment and/or transportation of water, by any one
+or more of the following governmental agencies:  by the United States of America or any agency,
 department or instrumentality thereof; by the State of Texas or any agency, department or
 instrumentality thereof; by political subdivisions or bodies politic and corporate of the state; by interstate
 compact commissions to which the State of Texas is a party; and by municipal corporations.  The
@@ -881,37 +912,37 @@ Section 49-c of this article, and the provisions of Section 49-c of this article
 principal and interest on state bonds issued shall likewise apply with respect to payment of principal and
 interest required to be paid by such contracts.  If storage facilities are acquired for a term of years, such
 contracts shall contain provisions for renewal that will protect the state's investment.
-(d)  The Legislature shall provide terms and conditions for the Texas Water Development Board to
-sell, transfer or lease, in whole or in part, any acquired facilities or the right to use such facilities at a
-price not less than the direct cost of the Board in acquiring same; and the Legislature may provide terms
-and conditions for the Board to sell any unappropriated public waters of the state that might be stored
-in such facilities.  As a prerequisite to the purchase of such storage or water, the applicant therefor shall
-have secured a valid permit from the state authorizing the acquisition of such storage facilities or the
-water impounded therein.  The money received from any sale, transfer or lease of facilities shall be used
-to pay principal and interest on state bonds issued or contractual obligations incurred by the Texas Water
-Development Board, provided that when moneys are sufficient to pay the full amount of indebtedness
-then outstanding and the full amount of interest to accrue thereon, any further sums received from the
-sale, transfer or lease of such facilities shall be deposited and used as provided by law.  Money received
-from the sale of water, which shall include standby service, may be used for the operation and
-maintenance of acquired facilities, and for the payment of principal and interest on debt incurred. 
-(Added Nov. 6, 1962; amended Nov. 8, 1966, Nov. 5, 1985, and Nov. 2, 1999.)
+(d)  The Legislature shall provide terms and conditions for the Texas Water Development Board
+to sell, transfer or lease, in whole or in part, any acquired facilities or the right to use such facilities at
+a price not less than the direct cost of the Board in acquiring same; and the Legislature may provide
+terms and conditions for the Board to sell any unappropriated public waters of the state that might be
+stored in such facilities.  As a prerequisite to the purchase of such storage or water, the applicant therefor
+shall have secured a valid permit from the state authorizing the acquisition of such storage facilities or
+the water impounded therein.  The money received from any sale, transfer or lease of facilities shall be
+used to pay principal and interest on state bonds issued or contractual obligations incurred by the Texas
+Water Development Board, provided that when moneys are sufficient to pay the full amount of
+indebtedness then outstanding and the full amount of interest to accrue thereon, any further sums
+received from the sale, transfer or lease of such facilities shall be deposited and used as provided by law. 
+Money received from the sale of water, which shall include standby service, may be used for the
+operation and maintenance of acquired facilities, and for the payment of principal and interest on debt
+incurred.  (Added Nov. 6, 1962; amended Nov. 8, 1966, Nov. 5, 1985, and Nov. 2, 1999.)
 TEMPORARY TRANSITION PROVISIONS.1
 Sec. 49-d-1.  ADDITIONAL TEXAS WATER DEVELOPMENT BONDS.  (a)  The Texas Water
 Development Board may issue Texas Water Development Bonds as authorized by constitutional
 amendment or by a debt proposition under Section 49 of this article to provide grants, loans, or any
 combination of grants and loans for water quality enhancement purposes as established by the
 Legislature to political subdivisions or bodies politic and corporate of the State of Texas, including
-municipal corporations, river authorities, conservation and reclamation districts, and districts created or
-organized or authorized to be created or organized under Article XVI, Section 59, or Article III, Section
-52, of this Constitution, State agencies, and interstate agencies and compact commissions to which the
-State of Texas is a party, and upon such terms and conditions as the Legislature may authorize by general
-law.  The bonds shall be issued for such terms, in such denominations, form and installments, and upon
-such conditions as the Legislature may authorize.
+municipal corporations, river authorities, conservation and reclamation districts, and districts created
+or organized or authorized to be created or organized under Article XVI, Section 59, or Article III,
+Section 52, of this Constitution, State agencies, and interstate agencies and compact commissions to
+which the State of Texas is a party, and upon such terms and conditions as the Legislature may authorize
+by general law.  The bonds shall be issued for such terms, in such denominations, form and installments,
+and upon such conditions as the Legislature may authorize.
 (b)  The Texas Water Development Fund shall be used for the purposes heretofore permitted by, and
-subject to the limitations in this Section and Sections 49-c and 49-d; provided, however, that the financial
-assistance may be made subject only to the availability of funds.  (Added May 18, 1971; Subsec. (a)
-amended Nov. 2, 1976; Subsec. (a) amended, Subsecs. (b) and (c) deleted, Subsec. (d) amended and
-redesignated Subsec. (b), and Subsecs. (e) and (f) deleted Nov. 2, 1999.)
+subject to the limitations in this Section and Sections 49-c and 49-d; provided, however, that the
+financial assistance may be made subject only to the availability of funds.  (Added May 18, 1971;
+Subsec. (a) amended Nov. 2, 1976; Subsec. (a) amended, Subsecs. (b) and (c) deleted, Subsec. (d)
+amended and redesignated Subsec. (b), and Subsecs. (e) and (f) deleted Nov. 2, 1999.)
 TEMPORARY TRANSITION PROVISIONS.1
 Sec. 49-d-2.  ADDITIONAL BONDING AUTHORITY OF TEXAS WATER DEVELOPMENT
 BOARD; DEDICATED USE OF SOME PROCEEDS.  The Texas Water Development Board may
@@ -924,9 +955,9 @@ PROJECTS.  (a)  The legislature by law may create one or more special funds in t
 use for or in aid of water conservation, water development, water quality enhancement, flood control,
 drainage, subsidence control, recharge, chloride control, agricultural soil and water conservation,
 desalinization or any combination of those purposes, may make money in a special fund available to
-cities, counties, special governmental districts and authorities, and other political subdivisions of the state
-for use for the purposes for which the fund was created by grants, loans, or any other means, and may
-appropriate money to any of the special funds to carry out the purposes of this section.
+cities, counties, special governmental districts and authorities, and other political subdivisions of the
+state for use for the purposes for which the fund was created by grants, loans, or any other means, and
+may appropriate money to any of the special funds to carry out the purposes of this section.
 (b)  Money deposited in a special fund created under this section may not be used to finance or aid
 any project that contemplates or results in the removal from the basin of origin of any surface water
 necessary to supply the reasonably foreseeable water requirements for the next ensuing 50-year period
@@ -936,13 +967,13 @@ other programs authorized by this constitution, the legislature by law may provi
 administration, and implementation of a bond insurance program to which the state pledges its general
 credit in an amount not to exceed $250 million to insure the payment in whole or in part of the principal
 of and interest on bonds or other obligations that are issued by cities, counties, special governmental districts
-and authorities, and other political subdivisions of the state as defined by law for use for or in aid of water conservation,
-water development, water quality enhancement, flood control, drainage, recharge, chloride control, desalinization,
-or any combination of those purposes.
-(b)  The legislature by law shall designate the state agency to administer the bond insurance program and may
-authorize that agency to execute insurance contracts that bind the state to pay the principal of and interest on the bonds if
-the bonds are in default or the bonds are subject to impending default, subject to the limits provided by
-this section and by law.
+and authorities, and other political subdivisions of the state as defined by law for use for or in aid of water conservation, water
+development, water quality enhancement, flood control, drainage, recharge, chloride control, desalinization, or any
+combination of those purposes.
+(b)  The legislature by law shall designate the state agency to administer the bond insurance program and may authorize
+that agency to execute insurance contracts that bind the state to pay the principal of and interest on the bonds if the bonds
+are in default or the bonds are subject to impending default, subject to the limits provided by this section
+and by law.
 (c)  The payment by the state of any insurance commitment made under this section must be made
 from the first money coming into the state treasury that is not otherwise dedicated by this constitution.
 (d)  Notwithstanding the total amount of bonds insured under this section, the total amount paid and
@@ -974,48 +1005,49 @@ of the executive, legislative, and judicial departments of state government.  (A
 Subsecs. (a), (c), and (d) deleted and Subsec. (b) amended Nov. 2, 1999.)
 TEMPORARY TRANSITION PROVISIONS.1
 Sec. 49-d-7.  ADDITIONAL TEXAS WATER DEVELOPMENT BONDS; USE OF BONDS
-AND PROCEEDS; REVIEW AND APPROVAL.  (a)  The Texas Water Development Board may use
-the proceeds of Texas water development bonds issued for the purposes provided by Section 49-c of this
-article for the additional purpose of providing financial assistance, on terms and conditions provided by
-law, to various political subdivisions and bodies politic and corporate of the state and to nonprofit water
-supply corporations to provide for acquisition, improvement, extension, or construction of water supply
-projects that involve the distribution of water to points of delivery to wholesale or retail customers.
+AND PROCEEDS; REVIEW AND APPROVAL.  (a)  The Texas Water Development Board may
+use the proceeds of Texas water development bonds issued for the purposes provided by Section 49-c
+of this article for the additional purpose of providing financial assistance, on terms and conditions
+provided by law, to various political subdivisions and bodies politic and corporate of the state and to
+nonprofit water supply corporations to provide for acquisition, improvement, extension, or construction
+of water supply projects that involve the distribution of water to points of delivery to wholesale or retail
+customers.
 (b)  The legislature may provide by law for subsidized loans and grants from the proceeds of Texas
-water development bonds to provide wholesale and retail water and wastewater facilities to economically
-distressed areas of the state as defined by law, provided, the principal amount of bonds that may be
-issued for the purposes under this subsection may not exceed $250 million.  Separate accounts shall be
-established in the water development fund for administering the proceeds of bonds issued for purposes
-under this subsection, and an interest and sinking fund separate from and not subject to the limitations
-of the interest and sinking fund created for other Texas water development bonds is established in the
-State Treasury to be used for paying the principal of and interest on bonds for the purposes of this
-subsection.  While any of the bonds authorized for the purposes of this subsection or any of the interest
-on those bonds is outstanding and unpaid, there is appropriated out of the first money coming into the
-State Treasury in each fiscal year, not otherwise appropriated by this constitution, an amount that is
-sufficient to pay the principal of and interest on those bonds issued for the purposes under this subsection
-that mature or become due during that fiscal year.  (Added Nov. 7, 1989; Subsec. (e)  amended Nov. 5,
-1991; Subsec. (a) deleted, Subsec. (b) redesignated Subsec. (a), Subsecs. (c) and (d) deleted, Subsec. (e)
-amended and redesignated Subsec. (b), and Subsec. (f) deleted Nov. 2, 1999.)
+water development bonds to provide wholesale and retail water and wastewater facilities to
+economically distressed areas of the state as defined by law, provided, the principal amount of bonds
+that may be issued for the purposes under this subsection may not exceed $250 million.  Separate
+accounts shall be established in the water development fund for administering the proceeds of bonds
+issued for purposes under this subsection, and an interest and sinking fund separate from and not subject
+to the limitations of the interest and sinking fund created for other Texas water development bonds is
+established in the State Treasury to be used for paying the principal of and interest on bonds for the
+purposes of this subsection.  While any of the bonds authorized for the purposes of this subsection or
+any of the interest on those bonds is outstanding and unpaid, there is appropriated out of the first money
+coming into the State Treasury in each fiscal year, not otherwise appropriated by this constitution, an
+amount that is sufficient to pay the principal of and interest on those bonds issued for the purposes under
+this subsection that mature or become due during that fiscal year.  (Added Nov. 7, 1989; Subsec. (e) 
+amended Nov. 5, 1991; Subsec. (a) deleted, Subsec. (b) redesignated Subsec. (a), Subsecs. (c) and (d)
+deleted, Subsec. (e) amended and redesignated Subsec. (b), and Subsec. (f) deleted Nov. 2, 1999.)
 TEMPORARY TRANSITION PROVISIONS.1
-Sec. 49-d-8.  TEXAS WATER DEVELOPMENT FUND II.  (a)  The Texas Water Development Fund II is
-in the state treasury as a fund separate and distinct from the Texas Water Development Fund established
-under Section 49-c of this article.  Money in the Texas Water Development Fund II shall be administered
-without further appropriation by the Texas Water Development Board and shall be used for any one or
-more of the purposes currently or formerly authorized by Sections 49-c, 49-d, 49-d-1, 49-d-2, 49-d-5,
-49-d-6, and 49-d-7 of this article, as determined by the Texas Water Development Board.  Separate
-accounts shall be established in the Texas Water Development Fund II for administering proceedings
-related to the purposes described in Section 49-d of this article, the purposes described in Subsection (b)
-of Section 49-d-7 of this article, and all other authorized purposes.  The Texas Water Development
-Board is hereby authorized, at its determination, to issue general obligation bonds for one or more
-accounts of the Texas Water Development Fund II in an aggregate principal amount equal to the amount
-of bonds previously authorized pursuant to former Section 49-d-6 and Sections 49-d-2 and 49-d-7 of this
-article less the amount of bonds issued pursuant to those sections to augment the Texas Water
-Development Fund and the amount of bonds issued to augment the Texas Water Development Fund II. 
-Nothing in this section, however, shall grant to the Texas Water Development Board the authority to
-issue bonds in excess of the total amount of those previously authorized bonds or to issue bonds for
-purposes described in Subsection (b) of Section 49-d-7 of this article in excess of $250 million.  The
-expenses of the Texas Water Development Board in connection with the issuance of bonds for an account
-of the Texas Water Development Fund II and administration of such account may be paid from money
-in such account.
+Sec. 49-d-8.  TEXAS WATER DEVELOPMENT FUND II.  (a)  The Texas Water Development Fund II
+is in the state treasury as a fund separate and distinct from the Texas Water Development Fund
+established under Section 49-c of this article.  Money in the Texas Water Development Fund II shall be
+administered without further appropriation by the Texas Water Development Board and shall be used
+for any one or more of the purposes currently or formerly authorized by Sections 49-c, 49-d, 49-d-1,
+49-d-2, 49-d-5, 49-d-6, and 49-d-7 of this article, as determined by the Texas Water Development Board. 
+Separate accounts shall be established in the Texas Water Development Fund II for administering
+proceedings related to the purposes described in Section 49-d of this article, the purposes described in
+Subsection (b) of Section 49-d-7 of this article, and all other authorized purposes.  The Texas Water
+Development Board is hereby authorized, at its determination, to issue general obligation bonds for one
+or more accounts of the Texas Water Development Fund II in an aggregate principal amount equal to
+the amount of bonds previously authorized pursuant to former Section 49-d-6 and Sections 49-d-2 and
+49-d-7 of this article less the amount of bonds issued pursuant to those sections to augment the Texas
+Water Development Fund and the amount of bonds issued to augment the Texas Water Development
+Fund II.  Nothing in this section, however, shall grant to the Texas Water Development Board the
+authority to issue bonds in excess of the total amount of those previously authorized bonds or to issue
+bonds for purposes described in Subsection (b) of Section 49-d-7 of this article in excess of $250
+million.  The expenses of the Texas Water Development Board in connection with the issuance of bonds
+for an account of the Texas Water Development Fund II and administration of such account may be paid
+from money in such account.
 TEMPORARY TRANSITION PROVISIONS.1
 (b)  The Texas Water Development Board is hereby authorized, at its determination, to issue general
 obligation bonds for one or more accounts of the Texas Water Development Fund II in order to refund
@@ -1036,19 +1068,19 @@ II, as determined by the Texas Water Development Board, without the necessity of
 bonds to effect the transfer, to the extent not inconsistent with the proceedings authorizing any
 outstanding bonds issued to augment the Texas Water Development Fund.  Further, at such time as all
 bonds issued to augment the Texas Water Development Fund and all such contractual obligations have
-been paid or otherwise discharged, all money and assets in the Texas Water Development Fund shall be
-transferred to the credit of the Texas Water Development Fund II and deposited to the accounts therein,
-as determined by the Texas Water Development Board.
+been paid or otherwise discharged, all money and assets in the Texas Water Development Fund shall
+be transferred to the credit of the Texas Water Development Fund II and deposited to the accounts
+therein, as determined by the Texas Water Development Board.
 TEMPORARY TRANSITION PROVISIONS.1
 (c)  Subject to the limitations set forth in Section 49-d of this article, the legislature shall provide
 terms and conditions under which the Texas Water Development Board may sell, transfer, or lease, in
 whole or in part, facilities held for the account established within the Texas Water Development Fund
 II for administering proceedings related to the purposes described in Section 49-d of this article, and the
-legislature may provide terms and conditions under which the Texas Water Development Board may sell
-any unappropriated public waters of the state that may be stored in such facilities.  Money received from
-any sale, transfer, or lease of such facilities or water shall be credited to the account established within
-the Texas Water Development Fund II for the purpose of administering proceedings related to the
-purposes described in Section 49-d of this article.
+legislature may provide terms and conditions under which the Texas Water Development Board may
+sell any unappropriated public waters of the state that may be stored in such facilities.  Money received
+from any sale, transfer, or lease of such facilities or water shall be credited to the account established
+within the Texas Water Development Fund II for the purpose of administering proceedings related to
+the purposes described in Section 49-d of this article.
 (d)  Each account of the Texas Water Development Fund II shall consist of:
 (1)  the Texas Water Development Board's rights to receive repayment of financial assistance
 provided from such account, together with any evidence of such rights;
@@ -1087,11 +1119,23 @@ treatment of the Texas Water Development Fund II, there is hereby reposed in the
 to implement and effectuate the design and objects of this section, including the power to delegate such
 duties, responsibilities, functions, and authority to the Texas Water Development Board as it believes
 necessary.
-(h)  The Texas Water Development Fund II, including any account in that fund, may not be used to
-finance or aid any project that contemplates or results in the removal from the basin of origin of any
+(h)  The Texas Water Development Fund II, including any account in that fund, may not be used
+to finance or aid any project that contemplates or results in the removal from the basin of origin of any
 surface water necessary to supply the reasonably foreseeable future water requirements for the next
 ensuing 50-year period within the river basin of origin, except on a temporary, interim basis.  (Added
 Nov. 4, 1997; Subsecs. (a), (b), and (e) amended Nov. 2, 1999.)
+Sec. 49-d-9.  ISSUANCE OF ADDITIONAL GENERAL OBLIGATION BONDS.  (a)  The
+Texas Water Development Board may issue additional general obligation bonds, at its determination,
+for one or more accounts of the Texas Water Development Fund II, in an amount not to exceed $2
+billion.  Of the additional general obligation bonds authorized to be issued, $50 million of those bonds
+shall be used for the water infrastructure fund as provided by law.
+(b)  Section 49-d-8 of this article applies to the bonds authorized by this section.  The limitation in
+Section 49-d-8 of this article that the Texas Water Development Board may not issue bonds in excess
+of the aggregate principal amount of previously authorized bonds does not apply to the bonds authorized
+by and issued under this section.
+(c)  A limitation on the percentage of state participation in any single project imposed by this article
+does not apply to a project funded with the proceeds of bonds issued under the authority of Section 49-d-
+8 of this article or this section.  (Added Nov. 6, 2001.)
 Sec. 49-e.  TEXAS PARK DEVELOPMENT FUND.  (a)  The Parks and Wildlife Department,
 or its successor vested with the powers, duties, and authority which deals with the operation,
 maintenance, and improvement of State Parks, shall have the authority to provide for, issue and sell
@@ -1119,8 +1163,8 @@ said Parks and Wildlife Department, or its said successor, from admission charge
 Legislature may prescribe by general law.
 (e)  The Legislature may provide for the investment of moneys available in the Texas Park
 Development Fund and the interest and sinking fund established for the payment of bonds issued by said
-Parks and Wildlife Department, or its said successor.  Income from such investment shall be used for the
-purposes prescribed by the Legislature.
+Parks and Wildlife Department, or its said successor.  Income from such investment shall be used for
+the purposes prescribed by the Legislature.
 (f)  From the moneys received by said Parks and Wildlife Department, or its said successor, from
 the sale of the bonds issued hereunder, there shall be deposited in the interest and sinking fund for the
 bonds authorized by this section sufficient moneys to pay the interest to become due during the State
@@ -1157,15 +1201,17 @@ authorized by this section may be used for the purposes provided by Section 49-i
 other rural economic development programs, and the proceeds of bonds issued for those purposes under
 this subsection shall be deposited in the Texas agricultural fund, to be administered in the same manner
 that proceeds of bonds issued under Section 49-i of this article are administered.  (Subsecs. (a)-(f) added
-Nov. 5, 1985; Subsecs. (b) amended and (g) added Nov. 7, 1995.)
-Sec. 49-g.*  (Repealed Nov. 4, 1997.)
-Sec. 49-g.* ECONOMIC STABILIZATION FUND.  (a) The economic stabilization fund is
-established as a special fund in the state treasury.
+Nov. 5, 1985; Subsec. (b) amended and (g) added Nov. 7, 1995.)
+Sec. 49-g.  SUPERCONDUCTING SUPER COLLIDER FUND.  (Added by Acts 1987, 70th
+Leg., R.S., H.J.R. 88; amended Nov. 7, 1995; repealed Nov. 4, 1997.)
+Sec. 49-g. ECONOMIC STABILIZATION FUND.  (Text of section as added by Acts 1987, 70th
+Leg., R.S., H.J.R. 2.)  (a) The economic stabilization fund is established as a special fund in the state
+treasury.
 (b)  The comptroller shall, not later than the 90th day of each biennium, transfer to the economic
-stabilization fund one-half of any unencumbered positive balance of general revenues on the last day of
-the preceding biennium.  If necessary, the comptroller shall reduce the amount transferred in proportion
-to the other amounts prescribed by this section to prevent the amount in the fund from exceeding the
-limit in effect for that biennium under Subsection (g) of this section.
+stabilization fund one-half of any unencumbered positive balance of general revenues on the last day
+of the preceding biennium.  If necessary, the comptroller shall reduce the amount transferred in
+proportion to the other amounts prescribed by this section to prevent the amount in the fund from
+exceeding the limit in effect for that biennium under Subsection (g) of this section.
 (c)  Not later than the 90th day of each fiscal year, the comptroller of public accounts shall transfer
 from general revenue to the economic stabilization fund the amounts prescribed by Subsections (d) and
 (e) of this section.  However, if necessary, the comptroller shall reduce proportionately the amounts
@@ -1214,9 +1260,9 @@ appropriation from the economic stabilization fund may not exceed the difference
 comptroller's estimate of general revenue for the current biennium at the time the comptroller receives
 for certification the bill making the appropriation and the amount of general revenue appropriations for
 that biennium previously certified by the comptroller.  Appropriations from the economic stabilization
-fund under this subsection may not extend beyond the last day of the current biennium.  An appropriation
-from the economic stabilization fund must be approved by a three-fifths vote of the members present in
-each house of the legislature.
+fund under this subsection may not extend beyond the last day of the current biennium.  An
+appropriation from the economic stabilization fund must be approved by a three-fifths vote of the
+members present in each house of the legislature.
 (l)  If an estimate of anticipated revenues for a succeeding biennium prepared by the comptroller
 pursuant to Article III, Section 49a, of this constitution is less than the revenues that are estimated at the
 same time by the comptroller to be available for the current biennium, the legislature may, by a
@@ -1239,14 +1285,13 @@ collections and refunds before the comptroller allocates the receipts as provide
 8, 1988.)
 (p)  (Subsec. (p) added Nov. 8, 1988, and expired Sep. 2, 1989.)  (Subsecs. (i) and (j) amended Nov.
 7, 1995.)
-*Through error, the two sections above were designated Section  49-g.
 Sec. 49-h. BOND ISSUES FOR FACILITIES OF CORRECTIONAL INSTITUTIONS,
 STATEWIDE LAW ENFORCEMENT FACILITIES, AND MENTAL HEALTH AND MENTAL
 RETARDATION INSTITUTIONS.  (a) In amounts authorized by constitutional amendment or by a
 debt proposition under Section 49 of this article, the legislature may provide for the issuance of general
-obligation bonds and the use of the bond proceeds for acquiring, constructing, or equipping new facilities
-or for major repair or renovation of existing facilities of corrections institutions, including youth
-corrections institutions, and mental health and mental retardation institutions.  The legislature may
+obligation bonds and the use of the bond proceeds for acquiring, constructing, or equipping new
+facilities or for major repair or renovation of existing facilities of corrections institutions, including
+youth corrections institutions, and mental health and mental retardation institutions.  The legislature may
 require the review and approval of the issuance of the bonds and the projects to be financed by the bond
 proceeds.  Notwithstanding any other provision of this constitution, the issuer of the bonds or any entity
 created or directed to review and approve projects may include members or appointees of members of
@@ -1260,8 +1305,8 @@ year, less any amount in any sinking fund at the end of the preceding fiscal yea
 payment of the bonds or interest.
 (c)  In addition to the purposes authorized under Subsection (a), the legislature may authorize the
 issuance of the general obligation bonds for acquiring, constructing, or equipping:
-(1)  new statewide law enforcement facilities and for major repair or renovation of existing facilities;
-and
+(1)  new statewide law enforcement facilities and for major repair or renovation of existing
+facilities; and
 (2)  new prisons and substance abuse felony punishment facilities to confine criminals and major
 repair or renovation of existing facilities of those institutions, and for the acquisition of, major repair to,
 or renovation of other facilities for use as state prisons or substance abuse felony punishment facilities. 
@@ -1305,20 +1350,113 @@ purposes other than payment of state debt, for the three preceding fiscal years.
 (b)  For purposes of this section, "state debt payable from the general revenue fund" means general
 obligation and revenue bonds, including authorized but unissued bonds, and lease-purchase agreements
 in an amount greater than $250,000, which bonds or lease purchase agreements are designed to be repaid
-with the general revenues of the state.  The term does not include bonds that, although backed by the full
-faith or credit of the state, are reasonably expected to be paid from other revenue sources and that are
-not expected to create a general revenue draw.  Bonds or lease purchase agreements that pledge the full
-faith and credit of the state are considered to be reasonably expected to be paid from other revenue
+with the general revenues of the state.  The term does not include bonds that, although backed by the
+full faith or credit of the state, are reasonably expected to be paid from other revenue sources and that
+are not expected to create a general revenue draw.  Bonds or lease purchase agreements that pledge the
+full faith and credit of the state are considered to be reasonably expected to be paid from other revenue
 sources if they are designed to receive revenues other than state general revenues sufficient to cover their
 debt service over the life of the bonds or agreement.  If those bonds or agreements, or any portion of the
-bonds or agreements, subsequently requires use of the state's general revenue for payment, the bonds or
-agreements, or portion of the bonds or agreements, is considered to be a "state debt payable from the
+bonds or agreements, subsequently requires use of the state's general revenue for payment, the bonds
+or agreements, or portion of the bonds or agreements, is considered to be a "state debt payable from the
 general revenue fund" under this section, until:
 (1)  the bonds or agreements are backed by insurance or another form of guarantee that ensures
 payment from a source other than general revenue; or
 (2)  the issuer demonstrates to the satisfaction of the Bond Review Board or its successor designated
 by law that the bonds no longer require payment from general revenue, and the Bond Review Board so
 certifies to the Legislative Budget Board or its successor designated by law.  (Added Nov. 4, 1997.)
+Sec. 49-k.  TEXAS MOBILITY FUND.  (a)  In this section:
+(1)  "Commission" means the Texas Transportation Commission or its successor.
+(2)  "Comptroller" means the comptroller of public accounts of the State of Texas.
+(3)  "Department" means the Texas Department of Transportation or its successor.
+(4)  "Fund" means the Texas Mobility Fund.
+(5)  "Obligations" means bonds, notes, and other public securities.
+(b)  The Texas Mobility Fund is created in the state treasury and shall be administered by the
+commission as a revolving fund to provide a method of financing the construction, reconstruction,
+acquisition, and expansion of state highways, including costs of any necessary design and costs of
+acquisition of rights-of-way, as determined by the commission in accordance with standards and
+procedures established by law.
+(c)  Money in the fund may also be used to provide participation by the state in the payment of a
+portion of the costs of constructing and providing publicly owned toll roads and other public
+transportation projects in accordance with the procedures, standards, and limitations established by law.
+(d)  The commission may issue and sell obligations of the state and enter into related credit
+agreements that are payable from and secured by a pledge of and a lien on all or part of the money on
+deposit in the fund in an aggregate principal amount that can be repaid when due from money on deposit
+in the fund, as that aggregate amount is projected by the comptroller in accordance with procedures
+established by law.  The proceeds of the obligations must be deposited in the fund and used for one or
+more specific purposes authorized by law, including:
+(1)  refunding obligations and related credit agreements authorized by this section;
+(2)  creating reserves for payment of the obligations and related credit agreements;
+(3)  paying the costs of issuance; and
+(4)  paying interest on the obligations and related credit agreements for a period not longer than the
+maximum period established by law.
+(e)  The legislature by law may dedicate to the fund one or more specific sources or portions, or a
+specific amount, of the revenue, including taxes, and other money of the state that are not otherwise
+dedicated by this constitution.  The legislature may not dedicate money from the collection of motor
+vehicle registration fees and taxes on motor fuels and lubricants dedicated by Section 7-a, Article VIII,
+of this constitution, but it may dedicate money received from other sources that are allocated to the same
+costs as those dedicated taxes and fees.
+(f)  Money dedicated as provided by this section is appropriated when received by the state, shall
+be deposited in the fund, and may be used as provided by this section and law enacted under this section
+without further appropriation.  While money in the fund is pledged to the payment of any outstanding
+obligations or related credit agreements, the dedication of a specific source or portion of revenue, taxes,
+or other money made as provided by this section may not be reduced, rescinded, or repealed unless:
+(1)  the legislature by law dedicates a substitute or different source that is projected by the
+comptroller to be of a value equal to or greater than the source or amount being reduced, rescinded, or
+repealed and authorizes the commission to implement the authority granted by Subsection (g) of this
+section; and
+(2)  the commission implements the authority granted by the legislature pursuant to Subsection (g)
+of this section.
+(g)  In addition to the dedication of specified sources or amounts of revenue, taxes, or money as
+provided by Subsection (e) of this section, the legislature may by law authorize the commission to
+guarantee the payment of any obligations and credit agreements issued and executed by the commission
+under the authority of this section by pledging the full faith and credit of the state to that payment if
+dedicated revenue is insufficient for that purpose.  If that authority is granted and is implemented by the
+commission, while any of the bonds, notes, other obligations, or credit agreements are outstanding and
+unpaid, and for any fiscal year during which the dedicated revenue, taxes, and money are insufficient
+to make all payments when due, there is appropriated, and there shall be deposited in the fund, out of
+the first money coming into the state treasury in each fiscal year that is not otherwise appropriated by
+this constitution, an amount that is sufficient to pay the principal of the obligations and agreements and
+the interest on the obligations and agreements that become due during that fiscal year, minus any amount
+in the fund that is available for that payment in accordance with applicable law.
+(h)  Proceedings authorizing obligations and related credit agreements to be issued and executed
+under the authority of this section shall be submitted to the attorney general for approval as to their
+legality.  If the attorney general finds that they will be issued in accordance with this section and
+applicable law, the attorney general shall approve them, and, after payment by the purchasers of the
+obligations in accordance with the terms of sale and after execution and delivery of the related credit
+agreements, the obligations and related credit agreements are incontestable for any cause.
+(i)  Obligations and credit agreements issued or executed under the authority of this section may
+not be included in the computation required by Section 49-j, Article III, of this constitution, except that
+if money has been dedicated to the fund without specification of its source or the authority granted by
+Subsection (g) of this section has been implemented, the obligations and credit agreements shall be
+included to the extent the comptroller projects that general funds of the state, if any, will be required to
+pay amounts due on or on account of the obligations and credit agreements.
+(j)  The collection and deposit of the amounts required by this section, applicable law, and contract
+to be applied to the payment of obligations and credit agreements issued, executed, and secured under
+the authority of this section may be enforced by mandamus against the commission, the department, and
+the comptroller in a district court of Travis County, and the sovereign immunity of the state is waived
+for that purpose.  (Added Nov. 6, 2001.)
+Sec. 49-l.  FINANCIAL ASSISTANCE TO COUNTIES FOR ROADWAY PROJECTS TO
+SERVE BORDER COLONIAS.  (a)  To fund financial assistance to counties for roadways to serve
+border colonias, the legislature by general law may authorize the governor to authorize the Texas Public
+Finance Authority or its successor to issue general obligation bonds or notes of the State of Texas in an
+aggregate amount not to exceed $175 million and to enter into related credit agreements.  Except as
+provided by Subsection (c) of this section, the proceeds from the sale of the bonds and notes may be
+used only to provide financial assistance to counties for projects to provide access roads to connect
+border colonias with public roads.  Projects may include the construction of colonia access roads, the
+acquisition of materials used in maintaining colonia access roads, and projects related to the construction
+of colonia access roads, such as projects for the drainage of the roads.
+(b)  The Texas Transportation Commission may, in its discretion and in consultation with the office
+of the governor, determine what constitutes a border colonia for purposes of selecting the counties and
+projects that may receive assistance under this section.
+(c)  A portion of the proceeds from the sale of the bonds and notes and a portion of the interest
+earned on the bonds and notes may be used to pay:
+(1)  the costs of administering projects authorized under this section; and
+(2)  all or part of a payment owed or to be owed under a credit agreement.
+(d)  The bonds and notes authorized under this section constitute a general obligation of the state. 
+While any of the bonds or notes or interest on the bonds or notes is outstanding and unpaid, there is
+appropriated out of the general revenue fund in each fiscal year an amount sufficient to pay the principal
+of and interest on the bonds and notes that mature or become due during the fiscal year, including an
+amount sufficient to make payments under a related credit agreement.  (Added Nov. 6, 2001.)
 Sec. 50.  LOAN OR PLEDGE OF CREDIT OF STATE. The Legislature shall have no power to
 give or to lend, or to authorize the giving or lending, of the credit of the State in aid of, or to any person,
 association or corporation, whether municipal or other, or to pledge the credit of the State in any manner
@@ -1350,8 +1488,8 @@ TEMPORARY TRANSITION PROVISIONS.1
 (b)  The bonds shall be executed in the form, on the terms, and in the denominations, bear interest,
 and be issued in installments as prescribed by the Texas Higher Education Coordinating Board or its
 successor or successors.
-(c)  The maximum net effective interest rate to be borne by bonds issued under this section must be
-set by law.
+(c)  The maximum net effective interest rate to be borne by bonds issued under this section must
+be set by law.
 (d)  The legislature may provide for the investment of bond proceeds and may establish and provide
 for the investment of an interest and sinking fund to pay the bonds.  Income from the investment shall
 be used for the purposes prescribed by the legislature.
@@ -1394,14 +1532,14 @@ prescribed by law.  The bonds shall bear interest rates fixed by the Legislature
 in a fund hereby created with the comptroller of public accounts to be known as the "Farm and Ranch
 Loan Security Fund."  This fund shall be administered without further appropriation by the
 commissioner of agriculture in the manner prescribed by law.
-(c)  The Farm and Ranch Loan Security Fund shall be used by the commissioner of agriculture under
-provisions prescribed by the legislature for the purpose of guaranteeing loans used for the purchase of
-farm and ranch real estate, for acquiring real estate mortgages or deeds of trust on lands purchased with
-guaranteed loans, and to advance to the borrower a percentage of the principal and interest due on those
-loans; provided that the commissioner shall require at least six percent interest be paid by the borrower
-on any advance of principal and interest.  The legislature may authorize the commissioner to sell at
-foreclosure any land acquired in this manner, and proceeds from that sale shall be deposited in the Farm
-and Ranch Loan Security Fund.
+(c)  The Farm and Ranch Loan Security Fund shall be used by the commissioner of agriculture
+under provisions prescribed by the legislature for the purpose of guaranteeing loans used for the
+purchase of farm and ranch real estate, for acquiring real estate mortgages or deeds of trust on lands
+purchased with guaranteed loans, and to advance to the borrower a percentage of the principal and
+interest due on those loans; provided that the commissioner shall require at least six percent interest be
+paid by the borrower on any advance of principal and interest.  The legislature may authorize the
+commissioner to sell at foreclosure any land acquired in this manner, and proceeds from that sale shall
+be deposited in the Farm and Ranch Loan Security Fund.
 (d)  The legislature may provide for the investment of money available in the Farm and Ranch Loan
 Security Fund and the interest and sinking fund established for the payment of bonds issued by the
 commissioner of agriculture.  Income from the investment shall be used for purposes prescribed by the
@@ -1423,8 +1561,8 @@ outstanding or unpaid, there is appropriated out of the first money coming into 
 fiscal year, not otherwise appropriated by this constitution, an amount that is sufficient to pay the
 principal of and interest on those bonds that mature or become due during that fiscal year.
 (d)  The terms, conditions, provisions, and procedures for issuance and sale and management of
-proceeds of Texas agricultural water conservation bonds shall be provided by law.  (Added Nov. 5, 1985;
-Subsec. (c) amended Nov. 4, 1997.)
+proceeds of Texas agricultural water conservation bonds shall be provided by law.  (Added Nov. 5,
+1985; Subsec. (c) amended Nov. 4, 1997.)
 (e)  (Added Nov. 5, 1985; repealed Nov. 7, 1989.)
 Sec. 50-e.  GUARANTEE OF TEXAS GRAIN WAREHOUSE SELF-INSURANCE
 Fund.  (a) For the purposes of providing surety for the Texas grain warehouse self-insurance fund, the
@@ -1435,6 +1573,35 @@ comptroller of public accounts, the guarantee of the fund shall cease and this p
 shall be void by reason of its anticipating nature.
 (d)  If the provisions of this section conflict with any other provisions of this constitution, the
 provisions of this section shall prevail.  (Added Nov. 3, 1987.)
+Sec. 50-f.  ISSUANCE OF GENERAL OBLIGATION BONDS FOR CONSTRUCTION AND
+REPAIR PROJECTS; PURCHASE OF EQUIPMENT.  (a) The legislature by general law may
+authorize the Texas Public Finance Authority to provide for, issue, and sell general obligation bonds of
+the State of Texas in an amount not to exceed $850 million and to enter into related credit agreements. 
+The bonds shall be executed in the form, on the terms, and in the denominations, bear interest, and be
+issued in installments as prescribed by the Texas Public Finance Authority. 
+(b)  Proceeds from the sale of the bonds shall be deposited in a separate fund or account within the
+state treasury created by the comptroller for this purpose.  Money in the separate fund or account may
+be used only to pay for:
+(1)  construction and repair projects authorized by the legislature by general law or the General
+Appropriations Act and administered by or on behalf of the General Services Commission, the Texas
+Youth Commission, the Texas Department of Criminal Justice, the Texas Department of Mental Health
+and Mental Retardation, the Parks and Wildlife Department, the adjutant general's department, the
+Texas School for the Deaf, the Department of Agriculture, the Department of Public Safety of the State
+of Texas, the State Preservation Board, the Texas Department of Health, the Texas Historical
+Commission, or the Texas School for the Blind and Visually Impaired; or
+(2)  the purchase, as authorized by the legislature by general law or the General Appropriations Act,
+of needed equipment by or on behalf of a state agency listed in Subdivision (1) of this subsection.
+(c)  The maximum net effective interest rate to be borne by bonds issued under this section may be
+set by general law. 
+(d)  While any of the bonds or interest on the bonds authorized by this section is outstanding and
+unpaid, from the first money coming into the state treasury in each fiscal year not otherwise appropriated
+by this constitution, an amount sufficient to pay the principal and interest on bonds that mature or
+become due during the fiscal year and to make payments that become due under a related credit
+agreement during the fiscal year is appropriated, less the amount in the sinking fund at the close of the
+previous fiscal year. 
+(e)  Bonds issued under this section, after approval by the attorney general, registration by the
+comptroller of public accounts, and delivery to the purchasers, are incontestable and are general
+obligations of the State of Texas under this constitution.  (Added Nov. 6, 2001.)
 Sec. 51.  GRANTS OF PUBLIC MONEY PROHIBITED; EXCEPTIONS.  The Legislature shall
 have no power to make any grant or authorize the making of any grant of public moneys to any
 individual, association of individuals, municipal or other corporations whatsoever;  provided that the
@@ -1513,10 +1680,10 @@ SUBDIVISIONS; LENDING CREDIT; GRANTS; BONDS.  (a)  Except as otherwise provided 
 this section, the Legislature shall have no power to authorize any county, city, town or other political
 corporation or subdivision of the State to lend its credit or to grant public money or thing of value in aid
 of, or to any individual, association or corporation whatsoever, or to become a stockholder in such
-corporation, association or company.  However, this section does not prohibit the use of public funds or
-credit for the payment of premiums on nonassessable property and casualty, life, health, or accident
-insurance policies and annuity contracts issued by a mutual insurance company authorized to do business
-in this State.
+corporation, association or company.  However, this section does not prohibit the use of public funds
+or credit for the payment of premiums on nonassessable property and casualty, life, health, or accident
+insurance policies and annuity contracts issued by a mutual insurance company authorized to do
+business in this State.
 (b)  Under Legislative provision, any county, political subdivision of a county, number of adjoining
 counties, political subdivision of the State, or defined district now or hereafter to be described and
 defined within the State of Texas, and which may or may not include, towns, villages or municipal
@@ -1552,8 +1719,8 @@ funds as authorized by law.  (Amended Nov. 8, 1904; Subsecs. (a) and (b) amended
 Sec. 52-a.  LOAN OR GRANT OF PUBLIC MONEY FOR ECONOMIC
 DEVELOPMENT.  Notwithstanding any other provision of this constitution, the legislature may
 provide for the creation of programs and the making of loans and grants of public money, other than
-money otherwise dedicated by this constitution to use for a different purpose, for the public purposes of
-development and diversification of the economy of the state, the elimination of unemployment or
+money otherwise dedicated by this constitution to use for a different purpose, for the public purposes
+of development and diversification of the economy of the state, the elimination of unemployment or
 underemployment in the state, the stimulation of agricultural innovation, the fostering of the growth of
 enterprises based on agriculture, or the development or expansion of transportation or commerce in the
 state.  Any bonds or other obligations of a county, municipality, or other political subdivision of the state
@@ -1563,15 +1730,14 @@ the majority of the registered voters of the county, municipality, or political 
 issue.  An enabling law enacted by the legislature in anticipation of the adoption of this amendment is
 not void because of its anticipatory character.  (Added Nov. 3, 1987.)
 Sec. 52-b.  LOAN OF STATE'S CREDIT OR GRANT OF PUBLIC MONEY FOR TOLL ROAD
-PURPOSES; EXCEPTION.  The Legislature shall have no power or authority to in any manner lend the credit of the
-State or grant any public money to, or assume any indebtedness, present or future, bonded or otherwise,
-of any individual, person, firm, partnership, association, corporation, public corporation, public agency,
-or political subdivision of the State, or anyone else, which is now or hereafter authorized to construct,
+PURPOSES.  The Legislature shall have no power or authority to in any manner lend the credit of the State or grant
+any public money to, or assume any indebtedness, present or future, bonded or otherwise, of any
+individual, person, firm, partnership, association, corporation, public corporation, public agency, or
+political subdivision of the State, or anyone else, which is now or hereafter authorized to construct,
 maintain or operate toll roads and turnpikes within this State except that the Legislature may authorize
-the Texas Department of Transportation to expend money, from any source available, for the costs of
-turnpikes, toll roads, or toll bridges of the Texas Turnpike Authority, or successor agency, provided that
-any monies expended out of the state highway fund shall be repaid to the fund from tolls or other turnpike
-revenue.  (Added Nov. 2, 1954; amended Nov. 5, 1991.)
+the Texas Department of Transportation to expend, grant, or loan money, from any source available, for
+the acquisition, construction, maintenance, or operation of turnpikes, toll roads, and toll bridges.  (Added
+Nov. 2, 1954; amended Nov. 5, 1991, and Nov. 6, 2001.)
 Sec. 52-c.  (Blank.)
 Sec. 52d.  COUNTY OR ROAD DISTRICT TAX FOR ROAD PURPOSES.  (a) Upon the vote
 of a majority of the qualified voters so authorizing, a county or road district may collect an annual tax
@@ -1582,8 +1748,8 @@ when it is made, money shall be on hand in such fund.
 the amount of special tax to be levied; the number of years said tax is to be levied; the location,
 description, and character of the roads and bridges; and the estimated cost thereof.  The funds raised by
 such taxes shall not be used for purposes other than those specified in the plan submitted to the voters. 
-Elections may be held from time to time to extend or discontinue said plan or to increase or diminish said
-tax.  The Legislature shall enact laws prescribing the procedure hereunder.
+Elections may be held from time to time to extend or discontinue said plan or to increase or diminish
+said tax.  The Legislature shall enact laws prescribing the procedure hereunder.
 (c)  The provisions of this section shall apply only to Harris County and road districts therein. 
 (Added Aug. 23, 1937; amended Nov. 2, 1999.)
 TEMPORARY TRANSITION PROVISIONS.1
@@ -1593,14 +1759,14 @@ doctor bills and all hospital bills for Sheriffs, Deputy Sheriffs, Constables, D
 county and precinct law enforcement officials who are injured in the course of their official duties;
 providing that while said Sheriff, Deputy Sheriff, Constable, Deputy Constable or other county or
 precinct law enforcement official is hospitalized or incapacitated that the county shall continue to pay
-his maximum salary; providing, however, that said payment of salary shall cease on the expiration of the
-term of office to which such official was elected or appointed.  Provided, however, that no provision
+his maximum salary; providing, however, that said payment of salary shall cease on the expiration of
+the term of office to which such official was elected or appointed.  Provided, however, that no provision
 contained herein shall be construed to amend, modify, repeal or nullify Article 16, Section 31, of the
 Constitution of the State of Texas.  (Added Nov. 11, 1967.)
-Sec. 52f.  PRIVATE ROAD WORK BY CERTAIN COUNTIES.  A county with a population of 5,000 or
-less, according to the most recent federal census, may construct and maintain private roads if it imposes
-a reasonable charge for the work.  The Legislature by general law may limit this authority.  Revenue
-received from private road work may be used only for the construction, including right-of-way
+Sec. 52f.  PRIVATE ROAD WORK BY CERTAIN COUNTIES.  A county with a population of 5,000
+or less, according to the most recent federal census, may construct and maintain private roads if it
+imposes a reasonable charge for the work.  The Legislature by general law may limit this authority. 
+Revenue received from private road work may be used only for the construction, including right-of-way
 acquisition, or maintenance of public roads.  (Added Nov. 4, 1980.)
 Sec. 52g.  DALLAS COUNTY BOND ISSUES FOR ROADS AND TURNPIKES.  Bonds to be
 issued by Dallas County under Section 52(b)(3) of Article III of this Constitution may, without the
@@ -1609,62 +1775,71 @@ voters of said county, and bonds heretofore or hereafter issued under Subsection
 Section 52 shall not be included in determining the debt limit prescribed in said Section.  (Added Nov.
 5, 1968; amended Nov. 4, 1997, and Nov. 2, 1999.)
 TEMPORARY TRANSITION PROVISIONS.1
+Sec. 52h.  MUNICIPALITIES TO DONATE OUTDATED OR SURPLUS FIREFIGHTING
+EQUIPMENT.  A municipality may donate to an underdeveloped country outdated or surplus
+equipment, supplies, or other materials used in fighting fires.  (Added Nov. 6, 2001.)
 Sec. 53.  COUNTY OR MUNICIPAL AUTHORITIES; EXTRA COMPENSATION;
 UNAUTHORIZED CLAIMS.  The Legislature shall have no power to grant, or to authorize any county
 or municipal authority to grant, any extra compensation, fee or allowance to a public officer, agent,
 servant or contractor, after service has been rendered, or a contract has been entered into, and performed
 in whole or in part; nor pay, nor authorize the payment of, any claim created against any county or
 municipality of the State, under any agreement or contract, made without authority of law.
-Sec. 54.    (Repealed Nov. 2, 1999.)
+Sec. 54.  (Repealed Nov. 2, 1999.)
 TEMPORARY TRANSITION PROVISIONS.1
 Sec. 55.  RELEASE OR EXTINGUISHMENT OF INDEBTEDNESS TO STATE, COUNTY,
 SUBDIVISION, OR MUNICIPAL CORPORATION.  The Legislature shall have no power to release
 or extinguish, or to authorize the releasing or extinguishing, in whole or in part, the indebtedness,
 liability or obligation of any corporation or individual, to this State or to any county or defined
-subdivision thereof, or other municipal corporation therein, except delinquent taxes which have been due
-for a period of at least ten years.  (Amended Nov. 8, 1932.)
-Sec. 56.  LOCAL AND SPECIAL LAWS.  The Legislature shall not, except as otherwise provided
-in this Constitution, pass any local or special law, authorizing:
-The creation, extension or impairing of liens;
-Regulating the affairs of counties, cities, towns, wards or school districts;
-Changing the names of persons or places;
-Changing the venue in civil or criminal cases;
-Authorizing the laying out, opening, altering or maintaining of roads, highways, streets or alleys;
-Relating to ferries or bridges, or incorporating ferry or bridge companies, except for the erection of
-bridges crossing streams which form boundaries between this and any other State;
-Vacating roads, town plats, streets or alleys;
-Relating to cemeteries, grave-yards or public grounds not of the State;
-Authorizing the adoption or legitimation of children;
-Locating or changing county seats;
-Incorporating cities, towns or villages, or changing their charters;
-For the opening and conducting of elections, or fixing or changing the places of voting;
-Granting divorces;
-Creating offices, or prescribing the powers and duties of officers, in counties, cities, towns, election
-or school districts;
-Changing the law of descent or succession;
-Regulating the practice or jurisdiction of, or changing the rules of evidence in any judicial
+subdivision thereof, or other municipal corporation therein, except delinquent taxes which have been
+due for a period of at least ten years.  (Amended Nov. 8, 1932.)
+Sec. 56.  LOCAL AND SPECIAL LAWS.  (a)  The Legislature shall not, except as otherwise
+provided in this Constitution, pass any local or special law, authorizing:
+(1)  the creation, extension or impairing of liens;
+(2)  regulating the affairs of counties, cities, towns, wards or school districts;
+(3)  changing the names of persons or places;
+(4)  changing the venue in civil or criminal cases;
+(5)  authorizing the laying out, opening, altering or maintaining of roads, highways, streets or alleys;
+(6)  relating to ferries or bridges, or incorporating ferry or bridge companies, except for the erection
+of bridges crossing streams which form boundaries between this and any other State;
+(7)  vacating roads, town plats, streets or alleys;
+(8)  relating to cemeteries, grave-yards or public grounds not of the State;
+(9)  authorizing the adoption or legitimation of children;
+(10)   locating or changing county seats;
+(11)   incorporating cities, towns or villages, or changing their charters;
+(12)   for the opening and conducting of elections, or fixing or changing the places of voting;
+(13)   granting divorces;
+(14)   creating offices, or prescribing the powers and duties of officers, in counties, cities, towns,
+election or school districts;
+(15)   changing the law of descent or succession;
+(16)   regulating the practice or jurisdiction of, or changing the rules of evidence in any judicial
 proceeding or inquiry before courts, justices of the peace, sheriffs, commissioners, arbitrators or other
 tribunals, or providing or changing methods for the collection of debts, or the enforcing of judgments,
 or prescribing the effect of judicial sales of real estate;
-Regulating the fees, or extending the powers and duties of aldermen, justices of the peace,
+(17)   regulating the fees, or extending the powers and duties of aldermen, justices of the peace,
 magistrates or constables;
-Regulating the management of public schools, the building or repairing of school houses, and the
-raising of money for such purposes;
-Fixing the rate of interest;
-Affecting the estates of minors, or persons under disability;
-Remitting fines, penalties and forfeitures, and refunding moneys legally paid into the treasury;
-Exempting property from taxation;
-Regulating labor, trade, mining and manufacturing;
-Declaring any named person of age;
-Extending the time for the assessment or collection of taxes, or otherwise relieving any assessor or
-collector of taxes from the due performance of his official duties, or his securities from liability;
-Giving effect to informal or invalid wills or deeds;
-Summoning or empanelling grand or petit juries;
-For limitation of civil or criminal actions;
-For incorporating railroads or other works of internal improvements;
-And in all other cases where a general law can be made applicable, no local or special law shall be
-enacted; provided, that nothing herein contained shall be construed to prohibit the Legislature from
-passing special laws for the preservation of the game and fish of this State in certain localities.
+(18)   regulating the management of public schools, the building or repairing of school houses, and
+the raising of money for such purposes;
+(19)   fixing the rate of interest;
+(20)   affecting the estates of minors, or persons under disability;
+(21)   remitting fines, penalties and forfeitures, and refunding moneys legally paid into the treasury;
+(22)   exempting property from taxation;
+(23)   regulating labor, trade, mining and manufacturing;
+(24)   declaring any named person of age;
+(25)   extending the time for the assessment or collection of taxes, or otherwise relieving any assessor
+or collector of taxes from the due performance of his official duties, or his securities from liability;
+(26)   giving effect to informal or invalid wills or deeds;
+(27)   summoning or empanelling grand or petit juries;
+(28)   for limitation of civil or criminal actions;
+(29)   for incorporating railroads or other works of internal improvements; or
+(30)   relieving or discharging any person or set of persons from the performance of any public duty
+or service imposed by general law.
+(b)  In addition to those laws described by Subsection (a) of this section in all other cases where a
+general law can be made applicable, no local or special law shall be enacted;  provided, that nothing
+herein contained shall be construed to prohibit the Legislature from passing:
+(1)  special laws for the preservation of the game and fish of this State in certain localities; and
+(2)  fence laws applicable to any subdivision of this State or counties as may be needed to meet the wants of the people. 
+(Amended Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
 Sec. 57.  NOTICE OF INTENTION TO APPLY FOR LOCAL OR SPECIAL LAWS. No local
 or special law shall be passed, unless notice of the intention to apply therefor shall have been published
 in the locality where the matter or thing to be affected may be situated, which notice shall state the
@@ -1673,26 +1848,25 @@ into the Legislature of such bill and in the manner to be provided by law.  The 
 having been published, shall be exhibited in the Legislature, before such act shall be passed.
 Sec. 58.  SEAT OF GOVERNMENT.  The Legislature shall hold its sessions at the City of Austin,
 which is hereby declared to be the seat of government.
-Sec. 59.  WORKMEN'S COMPENSATION INSURANCE FOR STATE EMPLOYEES.  The
-Legislature shall have power to pass such laws as may be necessary to provide for Workmen's
+Sec. 59.  WORKERS' COMPENSATION INSURANCE FOR STATE EMPLOYEES.  The
+Legislature shall have power to pass such laws as may be necessary to provide for Workers'
 Compensation Insurance for such State employees, as in its judgment is necessary or required; and to
 provide for the payment of all costs, charges, and premiums on such policies of insurance; providing the
-State shall never be required to purchase insurance for any employee.  (Added Nov. 3, 1936.)
-Sec. 60.  WORKMEN'S COMPENSATION INSURANCE FOR EMPLOYEES OF
-COUNTIES AND OTHER POLITICAL SUBDIVISIONS.  The Legislature shall have the power to
-pass such laws as may be necessary to enable all counties and other political subdivisions of this State
-to provide Workman's Compensation Insurance, including the right to provide its own insurance risk,
-for all employees of the county or political subdivision as in its judgment is necessary or required; and
-the Legislature shall provide suitable laws for the administration of such insurance in the counties or
-political subdivisions of this State and for the payment of the costs, charges and premiums on such
-policies of insurance and the benefits to be paid thereunder.  (Added Nov. 2, 1948; amended Nov. 6,
-1962.)
-Sec. 61.  WORKMEN'S COMPENSATION INSURANCE FOR MUNICIPAL
-EMPLOYEES.  The Legislature shall have the power to enact laws to enable cities, towns, and villages
-of this State to provide Workmen's Compensation Insurance, including the right to provide their own
-insurance risk for all employees; and the Legislature shall provide suitable laws for the administration
-of such insurance in the said municipalities and for payment of the costs, charges, and premiums on
-policies of insurance and the benefits to be paid thereunder.  (Added Nov. 4, 1952.)
+State shall never be required to purchase insurance for any employee.  (Added Nov. 3, 1936; amended
+Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
+Sec. 60.  WORKERS' COMPENSATION INSURANCE FOR EMPLOYEES OF COUNTIES
+AND OTHER POLITICAL SUBDIVISIONS.  The Legislature shall have the power to pass such laws
+as may be necessary to enable all counties, cities, towns, villages, and other political subdivisions of this
+State to provide Workers' Compensation Insurance, including the right of a political subdivision to
+provide its own insurance risk, for all employees of the political subdivision as in its judgment is
+necessary or required; and the Legislature shall provide suitable laws for the administration of such
+insurance in the counties, cities, towns, villages, or other political subdivisions of this State and for the
+payment of the costs, charges and premiums on such policies of insurance and the benefits to be paid
+thereunder.  (Added Nov. 2, 1948; amended Nov. 6, 1962, and Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
+Sec. 61.  (Repealed Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
 Sec. 61-a.  MINIMUM SALARIES.  The Legislature shall not fix the salary of the Governor,
 Attorney General, Comptroller of Public Accounts, Commissioner of the General Land Office or Secretary of State
 at a sum less than that fixed for such officials in the Constitution on January 1, 1953.  (Added Nov. 2, 1954; amended Nov.
@@ -1706,8 +1880,8 @@ filled by election or appointment, the incumbents of which may become unavailabl
 powers and duties of such offices.  Provided, however, that Article I of the Constitution of Texas, known
 as the "Bill of Rights" shall not be in any manner affected, amended, impaired, suspended, repealed or
 suspended hereby.
-(b)  When such a period of emergency or the immediate threat of enemy attack exists, the Legislature
-may suspend procedural rules imposed by this Constitution that relate to:
+(b)  When such a period of emergency or the immediate threat of enemy attack exists, the
+Legislature may suspend procedural rules imposed by this Constitution that relate to:
 (1)  the order of business of the Legislature;
 (2)  the percentage of each house of the Legislature necessary to constitute a quorum;
 (3)  the requirement that a bill must be read on three days in each house before it has the force of
@@ -1719,11 +1893,11 @@ consideration; and
 after consulting with the Lieutenant Governor and the Speaker of the House of Representatives, may
 suspend the constitutional requirement that the Legislature hold its sessions in Austin, the seat of
 government.  When this requirement has been suspended, the Governor shall determine a place other
-than Austin at which the Legislature will hold its sessions during such period of emergency or immediate
-threat of enemy attack.  The Governor shall notify the Lieutenant Governor and the Speaker of the House
-of Representatives of the place and time at which the Legislature will meet.  The Governor may take
-security precautions, consistent with the state of emergency, in determining the extent to which that
-information may be released.
+than Austin at which the Legislature will hold its sessions during such period of emergency or
+immediate threat of enemy attack.  The Governor shall notify the Lieutenant Governor and the Speaker
+of the House of Representatives of the place and time at which the Legislature will meet.  The Governor
+may take security precautions, consistent with the state of emergency, in determining the extent to which
+that information may be released.
 (d)  To suspend the constitutional rules specified by Subsection (b) of this section, the Governor
 must issue a proclamation and the House of Representatives and the Senate must concur in the
 proclamation as provided by this section.
@@ -1741,19 +1915,8 @@ than two years under a single proclamation.  A suspension may be renewed, howeve
 another proclamation as provided by Subsection (e) of this section and the House of Representatives and
 the Senate, by concurrent resolution, concur in that proclamation.  (Added Nov. 6, 1962; Subsec. (a)
 amended and (b)-(g) added Nov. 8, 1983.)
-Sec. 63.  CONSOLIDATION OF GOVERNMENTAL FUNCTIONS OF POLITICAL SUBDIVISIONS
-IN COUNTIES OF 1,200,000 OR MORE.  (1) The Legislature may by statute provide for the consolidation of
-some functions of government of any one or more political subdivisions comprising or located within
-any county in this State having one million, two hundred thousand (1,200,000) or more inhabitants.  Any
-such statute shall require an election to be held within the political subdivisions affected thereby with
-approval by a majority of the voters in each of these political subdivisions, under such terms and
-conditions as the Legislature may require.
-(2)  The county government, or any political subdivision(s) comprising or located therein, may contract one
-with another for the performance of governmental functions required or authorized by this Constitution
-or the Laws of this State, under such terms and conditions as the Legislature may prescribe.  The term
-"governmental functions," as it relates to counties, includes all duties, activities and operations of
-state-wide importance in which the county acts for the State, as well as of local importance, whether
-required or authorized by this Constitution or the Laws of this State.  (Added Nov. 8, 1966.)
+Sec. 63.  (Repealed Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
 Sec. 64.  CONSOLIDATION OF GOVERNMENTAL OFFICES AND FUNCTIONS.  (a) The
 Legislature may by special statute provide for consolidation of governmental offices and functions of
 government of any one or more political subdivisions comprising or located within any county.  Any
@@ -1775,14 +1938,13 @@ which may be paid on such bonds issued pursuant to such constitutional authority
 interest at rates not to exceed a weighted average annual interest rate of 12% unless otherwise provided
 by Subsection (b) of this section.  All Constitutional provisions specifically setting rates in conflict with
 this provision are hereby repealed.
-(b)  Bonds issued by the Veterans' Land Board after the effective date of this subsection bear interest
-at a rate or rates determined by the board, but the rate or rates may not exceed a net effective interest rate
-of 10% per year unless otherwise provided by law.  A statute that is in effect on the effective date of this
-subsection and that sets as a maximum interest rate payable on bonds issued by the Veterans' Land Board
-a rate different from the maximum rate provided by this subsection is ineffective unless reenacted by the
-legislature after that date.  (Added Nov. 7, 1972; Subsec. (a) amended and (b) added Nov. 3, 1981;
-Subsec. (a) amended Nov. 2, 1982.)
-
+(b)  Bonds issued by the Veterans' Land Board after the effective date of this subsection bear
+interest at a rate or rates determined by the board, but the rate or rates may not exceed a net effective
+interest rate of 10% per year unless otherwise provided by law.  A statute that is in effect on the effective
+date of this subsection and that sets as a maximum interest rate payable on bonds issued by the Veterans'
+Land Board a rate different from the maximum rate provided by this subsection is ineffective unless
+reenacted by the legislature after that date.  (Added Nov. 7, 1972; Subsec. (a) amended and (b) added
+Nov. 3, 1981; Subsec. (a) amended Nov. 2, 1982.)
                            ARTICLE 4
                       EXECUTIVE DEPARTMENT
 Sec. 1.  OFFICERS CONSTITUTING THE EXECUTIVE DEPARTMENT.  The Executive
@@ -1800,10 +1962,10 @@ of Representatives, as soon as the Speaker shall be chosen, and the said Speaker
 week of the session of the Legislature, open and publish them in the presence of both Houses of the
 Legislature.  The person, voted for at said election, having the highest number of votes for each of said
 offices respectively, and being constitutionally eligible, shall be declared by the Speaker, under sanction
-of the Legislature, to be elected to said office.  But, if two or more persons shall have the highest and an
-equal number of votes for either of said offices, one of them shall be immediately chosen to such office
-by joint vote of both Houses of the Legislature.  Contested elections for either of said offices, shall be
-determined by both Houses of the Legislature in joint session.
+of the Legislature, to be elected to said office.  But, if two or more persons shall have the highest and
+an equal number of votes for either of said offices, one of them shall be immediately chosen to such
+office by joint vote of both Houses of the Legislature.  Contested elections for either of said offices, shall
+be determined by both Houses of the Legislature in joint session.
 Sec. 3a.  DEATH, DISABILITY, OR FAILURE TO QUALIFY OF PERSON RECEIVING
 HIGHEST VOTE.  If, at the time the Legislature shall canvass the election returns for the offices of
 Governor and Lieutenant Governor, the person receiving the highest number of votes for the office of
@@ -1822,14 +1984,14 @@ entire term to which he may succeed, be under all the restrictions and inhibitio
 Constitution on the Governor.  (Added Nov. 2, 1948; amended Nov. 2, 1999.)
 Sec. 4.  INSTALLATION OF GOVERNOR; TERM; ELIGIBILITY.  The Governor elected at
 the general election in 1974, and thereafter, shall be installed on the first Tuesday after the organization
-of the Legislature, or as soon thereafter as practicable, and shall hold his office for the term of four years,
-or until his successor shall be duly installed.  He shall be at least thirty years of age, a citizen of the
-United States, and shall have resided in this State at least five years immediately preceding his election. 
-(Amended Nov. 7, 1972.)
+of the Legislature, or as soon thereafter as practicable, and shall hold his office for the term of four
+years, or until his successor shall be duly installed.  He shall be at least thirty years of age, a citizen of
+the United States, and shall have resided in this State at least five years immediately preceding his
+election.  (Amended Nov. 7, 1972.)
 Sec. 5.  COMPENSATION OF GOVERNOR.  The Governor shall, at stated times, receive as
-compensation for his services an annual salary in an amount to be fixed by the Legislature, and shall have
-the use and occupation of the Governor's Mansion, fixtures and furniture.  (Amended Nov. 3, 1936, and
-Nov. 2, 1954.)
+compensation for his services an annual salary in an amount to be fixed by the Legislature, and shall
+have the use and occupation of the Governor's Mansion, fixtures and furniture.  (Amended Nov. 3, 1936,
+and Nov. 2, 1954.)
 Sec. 6.  HOLDING OTHER OFFICES; PRACTICE OF PROFESSION; OTHER SALARY,
 REWARD, OR COMPENSATION.  During the time he holds the office of Governor, he shall not hold
 any other office:  civil, military or corporate; nor shall he practice any profession, and receive
@@ -1841,19 +2003,24 @@ MILITIA.  He shall be Commander-in-Chief of the military forces of the State, ex
 called into actual service of the United States.  He shall have power to call forth the militia to execute
 the laws of the State, to suppress insurrections, and to repel invasions.  (Amended Nov. 2, 1999.)
 TEMPORARY TRANSITION PROVISIONS.1
-Sec. 8.  CONVENING LEGISLATURE ON EXTRAORDINARY OCCASIONS.  The Governor
-may, on extraordinary occasions, convene the Legislature at the seat of Government, or at a different
-place, in case that should be in possession of the public enemy or in case of the prevalence of disease
-threat.  His proclamation therefor shall state specifically the purpose for which the Legislature is
-convened.
+Sec. 8.  CONVENING LEGISLATURE ON EXTRAORDINARY OCCASIONS. (a) The
+Governor may, on extraordinary occasions, convene the Legislature at the seat of Government, or at a
+different place, in case that should be in possession of the public enemy or in case of the prevalence of
+disease threat.  His proclamation therefor shall state specifically the purpose for which the Legislature
+is convened.
+(b)  The Governor shall convene the Legislature in special session to appoint presidential electors
+if the Governor determines that a reasonable likelihood exists that a final determination of the
+appointment of electors will not occur before the deadline prescribed by law to ascertain a conclusive
+determination of the appointment.  The Legislature may not consider any subject other than the
+appointment of electors at that special session.  (Amended Nov. 6, 2001.)
 Sec. 9.  GOVERNOR'S MESSAGE AND RECOMMENDATIONS; ACCOUNTING FOR PUBLIC
 MONEY; ESTIMATES OF MONEY REQUIRED.  The Governor shall, at the commencement of
 each session of the Legislature, and at the close of his term of office, give to the Legislature information,
 by message, of the condition of the State; and he  shall recommend to the Legislature such measures as
 he may deem expedient.  He shall account to the Legislature for all public moneys received and paid out
 by him, from any funds subject to his order, with vouchers; and shall accompany his message with a
-statement of the same.  And at the commencement of each regular session, he shall present estimates of
-the amount of money required to be raised by taxation for all purposes.
+statement of the same.  And at the commencement of each regular session, he shall present estimates
+of the amount of money required to be raised by taxation for all purposes.
 Sec. 10.  EXECUTION OF LAWS; CONDUCT OF BUSINESS WITH OTHER STATES AND
 UNITED STATES.  He shall cause the laws to be faithfully executed and shall conduct, in person, or
 in such manner as shall be prescribed by law, all intercourse and business of the State with other States
@@ -1867,19 +2034,19 @@ for parole or mandatory supervision on the period of incarceration served by a d
 a criminal offense.
 (b)  In all criminal cases, except treason and impeachment, the Governor shall have power, after
 conviction, on the written signed recommendation and advice of the Board of Pardons and Paroles, or
-a majority thereof, to grant reprieves and commutations of punishment and pardons; and under such rules
-as the Legislature may prescribe, and upon the written recommendation and advice of a majority of the
-Board of Pardons and Paroles, he shall have the power to remit fines and forfeitures.  The Governor shall
-have the power to grant one reprieve in any capital case for a period not to exceed thirty (30) days; and
-he shall have power to revoke conditional pardons.  With the advice and consent of the Legislature, he
-may grant reprieves, commutations of punishment and pardons in cases of treason.  (Amended Nov. 3,
-1936, Nov. 8, 1983, and Nov. 7, 1989.)
+a majority thereof, to grant reprieves and commutations of punishment and pardons; and under such
+rules as the Legislature may prescribe, and upon the written recommendation and advice of a majority
+of the Board of Pardons and Paroles, he shall have the power to remit fines and forfeitures.  The
+Governor shall have the power to grant one reprieve in any capital case for a period not to exceed thirty
+(30) days; and he shall have power to revoke conditional pardons.  With the advice and consent of the
+Legislature, he may grant reprieves, commutations of punishment and pardons in cases of treason. 
+(Amended Nov. 3, 1936, Nov. 8, 1983, and Nov. 7, 1989.)
 Sec. 11A.  SUSPENSION OF SENTENCE AND PROBATION.  The Courts of the State of Texas having
 original jurisdiction of criminal actions shall have the power, after conviction, to suspend the imposition
 or execution of sentence and to place the defendant upon probation and to reimpose such sentence, under
 such conditions as the Legislature may prescribe.  (Added Aug. 24, 1935.)
-Sec. 11B.  CRIMINAL JUSTICE AGENCIES.  (a) The legislature by law may organize and combine into one
-or more agencies all agencies of the state that:
+Sec. 11B.  CRIMINAL JUSTICE AGENCIES.  (a) The legislature by law may organize and combine into
+one or more agencies all agencies of the state that:
 (1)  have authority over the confinement or supervision of persons convicted of criminal offenses;
 (2)  set standards or distribute state funds to political subdivisions that have authority over the
 confinement or supervision of persons convicted of criminal offenses; or
@@ -1892,15 +2059,16 @@ appointment of the Governor.
 (b)  An appointment of the Governor made during a session of the Senate shall be with the advice
 and consent of two-thirds of the Senate present.
 (c)  In accordance with this section, the Senate may give its advice and consent on an appointment
-of the Governor made during a recess of the Senate.  To be confirmed, the appointment must be with the
-advice and consent of two-thirds of the Senate present.  If an appointment of the Governor is made
+of the Governor made during a recess of the Senate.  To be confirmed, the appointment must be with
+the advice and consent of two-thirds of the Senate present.  If an appointment of the Governor is made
 during the recess of the Senate, the Governor shall nominate the appointee, or some other person to fill
 the vacancy, to the Senate during the first ten days of its next session following the appointment.  If the
 Senate does not confirm a person under this subsection, the Governor shall nominate in accordance with
 this section the recess appointee or another person to fill the vacancy during the first ten days of each
-subsequent session of the Senate until a confirmation occurs.  If the Governor does not nominate a person
-to the Senate during the first ten days of a session of the Senate as required by this subsection, the Senate
-at that session may consider the recess appointee as if the Governor had nominated the appointee.
+subsequent session of the Senate until a confirmation occurs.  If the Governor does not nominate a
+person to the Senate during the first ten days of a session of the Senate as required by this subsection,
+the Senate at that session may consider the recess appointee as if the Governor had nominated the
+appointee.
 (d)  If the Senate, at any special session, does not take final action to confirm or reject a previously
 unconfirmed recess appointee or another person nominated to fill the vacancy for which the appointment
 was made:
@@ -1953,8 +2121,8 @@ a statement of the items to which he objects, and no item so objected to shall t
 Legislature be in session, he shall transmit to the House in which the bill originated a copy of such
 statement and the items objected to shall be separately considered.  If, on reconsideration, one or more
 of such items be approved by two-thirds of the members present of each House, the same shall be part
-of the law, notwithstanding the objections of the Governor.  If any such bill, containing several items of
-appropriation, not having been presented to the Governor ten days (Sundays excepted) prior to
+of the law, notwithstanding the objections of the Governor.  If any such bill, containing several items
+of appropriation, not having been presented to the Governor ten days (Sundays excepted) prior to
 adjournment, be in the hands of the Governor at the time of adjournment, he shall have twenty days from
 such adjournment within which to file objections to any items thereof and make proclamation of the
 same, and such item or items shall not take effect.
@@ -1979,9 +2147,9 @@ Governor becomes able or qualified to resume serving, is acquitted, or returns t
 (d)  If the Governor refuses to serve or becomes permanently unable to serve, or if the office of
 Governor becomes vacant, the Lieutenant Governor becomes Governor for the remainder of the term
 being served by the Governor who refused or became unable to serve or vacated the office.  On
-becoming Governor, the person vacates the office of Lieutenant Governor, and the resulting vacancy in
-the office of Lieutenant Governor shall be filled in the manner provided by Section 9, Article III, of this
-Constitution.  (Subsecs. (a), (b), and (c) amended and Subsec. (d) added Nov. 2, 1999.)
+becoming Governor, the person vacates the office of Lieutenant Governor, and the resulting vacancy
+in the office of Lieutenant Governor shall be filled in the manner provided by Section 9, Article III, of
+this Constitution.  (Subsecs. (a), (b), and (c) amended and Subsec. (d) added Nov. 2, 1999.)
 Sec. 17.  DEATH, RESIGNATION, REFUSAL TO SERVE, REMOVAL, INABILITY TO
 SERVE, IMPEACHMENT, OR ABSENCE; COMPENSATION.  (a) If, while exercising the powers
 and authority appertaining to the office of Governor under Section 16(c) of this article, the Lieutenant
@@ -2015,9 +2183,10 @@ Sec. 21.  SECRETARY OF STATE.  There shall be a Secretary of State, who shall be
 by the Governor, by and with the advice and consent of the Senate, and who shall continue in office
 during the term of service of the Governor.  He shall authenticate the publication of the laws, and keep
 a fair register of all official acts and proceedings of the Governor, and shall, when required, lay the same
-and all papers, minutes and vouchers relative thereto, before the Legislature, or either House thereof, and
-shall perform such other duties as may be required of him by law.  He shall receive for his services an
-annual salary in an amount to be fixed by the Legislature.  (Amended Nov. 3, 1936, and Nov. 2, 1954.)
+and all papers, minutes and vouchers relative thereto, before the Legislature, or either House thereof,
+and shall perform such other duties as may be required of him by law.  He shall receive for his services
+an annual salary in an amount to be fixed by the Legislature.  (Amended Nov. 3, 1936, and Nov. 2,
+1954.)
 Sec. 22.  ATTORNEY GENERAL.  The Attorney General shall represent the State in all suits and
 pleas in the Supreme Court of the State in which the State may be a party, and shall especially inquire
 into the charter rights of all private corporations, and from time to time, in the name of the State, take
@@ -2047,10 +2216,10 @@ disbursed or otherwise disposed of by them, severally, from all sources, and for
 and a semi-annual report thereof shall be made to the Governor under oath.  The Governor may, at any
 time, require information in writing from any and all of said officers or managers, upon any subject
 relating to the duties, condition, management and expenses of their respective offices and institutions,
-which information shall be required by the Governor under oath, and the Governor may also inspect their
-books, accounts, vouchers and public funds; and any officer or manager who, at any time, shall wilfully
-make a false report or give false information, shall be guilty of perjury, and so adjudged, and punished
-accordingly, and removed from office.
+which information shall be required by the Governor under oath, and the Governor may also inspect
+their books, accounts, vouchers and public funds; and any officer or manager who, at any time, shall
+wilfully make a false report or give false information, shall be guilty of perjury, and so adjudged, and
+punished accordingly, and removed from office.
 Sec. 25.  CUSTODIANS OF PUBLIC FUNDS; BREACHES OF TRUST AND DUTY.  The
 Legislature shall pass efficient laws facilitating the investigation of breaches of trust and duty by all
 custodians of public funds and providing for their suspension from office on reasonable cause shown,
@@ -2060,7 +2229,6 @@ Notaries Public for the state who shall perform such duties as now are or may be
 qualifications of Notaries Public shall be prescribed by law.
 (b)  The terms of office of Notaries Public shall be not less than two years nor more than four years
 as provided by law.  (Amended Nov. 5, 1940; Subsec. (b) amended  Nov. 6, 1979.)
-
                            ARTICLE 5
                       JUDICIAL DEPARTMENT
 Sec. 1.  JUDICIAL POWER; COURTS IN WHICH VESTED.  The judicial power of this State shall be
@@ -2077,28 +2245,26 @@ compensation of Justices and Judges of the Appellate Courts and District and Cri
 on account of length of service, age and disability, and for their reassignment to active duty where and
 when needed.  The office of every such Justice and Judge shall become vacant when the incumbent
 reaches the age of seventy-five (75) years or such earlier age, not less than seventy (70) years, as the
-Legislature may prescribe; but, in the case of an incumbent whose term of office includes the effective
-date of this Amendment, this provision shall not prevent him from serving the remainder of said term
-nor be applicable to him before his period or periods of judicial service shall have reached a total of ten
-(10) years.
-(2)  The name of the State Judicial Qualifications Commission is changed to the State Commission
-on Judicial Conduct.  The Commission consists of eleven (11) members, to wit:  (i)  one (1) Justice of
-a Court of Appeals; (ii)  one (1) District Judge; (iii)  two (2) members of the State Bar, who have
-respectively practiced as such for over ten (10) consecutive years next preceding their selection; (iiii) 
-four (4) citizens, at least thirty (30) years of age, not licensed to practice law nor holding any salaried
-public office or employment; (v)  one (1) Justice of the Peace; (vi)  one (1) Judge of a Municipal Court;
-and, (vii)  one (1) Judge of a County Court at Law; provided that no person shall be or remain a member
-of the Commission, who does not maintain physical residence within this State, or who resides in, or
-holds a judgeship within or for, the same Supreme Judicial District as another member of the
-Commission, or who shall have ceased to retain the qualifications above specified for his respective class
-of membership, except that the Justice of the Peace and the Judges of a Municipal Court and or a County
-Court at Law shall be selected at large without regard to whether they reside or hold a judgeship in the
-same Supreme Judicial District as another member of the Commission.  Commissioners of classes (i),
-(ii), and (vii) above shall be chosen by the Supreme Court with advice and consent of the Senate, those
-of class (iii) by the Board of Directors of the State Bar under regulations to be prescribed by the Supreme
-Court with advice and consent of the Senate, those of class (iiii) by appointment of the Governor with
-advice and consent of the Senate, and the commissioners of classes (v) and (vi) by appointment of the
-Supreme Court as provided by law, with the advice and consent of the Senate.
+Legislature may prescribe.
+TEMPORARY TRANSITION PROVISION.4
+(2)  The State Commission on Judicial Conduct consists of eleven (11) members, to wit:  (i)  one
+(1) Justice of a Court of Appeals; (ii)  one (1) District Judge; (iii)  two (2) members of the State Bar, who
+have respectively practiced as such for over ten (10) consecutive years next preceding their selection;
+(iiii)  four (4) citizens, at least thirty (30) years of age, not licensed to practice law nor holding any
+salaried public office or employment; (v)  one (1) Justice of the Peace; (vi)  one (1) Judge of a Municipal
+Court; and, (vii)  one (1) Judge of a County Court at Law; provided that no person shall be or remain
+a member of the Commission, who does not maintain physical residence within this State, or who resides
+in, or holds a judgeship within or for, the same Supreme Judicial District as another member of the
+Commission, or who shall have ceased to retain the qualifications above specified for his respective
+class of membership, except that the Justice of the Peace and the Judges of a Municipal Court and or a
+County Court at Law shall be selected at large without regard to whether they reside or hold a judgeship
+in the same Supreme Judicial District as another member of the Commission.  Commissioners of classes
+(i), (ii), and (vii) above shall be chosen by the Supreme Court with advice and consent of the Senate,
+those of class (iii) by the Board of Directors of the State Bar under regulations to be prescribed by the
+Supreme Court with advice and consent of the Senate, those of class (iiii) by appointment of the
+Governor with advice and consent of the Senate, and the commissioners of classes (v) and (vi) by
+appointment of the Supreme Court as provided by law, with the advice and consent of the Senate.
+TEMPORARY TRANSITION PROVISION.4
 (3)  The regular term of office of Commissioners shall be six (6) years; but the initial members of
 each of classes (i), (ii) and (iii) shall respectively be chosen for terms of four (4) and six (6) years, and
 the initial members of class (iiii) for respective terms of two (2), four (4) and six (6) years.  Interim
@@ -2107,12 +2273,12 @@ the unexpired portion of the term in question.  Commissioners may succeed themse
 if having served less than three (3) consecutive years.
 (4)  Commissioners shall receive no compensation for their services as such.  The Legislature shall
 provide for the payment of the necessary expense for the operation of the Commission.
-(5)  The Commission may hold its meetings, hearings and other proceedings at such times and places
-as it shall determine but shall meet at Austin at least once each year.  It shall annually select one of its
-members as Chairman.  A quorum shall consist of six (6) members.  Proceedings shall be by majority
-vote of those present, except that recommendations for retirement, censure, suspension, or removal of
-any person holding an office named in Paragraph A of Subsection (6) of this Section shall be by
-affirmative vote of at least six (6) members.
+(5)  The Commission may hold its meetings, hearings and other proceedings at such times and
+places as it shall determine but shall meet at Austin at least once each year.  It shall annually select one
+of its members as Chairman.  A quorum shall consist of six (6) members.  Proceedings shall be by
+majority vote of those present, except that recommendations for retirement, censure, suspension, or
+removal of any person holding an office named in Paragraph A of Subsection (6) of this Section shall
+be by affirmative vote of at least six (6) members.
 (6)  A. Any Justice or Judge of the courts established by this Constitution or created by the
 Legislature as provided in Section 1, Article V, of this Constitution, may, subject to the other provisions
 hereof, be removed from office for willful or persistent violation of rules promulgated by the Supreme
@@ -2140,15 +2306,15 @@ performance of his duties, which is, or is likely to become, permanent in nature
 C.   The law relating to the removal, discipline, suspension, or censure of a Justice or Judge of the
 courts established by this Constitution or created by the Legislature as provided in this Constitution
 applies to a master or magistrate appointed as provided by law to serve a trial court of this State and to
-a retired or former Judge who continues as a judicial officer subject to an assignment to sit on a court
-of this State.  Under the law relating to the removal of an active Justice or Judge, the Commission and
-the review tribunal may prohibit a retired or former Judge from holding judicial office in the future or
-from sitting on a court of this State by assignment.
+a retired or former Judge who continues as a judicial officer subject to an assignment to sit on a court of this State. 
+Under the law relating to the removal of an active Justice or Judge, the Commission and the review tribunal may prohibit a
+retired or former Judge from holding judicial office in the future or from sitting on a court of this State by
+assignment.
 (7)  The Commission shall keep itself informed as fully as may be of circumstances relating to the
 misconduct or disability of particular persons holding an office named in Paragraph A of Subsection (6)
 of this Section, receive complaints or reports, formal or informal, from any source in this behalf and
-make such preliminary investigations as it may determine.  Its orders for the attendance or testimony of
-witnesses or for the production of documents at any hearing or investigation shall be
+make such preliminary investigations as it may determine.  Its orders for the attendance or testimony
+of witnesses or for the production of documents at any hearing or investigation shall be
 enforceable by contempt proceedings in the District Court or by a Master.
 (8)  After such investigation as it deems necessary, the Commission may in its discretion issue a
 private or public admonition, warning, reprimand, or requirement that the person obtain additional
@@ -2167,18 +2333,18 @@ thereupon file with the tribunal the entire  record before the Commission.
          (9)     A tribunal to review the Commission's recommendation for the removal or retirement of a
 person holding an office or position specified in Subsection (6) of this Section is composed of seven (7)
 Justices or Judges of the Courts of Appeals who are selected by lot by the Chief Justice of the Supreme
-Court.  Each Court of Appeals shall designate one of its members for inclusion in the list from which the
-selection is made.  Service on the tribunal shall be considered part of the official duties of a judge, and
-no additional compensation may be paid for such service.  The review tribunal shall review the record
-of the proceedings on the law and facts and in its discretion may, for good cause shown, permit the
-introduction of additional evidence.  Within 90 days after the date on which the record is filed with the
-review tribunal, it shall order public censure, retirement or removal, as it finds just and proper, or wholly
-reject the recommendation.  A Justice, Judge, Master, or Magistrate may appeal a decision of the review
-tribunal to the Supreme Court under the substantial evidence rule.  Upon an order for involuntary
-retirement for disability or an order for removal, the office in question shall become vacant.  The review
-tribunal, in an order for involuntary retirement for disability or an order for removal, may prohibit such
-person from holding judicial office in the future.  The rights of an incumbent so retired to retirement
-benefits shall be the same as if his retirement had been voluntary.
+Court.  Each Court of Appeals shall designate one of its members for inclusion in the list from which
+the selection is made.  Service on the tribunal shall be considered part of the official duties of a judge,
+and no additional compensation may be paid for such service.  The review tribunal shall review the
+record of the proceedings on the law and facts and in its discretion may, for good cause shown, permit
+the introduction of additional evidence.  Within 90 days after the date on which the record is filed with
+the review tribunal, it shall order public censure, retirement or removal, as it finds just and proper, or
+wholly reject the recommendation.  A Justice, Judge, Master, or Magistrate may appeal a decision of
+the review tribunal to the Supreme Court under the substantial evidence rule.  Upon an order for
+involuntary retirement for disability or an order for removal, the office in question shall become vacant. 
+The review tribunal, in an order for involuntary retirement for disability or an order for removal, may
+prohibit such person from holding judicial office in the future.  The rights of an incumbent so retired to
+retirement benefits shall be the same as if his retirement had been voluntary.
         (10)     All papers filed with and proceedings before the Commission or a Master shall be confidential,
 unless otherwise provided by law, and the filing of papers with, and the giving of testimony before the
 Commission or a Master shall be privileged, unless otherwise provided by law.  However, the
@@ -2202,138 +2368,136 @@ charged, upon proof of which a penalty may be imposed.
 of the Commission in any proceeding involving his own suspension, discipline, censure, retirement or
 removal.
         (13)     This Section 1-a is alternative to and cumulative of, the methods of removal of persons holding
-an office named in Paragraph A of Subsection (6) of this Section provided elsewhere in this Constitution.
+an office named in Paragraph A of Subsection (6) of this Section provided elsewhere in this
+Constitution.
         (14)     The Legislature may promulgate laws in furtherance of this Section that are not inconsistent
 with its provisions.  (Added Nov. 2, 1948; Subsecs. (1)-(13) amended Nov. 2, 1965; Subsecs. (5)-(9) and
 (11)-(13) amended Nov. 3, 1970; Subsecs. (2), (5)-(10), and (12) amended Nov. 8, 1977; Subsecs. (2),
-(6), and (8)-(12) amended and (14) added Nov. 6, 1984.)
+(6), and (8)-(12) amended and (14) added Nov. 6, 1984; Subsecs. (1) and (2) amended Nov. 6, 2001.)
 Sec. 2.  SUPREME COURT; JUSTICES; SECTIONS; ELIGIBILITY; ELECTION;
-VACANCIES.  The Supreme Court shall consist of the Chief Justice and eight Justices, any five of
+VACANCIES. (a) The Supreme Court shall consist of the Chief Justice and eight Justices, any five of
 whom shall constitute a quorum, and the concurrence of five shall be necessary to a decision of a case;
-provided, that when the business of the court may require, the court may sit in sections as designated by
-the court to hear argument of causes and to consider applications for writs of error or other preliminary
-matters.  No person shall be eligible to serve in the office of Chief Justice or Justice of the Supreme
-Court unless the person is licensed to practice law in this state and is, at the time of election, a citizen of
-the United States and of this state, and has attained the age of thirty-five years, and has been a practicing
-lawyer, or a lawyer and judge of a court of record together at least ten years.  Said Justices shall be
-elected (three of them each two years) by the qualified voters of the state at a general election; shall hold
-their offices six years, or until their successors are elected and qualified; and shall each receive such
-compensation as shall be provided by law.  In case of a vacancy in the office of the Chief Justice or any
-Justice of the Supreme Court, the Governor shall fill the vacancy until the next general election for state
-officers, and at such general election the vacancy for the unexpired term shall be filled by election by
-the qualified voters of the state.  The Justices of the Supreme Court who may be in office at the time this
-amendment takes effect shall continue in office until the expiration of their term of office under the
-present Constitution, and until their successors are elected and qualified.  (Amended Aug. 11, 1891, Aug.
-25, 1945, and Nov. 4, 1980.)
-Sec. 3.  JURISDICTION OF SUPREME COURT; WRITS; CLERK.  The Supreme Court shall
-exercise the judicial power of the state except as otherwise provided in this Constitution.  Its jurisdiction
-shall be co-extensive with the limits of the State and its determinations shall be final except in criminal
-law matters.  Its appellate jurisdiction shall be final and shall extend to all cases except in criminal law
-matters and as otherwise provided in this Constitution or by law.  The Supreme Court and the Justices
-thereof shall have power to issue writs of habeas corpus, as may be prescribed by law, and under such
-regulations as may be prescribed by law, the said courts and the Justices thereof may issue the writs of
-mandamus, procedendo, certiorari and such other writs, as may be necessary to enforce its jurisdiction. 
-The Legislature may confer original jurisdiction on the Supreme Court to issue writs of quo warranto
-and mandamus in such cases as may be specified, except as against the Governor of the State.
-The Supreme Court shall also have power, upon affidavit or otherwise as by the court may be
-determined, to ascertain such matters of fact as may be necessary to the proper exercise of its jurisdiction.
-The Supreme Court shall appoint a clerk, who shall give bond in such manner as is now or may
-hereafter, be required by law, and he may hold his office for four years and shall be subject to removal
-by said court for good cause entered of record on the minutes of said court who shall receive such
-compensation as the Legislature may provide.  (Amended Aug. 11, 1891, Nov. 4, 1930, and Nov. 4,
-1980.)
-Sec. 3a.  SESSIONS OF COURT.  The Supreme Court may sit at any time during the year at the
-seat of government or, at the court's discretion, at any other location in this state for the transaction of
-business and each term thereof shall begin and end with each calendar year.  (Added Nov. 4, 1930;
-amended Nov. 4, 1997.)
+provided, that when the business of the court may require, the court may sit in sections as designated
+by the court to hear argument of causes and to consider applications for writs of error or other
+preliminary matters.
+(b)  No person shall be eligible to serve in the office of Chief Justice or Justice of the Supreme Court
+unless the person is licensed to practice law in this state and is, at the time of election, a citizen of the
+United States and of this state, and has attained the age of thirty-five years, and has been a practicing
+lawyer, or a lawyer and judge of a court of record together at least ten years.
+(c)  Said Justices shall be elected (three of them each two years) by the qualified voters of the state
+at a general election; shall hold their offices six years; and shall each receive such compensation as shall
+be provided by law.  (Amended Aug. 11, 1891, Aug. 25, 1945, Nov. 4, 1980, and Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
+Sec. 3. JURISDICTION OF SUPREME COURT; WRITS; CLERK. (a) The Supreme Court
+shall exercise the judicial power of the state except as otherwise provided in this Constitution.  Its
+jurisdiction shall be co-extensive with the limits of the State and its determinations shall be final except
+in criminal law matters.  Its appellate jurisdiction shall be final and shall extend to all cases except in
+criminal law matters and as otherwise provided in this Constitution or by law.  The Supreme Court and
+the Justices thereof shall have power to issue writs of habeas corpus, as may be prescribed by law, and
+under such regulations as may be prescribed by law, the said courts and the Justices thereof may issue
+the writs of mandamus, procedendo, certiorari and such other writs, as may be necessary to enforce its
+jurisdiction.  The Legislature may confer original jurisdiction on the Supreme Court to issue writs of quo
+warranto and mandamus in such cases as may be specified, except as against the Governor of the State.
+(b)  The Supreme Court shall also have power, upon affidavit or otherwise as by the court may be
+determined, to ascertain such matters of fact as may be necessary to the proper exercise of its
+jurisdiction.  (Amended Aug. 11, 1891, Nov. 4, 1930, Nov. 4, 1980, and Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
+Sec. 3a.  (Repealed Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
 Sec. 3-b.  APPEAL FROM ORDER GRANTING OR DENYING INJUNCTION.  The
 Legislature shall have the power to provide by law, for an appeal direct to the Supreme Court of this
 State from an order of any trial court granting or denying an interlocutory or permanent injunction on
-the grounds of the constitutionality or unconstitutionality of any statute of this State, or on the validity
-or invalidity of any administrative order issued by any state agency under any statute of this State. 
-(Added Nov. 5, 1940.)
+the grounds of the constitutionality or unconstitutionality of any statute of this State, or on the validity or invalidity of any
+administrative order issued by any state agency under any statute of this State.  (Added Nov. 5, 1940.)
 Sec. 3-c.  JURISDICTION TO ANSWER QUESTIONS OF STATE LAW CERTIFIED FROM
 FEDERAL APPELLATE COURT.  (a) The supreme court and the court of criminal appeals have
 jurisdiction to answer questions of state law certified from a federal appellate court.
 (b)  The supreme court and the court of criminal appeals shall promulgate rules of procedure relating
 to the review of those questions.  (Added Nov. 5, 1985.)
-Sec. 4.  COURT OF CRIMINAL APPEALS; JUDGES.  The Court of Criminal Appeals shall
+Sec. 4.  COURT OF CRIMINAL APPEALS; JUDGES. (a) The Court of Criminal Appeals shall
 consist of eight Judges and one Presiding Judge.  The Judges shall have the same qualifications and
 receive the same salaries as the Associate Justices of the Supreme Court, and the Presiding Judge shall
 have the same qualifications and receive the same salary as the Chief Justice of the Supreme Court.  The
 Presiding Judge and the Judges shall be elected by the qualified voters of the state at a general election
-and shall hold their offices for a term of six years.  In case of a vacancy in the office of a Judge of the
-Court of Criminal Appeals, the Governor shall, with the advice and consent of the Senate, fill said
-vacancy by appointment until the next succeeding general election.
-For the purpose of hearing cases, the Court of Criminal Appeals may sit in panels of three Judges,
-the designation thereof to be under rules established by the court.  In a panel of three Judges, two Judges
-shall constitute a quorum and the concurrence of two Judges shall be necessary for a decision.  The
-Presiding Judge, under rules established by the court, shall convene the court en banc for the transaction
-of all other business and may convene the court en banc for the purpose of hearing cases.  The court must
-sit en banc during proceedings involving capital punishment and other cases as required by law.  When
-convened en banc, five Judges shall constitute a quorum and the concurrence of five Judges shall be
-necessary for a decision.  The Court of Criminal Appeals may appoint Commissioners in aid of the Court
-of Criminal Appeals as provided by law.  (Amended Aug. 11, 1891, Nov. 8, 1966, and Nov. 8, 1977.)
+and shall hold their offices for a term of six years.
+(b)  For the purpose of hearing cases, the Court of Criminal Appeals may sit in panels of three
+Judges, the designation thereof to be under rules established by the court.  In a panel of three Judges,
+two Judges shall constitute a quorum and the concurrence of two Judges shall be necessary for a
+decision.  The Presiding Judge, under rules established by the court, shall convene the court en banc for
+the transaction of all other business and may convene the court en banc for the purpose of hearing cases. 
+The court must sit en banc during proceedings involving capital punishment and other cases as required
+by law.  When convened en banc, five Judges shall constitute a quorum and the concurrence of five
+Judges shall be necessary for a decision.  The Court of Criminal Appeals may appoint Commissioners
+in aid of the Court of Criminal Appeals as provided by law.  (Amended Aug. 11, 1891, Nov. 8, 1966,
+Nov. 8, 1977, and Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
 Sec. 5.  JURISDICTION OF COURT OF CRIMINAL APPEALS; TERMS OF COURT;
-CLERK.  The Court of Criminal Appeals shall have final appellate jurisdiction coextensive with the
+CLERK. (a) The Court of Criminal Appeals shall have final appellate jurisdiction coextensive with the
 limits of the state, and its determinations shall be final, in all criminal cases of whatever grade, with such
 exceptions and under such regulations as may be provided in this Constitution or as prescribed by law.
-The appeal of all cases in which the death penalty has been assessed shall be to the Court of Criminal
-Appeals.  The appeal of all other criminal cases shall be to the Courts of Appeal as prescribed by law. 
-In addition, the Court of Criminal Appeals may, on its own motion, review a decision of a Court of
-Appeals in a criminal case as provided by law.  Discretionary review by the Court of Criminal Appeals
-is not a matter of right, but of sound judicial discretion.
-Subject to such regulations as may be prescribed by law, the Court of Criminal Appeals and the
+(b)  The appeal of all cases in which the death penalty has been assessed shall be to the Court of
+Criminal Appeals.  The appeal of all other criminal cases shall be to the Courts of Appeal as prescribed
+by law.  In addition, the Court of Criminal Appeals may, on its own motion, review a decision of a Court
+of Appeals in a criminal case as provided by law.  Discretionary review by the Court of Criminal
+Appeals is not a matter of right, but of sound judicial discretion.
+(c)  Subject to such regulations as may be prescribed by law, the Court of Criminal Appeals and the
 Judges thereof shall have the power to issue the writ of habeas corpus, and, in criminal law matters, the
 writs of mandamus, procedendo, prohibition, and certiorari.  The Court and the Judges thereof shall have
 the power to issue such other writs as may be necessary to protect its jurisdiction or enforce its
 judgments.  The court shall have the power upon affidavit or otherwise to ascertain such matters of fact
-as may be necessary to the exercise of its jurisdiction.
-The Court of Criminal Appeals may sit for the transaction of business at any time during the year
-and each term shall begin and end with each calendar year.  The Court of Criminal Appeals shall appoint
-a clerk of the court who shall give bond in such manner as is now or may hereafter be required by law,
-and who shall hold his office for a term of four years unless sooner removed by the court for good cause
-entered of record on the minutes of said court.
-The Clerk of the Court of Criminal Appeals who may be in office at the time when this Amendment
-takes effect shall continue in office for the term of his appointment.  (Amended Aug. 11, 1891, Nov. 8,
-1966, Nov. 8, 1977, and Nov. 4, 1980.)
-Sec. 6.  COURTS OF APPEALS; TERMS OF JUSTICES; CLERKS.  The state shall be divided
-into courts of appeals districts, with each district having a Chief Justice, two or more other Justices, and
-such other officials as may be provided by law.  The Justices shall have the qualifications prescribed for
-Justices of the Supreme Court.  The Court of Appeals may sit in sections as authorized by law.  The
-concurrence of a majority of the judges sitting in a section is necessary to decide a case.  Said Court of
-Appeals shall have appellate jurisdiction co-extensive with the limits of their respective districts, which
-shall extend to all cases of which the District Courts or County Courts have original or appellate
-jurisdiction, under such restrictions and regulations as may be prescribed by law.  Provided, that the
-decision of said courts shall be conclusive on all questions of fact brought before them on appeal or error. 
-Said courts shall have such other jurisdiction, original and appellate, as may be prescribed by law.
-Each of said Courts of Appeals shall hold its sessions at a place in its district to be designated by the
-Legislature, and at such time as may be prescribed by law.  Said Justices shall be elected by the qualified
-voters of their respective districts at a general election, for a term of six years and shall receive for their
-services the sum provided by law.  Each Court of Appeals shall appoint a clerk in the same manner as
-the clerk of the Supreme Court which clerk shall receive such compensation as may be fixed by law.
-All constitutional and statutory references to the Courts of Civil Appeals shall be construed to mean
-the Courts of Appeals.  (Amended Aug. 11, 1891, Nov. 7, 1978, Nov. 4, 1980, and Nov. 5, 1985.)
+as may be necessary to the exercise of its jurisdiction.  (Amended Aug. 11, 1891, Nov. 8, 1966, Nov. 8, 1977,
+Nov. 4, 1980, and Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
+Sec. 5a.  SUPREME COURT, COURT OF CRIMINAL APPEALS, COURT OF APPEALS;
+CLERK OF COURT; TERMS.  The Supreme Court, Court of Criminal Appeals, and each Court of
+Appeals shall each appoint a clerk of the court, who shall give bond in the manner required by law, may
+hold office for four years subject to removal by the appointing court for good cause entered of record
+on the minutes of the court, and shall receive such compensation as the legislature may provide.  (Added
+Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
+Sec. 5b.  SUPREME COURT, COURT OF CRIMINAL APPEALS; LOCATION; TERM.  The
+Supreme Court and the Court of Criminal Appeals may sit at any time during the year at the seat of
+government or, at the court's discretion, at any other location in this state for the transaction of business,
+and each term of either court shall begin and end with each calendar year.  (Added Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
+Sec. 6.  COURTS OF APPEALS; TERMS OF JUSTICES; CLERKS. (a) The state shall be
+divided into courts of appeals districts, with each district having a Chief Justice, two or more other
+Justices, and such other officials as may be provided by law.  The Justices shall have the qualifications
+prescribed for Justices of the Supreme Court.  The Court of Appeals may sit in sections as authorized
+by law.  The concurrence of a majority of the judges sitting in a section is necessary to decide a case. 
+Said Court of Appeals shall have appellate jurisdiction co-extensive with the limits of their respective
+districts, which shall extend to all cases of which the District Courts or County Courts have original or
+appellate jurisdiction, under such restrictions and regulations as may be prescribed by law.  Provided,
+that the decision of said courts shall be conclusive on all questions of fact brought before them on appeal
+or error.  Said courts shall have such other jurisdiction, original and appellate, as may be prescribed by
+law.
+(b)  Each of said Courts of Appeals shall hold its sessions at a place in its district to be designated
+by the Legislature, and at such time as may be prescribed by law.  Said Justices shall be elected by the
+qualified voters of their respective districts at a general election, for a term of six years and shall receive
+for their services the sum provided by law.
+(c)  All constitutional and statutory references to the Courts of Civil Appeals shall be construed to
+mean the Courts of Appeals.  (Amended Aug. 11, 1891, Nov. 7, 1978, Nov. 4, 1980, Nov. 5, 1985, and Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
 Sec. 7.  JUDICIAL DISTRICTS; DISTRICT JUDGES; TERMS OR SESSIONS; ABSENCE,
 DISABILITY, OR DISQUALIFICATION OF JUDGE.  The State shall be divided into judicial
 districts, with each district having one or more Judges as may be provided by law or by this Constitution. 
-Each district judge shall be elected by the qualified voters at a General Election and shall be a citizen of
-the United States and of this State, who is licensed to practice law in this State and has been a practicing
-lawyer or a Judge of a Court in this State, or both combined, for four (4) years next preceding his
-election, who has resided in the district in which he was elected for two (2) years next preceding his
+Each district judge shall be elected by the qualified voters at a General Election and shall be a citizen
+of the United States and of this State, who is licensed to practice law in this State and has been a
+practicing lawyer or a Judge of a Court in this State, or both combined, for four (4) years next preceding
+his election, who has resided in the district in which he was elected for two (2) years next preceding his
 election, and who shall reside in his district during his term of office and hold his office for the period
 of four (4) years, and who shall receive for his services an annual salary to be fixed by the Legislature. 
 The Court shall conduct its proceedings at the county seat of the county in which the case is pending,
-except as otherwise provided by law.  He shall hold the regular terms of his Court at the County Seat of
-each County in his district in such manner as may be prescribed by law.  The Legislature shall have
+except as otherwise provided by law.  He shall hold the regular terms of his Court at the County Seat
+of each County in his district in such manner as may be prescribed by law.  The Legislature shall have
 power by General or Special Laws to make such provisions concerning the terms or sessions of each
 Court as it may deem necessary.
 The Legislature shall also provide for the holding of District Court when the Judge thereof is absent,
 or is from any cause disabled or disqualified from presiding.  (Amended Aug. 11, 1891, Nov. 8, 1949,
 and Nov. 5, 1985.)
-Sec. 7a.  JUDICIAL DISTRICTS BOARD; REAPPORTIONMENT OF JUDICIAL DISTRICTS.  (a) The
-Judicial Districts Board is created to reapportion the judicial districts authorized by Article V, Section
-7, of this constitution.
+Sec. 7a.  JUDICIAL DISTRICTS BOARD; REAPPORTIONMENT OF JUDICIAL
+DISTRICTS.  (a) The Judicial Districts Board is created to reapportion the judicial districts authorized
+by Article V, Section 7, of this constitution.
 (b)  The membership of the board consists of the Chief Justice of the Texas Supreme Court who
 serves as chairman, the presiding judge of the Texas Court of Criminal Appeals, the presiding judge of
 each of the administrative judicial districts of the state, the president of the Texas Judicial Council, and
@@ -2347,8 +2511,8 @@ the board.
 sessions of the legislature, except that a reapportionment may not be ordered by the board during an
 interim immediately following a regular session of the legislature in which a valid and subsisting
 statewide apportionment of judicial districts is enacted by the legislature.  The board has other powers
-and duties as provided by the legislature and shall exercise its powers under the policies, rules, standards,
-and conditions, not inconsistent with this section, that the legislature provides.
+and duties as provided by the legislature and shall exercise its powers under the policies, rules,
+standards, and conditions, not inconsistent with this section, that the legislature provides.
 (e)  Unless the legislature enacts a statewide reapportionment of the judicial districts following each
 federal decennial census, the board shall convene not later than the first Monday of June of the third year
 following the year in which the federal decennial census is taken to make a statewide reapportionment
@@ -2357,99 +2521,105 @@ secretary of state not later than August 31 of the same year.  If the Judicial D
 a statewide apportionment by that date, the Legislative Redistricting Board established by Article III,
 Section 28, of this constitution shall make a statewide reapportionment of the judicial districts not later
 than the 150th day after the final day for the Judicial Districts Board to make the reapportionment.
-(f)  In addition to the statewide reapportionment, the board may reapportion the judicial districts of
-the state as the necessity for reapportionment appears by redesignating, in one or more reapportionment
-orders, the county or counties that comprise the specific judicial districts affected by those
-reapportionment orders.  In modifying any judicial district, no county having a population as large or
-larger than the population of the judicial district being reapportioned shall be added to the judicial
+(f)  In addition to the statewide reapportionment, the board may reapportion the judicial districts
+of the state as the necessity for reapportionment appears by redesignating, in one or more
+reapportionment orders, the county or counties that comprise the specific judicial districts affected by
+those reapportionment orders.  In modifying any judicial district, no county having a population as large
+or larger than the population of the judicial district being reapportioned shall be added to the judicial
 district.
 (g)  Except as provided by Subsection (i) of this section, this section does not limit the power of the
-legislature to reapportion the judicial districts of the state, to increase the number of judicial districts, or
-to provide for consequent matters on reapportionment.  The legislature may provide for the effect of a
-reapportionment made by the board on pending cases or the transfer of pending cases, for jurisdiction
+legislature to reapportion the judicial districts of the state, to increase the number of judicial districts,
+or to provide for consequent matters on reapportionment.  The legislature may provide for the effect of
+a reapportionment made by the board on pending cases or the transfer of pending cases, for jurisdiction
 of a county court where county court jurisdiction has been vested by law in a district court affected by
 the reapportionment, for terms of the courts upon existing officers and their duties, and for all other
 matters affected by the reapportionment.  The legislature may delegate any of these powers to the board. 
 The legislature shall provide for the necessary expenses of the board.
-(h)  Any judicial reapportionment order adopted by the board must be approved by a record vote of
-the majority of the membership of both the senate and house of representatives before such order can
+(h)  Any judicial reapportionment order adopted by the board must be approved by a record vote
+of the majority of the membership of both the senate and house of representatives before such order can
 become effective and binding.
 (i)  The legislature, the Judicial Districts Board, or the Legislative Redistricting Board may not
 redistrict the judicial districts to provide for any judicial district smaller in size than an entire county
-except as provided by this section.  Judicial districts smaller in size than the entire county may be created
-subsequent to a general election where a majority of the persons voting on the proposition adopt the
-proposition "to allow the division of ___________ County into judicial districts composed of parts of
-__________ County."  No redistricting plan may be proposed or adopted by the legislature, the Judicial
-Districts Board, or the Legislative Redistricting Board in anticipation of a future action by the voters of
-any county.  (Added Nov. 5, 1985.)
-Sec. 8.  JURISDICTION OF DISTRICT COURT.  District Court jurisdiction consists of
-exclusive, appellate, and original jurisdiction of all actions, proceedings, and remedies, except in cases
-where exclusive, appellate, or original jurisdiction may be conferred by this Constitution or other law
-on some other court, tribunal, or administrative body.  District Court judges shall have the power to issue
-writs necessary to enforce their jurisdiction.
+except as provided by this section.  Judicial districts smaller in size than the entire county may be
+created subsequent to a general election where a majority of the persons voting on the proposition adopt
+the proposition "to allow the division of ___________ County into judicial districts composed of parts
+of __________ County."  No redistricting plan may be proposed or adopted by the legislature, the
+Judicial Districts Board, or the Legislative Redistricting Board in anticipation of a future action by the
+voters of any county.  (Added Nov. 5, 1985.)
+Sec. 8.  JURISDICTION OF DISTRICT COURT.  District Court jurisdiction consists of exclusive,
+appellate, and original jurisdiction of all actions, proceedings, and remedies, except in cases where exclusive, appellate, or
+original jurisdiction may be conferred by this Constitution or other law on some other court, tribunal, or administrative body. 
+District Court judges shall have the power to issue writs necessary to enforce their jurisdiction.
 The District Court shall have appellate jurisdiction and general supervisory control over the County
 Commissioners Court, with such exceptions and under such regulations as may be prescribed by law. 
 (Amended Aug. 11, 1891, Nov. 6, 1973, and Nov. 5, 1985.)
 Sec. 9.  CLERK OF DISTRICT COURT.  There shall be a Clerk for the District Court of each
 county, who shall be elected by the qualified voters and who shall hold his office for four years, subject
 to removal by information, or by indictment of a grand jury, and conviction of a petit jury.  In case of
-vacancy, the Judge of the District Court shall have the power to appoint a Clerk, who shall hold until the
-office can be filled by election.  (Amended Nov. 2, 1954, and Nov. 2, 1999.)
+vacancy, the Judge of the District Court shall have the power to appoint a Clerk, who shall hold until
+the office can be filled by election.  (Amended Nov. 2, 1954, and Nov. 2, 1999.)
 TEMPORARY TRANSITION PROVISIONS.1
-Sec. 10.  TRIAL BY JURY.  In the trial of all causes in the District Courts, the plaintiff or defendant
-shall, upon application made in open court, have the right of trial by jury; but no jury shall be empaneled
-in any civil case unless demanded by a party to the case, and a jury fee be paid by the party demanding
-a jury, for such sum, and with such exceptions as may be prescribed by the Legislature.
+Sec. 10.  TRIAL BY JURY.  In the trial of all causes in the District Courts, the plaintiff or
+defendant shall, upon application made in open court, have the right of trial by jury; but no jury shall
+be empaneled in any civil case unless demanded by a party to the case, and a jury fee be paid by the
+party demanding a jury, for such sum, and with such exceptions as may be prescribed by the Legislature.
 Sec. 11.  DISQUALIFICATION OF JUDGES; EXCHANGE OF DISTRICTS; HOLDING
-COURT FOR OTHER JUDGES.  No judge shall sit in any case wherein he may be interested, or
-where either of the parties may be connected with him, either by affinity or consanguinity, within such
-a degree as may be prescribed by law, or when he shall have been counsel in the case.  When the
-Supreme Court, the Court of Criminal Appeals, the Court of Civil Appeals, or any member of either,
-shall be thus disqualified to hear and determine any case or cases in said court, the same shall be certified
-to the Governor of the State, who shall immediately commission the requisite number of persons learned
-in the law for the trial and determination of such cause or causes.  When a judge of the District Court is
-disqualified by any of the causes above stated, the parties may, by consent, appoint a proper person to
-try said case; or upon their failing to do so, a competent person may be appointed to try the same in the
-county where it is pending, in such manner as may be prescribed by law.
+COURT FOR OTHER JUDGES.  No judge shall sit in any case wherein the judge may be interested,
+or where either of the parties may be connected with the judge, either by affinity or consanguinity,
+within such a degree as may be prescribed by law, or when the judge shall have been counsel in the case. 
+When the Supreme Court, the Court of Criminal Appeals, the Court of Appeals, or any member of any
+of those courts shall be thus disqualified to hear and determine any case or cases in said court, the same
+shall be certified to the Governor of the State, who shall immediately commission the requisite number
+of persons learned in the law for the trial and determination of such cause or causes.  When a judge of
+the District Court is disqualified by any of the causes above stated, the parties may, by consent, appoint
+a proper person to try said case; or upon their failing to do so, a competent person may be appointed to
+try the same in the county where it is pending, in such manner as may be prescribed by law.
 And the District Judges may exchange districts, or hold courts for each other when they may deem
 it expedient, and shall do so when required by law.  This disqualification of judges of inferior tribunals
 shall be remedied and vacancies in their offices filled as may be prescribed by law.  (Amended Aug. 11,
-1891.)
+1891, and Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
 Sec. 12.  JUDGES TO BE CONSERVATORS OF THE PEACE; INDICTMENTS AND
 INFORMATION.  (a) All judges of courts of this State, by virtue of their office, are conservators of
 the peace throughout the State.
-(b)  An indictment is a written instrument presented to a court by a grand jury charging a person with
-the commission of an offense.  An information is a written instrument presented to a court by an attorney
-for the State charging a person with the commission of an offense.  The practice and procedures relating
-to the use of indictments and informations, including their contents, amendment, sufficiency, and
-requisites, are as provided by law.  The presentment of an indictment or information to a court invests
-the court with jurisdiction of the cause.  (Amended Aug. 11, 1891, and Nov. 5, 1985.)
+(b)  An indictment is a written instrument presented to a court by a grand jury charging a person
+with the commission of an offense.  An information is a written instrument presented to a court by an
+attorney for the State charging a person with the commission of an offense.  The practice and procedures
+relating to the use of indictments and informations, including their contents, amendment, sufficiency,
+and requisites, are as provided by law.  The presentment of an indictment or information to a court
+invests the court with jurisdiction of the cause.  (Amended Aug. 11, 1891, and Nov. 5, 1985.)
 Sec. 13.  NUMBER OF GRAND AND PETIT JURORS; NUMBER CONCURRING.  Grand and petit
-juries in the District Courts shall be composed of twelve men; but nine members of a grand jury shall
+juries in the District Courts shall be composed of twelve persons; but nine members of a grand jury shall
 be a quorum to transact business and present bills.  In trials of civil cases, and in trials of criminal cases
 below the grade of felony in the District Courts, nine members of the jury, concurring, may render a
 verdict, but when the verdict shall be rendered by less than the whole number, it shall be signed by every
 member of the jury concurring in it.  When, pending the trial of any case, one or more jurors not
 exceeding three, may die, or be disabled from sitting, the remainder of the jury shall have the power to
 render the verdict; provided, that the Legislature may change or modify the rule authorizing less than
-the whole number of the jury to render a verdict.
-Sec. 14.  (Repealed Nov. 5, 1985.)
+the whole number of the jury to render a verdict.  (Amended Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
+Sec. 14.  JUROR QUALIFICATIONS. (a) The legislature shall prescribe by law the qualifications
+of grand jurors and petit jurors.
+(b)  The legislature shall enact laws to exclude from serving on juries persons who have been
+convicted of bribery, perjury, forgery, or other high crimes.  (Added Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
 Sec. 15.  COUNTY COURT; COUNTY JUDGE.  There shall be established in each county in this
 State a County Court, which shall be a court of record; and there shall be elected in each county, by the
 qualified voters, a County Judge, who shall be well informed in the law of the State; shall be a
 conservator of the peace, and shall hold his office for four years, and until his successor shall be elected
 and qualified.  He shall receive as compensation for his services such fees and perquisites as may be
 prescribed by law.  (Amended Nov. 2, 1954.)
-Sec. 16.  COUNTY COURTS; JURISDICTION; DISQUALIFICATION OF JUDGE.  The
-County Court has jurisdiction as provided by law.  The County Judge is the presiding officer of the
-County Court and has judicial functions as provided by law.  County court judges shall have the power
-to issue writs necessary to enforce their jurisdiction.
+Sec. 16.  COUNTY COURTS; JURISDICTION; DISQUALIFICATION OF JUDGE.  The County Court has
+jurisdiction as provided by law.  The County Judge is the presiding officer of the County Court and has
+judicial functions as provided by law.  County court judges shall have the power to issue writs necessary
+to enforce their jurisdiction.
 County Courts in existence on the effective date of this amendment are continued unless otherwise
 provided by law.
 When the judge of the County Court is disqualified in any case pending in the County Court the
 parties interested may, by consent, appoint a proper person to try said case, or upon their failing to do
-so a competent person may be appointed to try the same in the county where it is pending in such manner
-as may be prescribed by law.  (Amended Aug. 11, 1891, Nov. 7, 1978, Nov. 4, 1980, and Nov. 5, 1985.)
+so a competent person may be appointed to try the same in the county where it is pending in such
+manner as may be prescribed by law.  (Amended Aug. 11, 1891, Nov. 7, 1978, Nov. 4, 1980, and Nov.
+5, 1985.)
 Sec. 16a.  (Repealed Nov. 5, 1985.)
 Sec. 17.  TERMS OF COUNTY COURT; PROSECUTIONS; JURIES.  The County Court shall
 hold terms as provided by law.  Prosecutions may be commenced in said court by information filed by
@@ -2458,39 +2628,40 @@ Courts shall inquire into misdemeanors, and all indictments therefor returned in
 shall forthwith be certified to the County Courts or other inferior courts, having jurisdiction to try them
 for trial; and if such indictment be quashed in the County, or other inferior court, the person charged,
 shall not be discharged if there is probable cause of guilt, but may be held by such court or magistrate
-to answer an information or affidavit.  A jury in the County Court shall consist of six men; but no jury
-shall be empaneled to try a civil case unless demanded by one of the parties, who shall pay such jury fee
-therefor, in advance, as may be prescribed by law, unless he makes affidavit that he is unable to pay the same.  (Amended
-Nov. 5, 1985.)
+to answer an information or affidavit.  A jury in the County Court shall consist of six persons; but no
+jury shall be empaneled to try a civil case unless demanded by one of the parties, who shall pay such jury
+fee therefor, in advance, as may be prescribed by law, unless the party makes affidavit that the party is unable to pay the jury
+fee.  (Amended Nov. 5, 1985, and Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
 Sec. 18.  DIVISION OF COUNTIES INTO PRECINCTS; ELECTION OF CONSTABLE AND
 JUSTICE OF THE PEACE; COUNTY COMMISSIONERS AND COUNTY COMMISSIONERS
-COURT; CHANGE IN PRECINCT BOUNDARIES.  (a) Each county in the State with a population of
-50,000 or more, according to the most recent federal census, from time to time, for the convenience of the people, shall be
-divided into not less than four and not more than eight precincts.  Each county in the State with a population of
-18,000 or more but less than 50,000, according to the most recent federal census, from time to time, for
-the convenience of the people, shall be divided into not less than two and not more than eight precincts. 
-Each county in the State with a population of less than 18,000, according to the most recent federal
-census, from time to time, for the convenience of the people, shall be designated as a single precinct or,
-if the Commissioners Court determines that the county needs more than one precinct, shall be divided
-into not more than four precincts.  Notwithstanding the population requirements of this subsection,
-Chambers County and Randall County, from time to time, for the convenience of the people, shall be
-divided into not less than two and not more than six precincts.  A division or designation under this
-subsection shall be made by the Commissioners Court provided for by this Constitution.  Except as
-provided by this section, in each such precinct there shall be elected one Justice of the Peace and one
-Constable, each of whom shall hold his office for four years and until his successor shall be elected and
-qualified; provided that in a county with a population of less than 150,000, according to the most recent
-federal census, in any precinct in which there may be a city of 18,000 or more inhabitants, there shall
-be elected two Justices of the Peace, and in a county with a population of 150,000 or more, according
-to the most recent federal census, each precinct may contain more than one Justice of the Peace Court. 
-Notwithstanding the population requirements of this subsection, any county that is divided into four or
-more precincts on November 2, 1999, shall continue to be divided into not less than four precincts.
+COURT.  (a) Each county in the State with a population of 50,000 or more, according to the most recent federal census,
+from time to time, for the convenience of the people, shall be divided into not less than four and not more than eight
+precincts.  Each county in the State with a population of 18,000 or more but less than 50,000, according
+to the most recent federal census, from time to time, for the convenience of the people, shall be divided
+into not less than two and not more than eight precincts.  Each county in the State with a population of
+less than 18,000, according to the most recent federal census, from time to time, for the convenience of
+the people, shall be designated as a single precinct or, if the Commissioners Court determines that the
+county needs more than one precinct, shall be divided into not more than four precincts. 
+Notwithstanding the population requirements of this subsection, Chambers County and Randall County,
+from time to time, for the convenience of the people, shall be divided into not less than two and not more
+than six precincts.  A division or designation under this subsection shall be made by the Commissioners
+Court provided for by this Constitution.  Except as provided by this section, in each such precinct there
+shall be elected one Justice of the Peace and one Constable, each of whom shall hold his office for four
+years and until his successor shall be elected and qualified; provided that in a county with a population
+of less than 150,000, according to the most recent federal census, in any precinct in which there may be
+a city of 18,000 or more inhabitants, there shall be elected two Justices of the Peace, and in a county
+with a population of 150,000 or more, according to the most recent federal census, each precinct may
+contain more than one Justice of the Peace Court.  Notwithstanding the population requirements of this
+subsection, any county that is divided into four or more precincts on November 2, 1999, shall continue
+to be divided into not less than four precincts.
 (b)  Each county shall, in the manner provided for justice of the peace and constable precincts, be
 divided into four commissioners precincts in each of which there shall be elected by the qualified voters
 thereof one County Commissioner, who shall hold his office for four years and until his successor shall
 be elected and qualified.  The County Commissioners so chosen, with the County Judge as presiding
 officer, shall compose the County Commissioners Court, which shall exercise such powers and
-jurisdiction over all county business, as is conferred by this Constitution and the laws of the State, or as
-may be hereafter prescribed.
+jurisdiction over all county business, as is conferred by this Constitution and the laws of the State, or
+as may be hereafter prescribed.
 (c)  When the boundaries of justice of the peace and constable precincts are changed, each Justice
 and Constable in office on the effective date of the change, or elected to a term of office beginning on
 or after the effective date of the change, shall serve in the precinct in which the person resides for the
@@ -2498,24 +2669,40 @@ term to which each was elected or appointed, even though the change in boundarie
 residence outside the precinct for which he was elected or appointed, abolishes the precinct for which
 he was elected or appointed, or temporarily results in extra Justices or Constables serving in a precinct. 
 When, as a result of a change of precinct boundaries, a vacancy occurs in the office of Justice of the
-Peace or Constable, the Commissioners Court shall fill the vacancy by appointment until the next general
-election.
+Peace or Constable, the Commissioners Court shall fill the vacancy by appointment until the next
+general election.
 (d)  When the boundaries of commissioners precincts are changed, each commissioner in office on
-the effective date of the change, or elected to a term of office beginning on or after the effective date of
-the change, shall serve in the precinct to which each was elected or appointed for the entire term to which
-each was elected or appointed, even though the change in boundaries places the person's residence
-outside the precinct for which he was elected or appointed.
-(e)  The office of Constable in Mills County is abolished.  The powers, duties, and records of the
-office are transferred to the County Sheriff.
-(f)  The office of Constable in Reagan County and the office of Constable in Roberts County are
-abolished.  The functions of the office are transferred to the County Sheriff.  However, the office of
-Constable is abolished under this subsection only if, at the statewide election at which the constitutional
-amendment providing for the abolition is submitted to the voters, a majority of the voters of Reagan
-County or Roberts County, as applicable, voting on the question at that election favor the amendment.
-(g)  The Legislature by general law may prescribe the qualifications of constables.  (Amended Nov.
-2, 1954; Subsecs. (a) and (b) amended and (c) and (d) added Nov. 8, 1983; Subsec. (a) amended Nov.
-5, 1985, Nov. 3, 1987, and Nov. 7, 1995; Subsecs. (e) and (f) added Nov. 7, 1995; Subsec. (g) added
-Nov. 4, 1997; Subsec. (a) amended Nov. 2, 1999.)
+the effective date of the change, or elected to a term of office beginning on or after the effective date
+of the change, shall serve in the precinct to which each was elected or appointed for the entire term to
+which each was elected or appointed, even though the change in boundaries places the person's
+residence outside the precinct for which he was elected or appointed.
+(e)  The office of Constable is abolished in Mills County, Reagan County, and Roberts County.  The
+powers, duties, and records of the office are transferred to the County Sheriff.
+TEMPORARY TRANSITION PROVISION.4
+(f)  The Legislature by general law may prescribe the qualifications of constables.
+TEMPORARY TRANSITION PROVISION.4
+(g)  (Redesignated as Subsec. (f) Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
+(h)  The commissioners court of a county may declare the office of constable in a precinct dormant
+if at least seven consecutive years have passed since the end of the term of the person who was last
+elected or appointed to the office and during that period of time no person was elected to fill that office,
+or during that period a person was elected to that office, but the person failed to meet the qualifications
+of that office or failed to assume the duties of that office.  If an office of constable is declared dormant,
+the office may not be filled by election or appointment and the previous officeholder does not continue
+to hold the office under Subsection (a) of this section or Section 17, Article XVI, of this constitution. 
+The records of an office of constable declared dormant are transferred to the county clerk of the county. 
+The commissioners court may reinstate an office of constable declared dormant by vote of the
+commissioners court or by calling an election in the precinct to reinstate the office.  The commissioners
+court shall call an election to reinstate the office if the commissioners court receives a petition signed
+by at least 10 percent of the qualified voters of the precinct.  If an election is called under this
+subsection, the commissioners court shall order the ballot for the election to be printed to permit voting
+for or against the proposition:  "Reinstating the office of Constable of Precinct No. that was previously
+declared dormant."  The office of constable is reinstated if a majority of the voters of the precinct voting
+on the question at the election approve the reinstatement.  (Amended Nov. 2, 1954; Subsecs. (a) and (b)
+amended and (c) and (d) added Nov. 8, 1983; Subsec. (a) amended Nov. 5, 1985, Nov. 3, 1987, and Nov.
+7, 1995; Subsecs. (e) and (f) added Nov. 7, 1995; Subsec. (g) added Nov. 4, 1997; Subsec. (a) amended
+Nov. 2, 1999; Subsec. (e) amended, Subsec. (f) deleted, and Subsec. (g) redesignated as Subsec. (f) Nov.
+6, 2001; Subsec. (h) added Nov. 5, 2002.)
 Sec. 19.  JUSTICES OF THE PEACE; JURISDICTION; EX OFFICIO NOTARIES
 PUBLIC.  Justice of the peace courts shall have original jurisdiction in criminal matters of misdemeanor
 cases punishable by fine only, exclusive jurisdiction in civil matters where the amount in controversy
@@ -2529,12 +2716,12 @@ until the next general election; provided, that in counties having a population 
 there may be an election of a single Clerk, who shall perform the duties of District and County Clerks. 
 (Amended Nov. 2, 1954.)
 Sec. 21.  COUNTY ATTORNEYS; DISTRICT ATTORNEYS.  A County Attorney, for counties
-in which there is not a resident Criminal District Attorney, shall be elected by the qualified voters of each
-county, who shall be commissioned by the Governor, and hold his office for the term of four years.  In
-case of vacancy the Commissioners Court of the county shall have the power to appoint a County
+in which there is not a resident Criminal District Attorney, shall be elected by the qualified voters of
+each county, who shall be commissioned by the Governor, and hold his office for the term of four years. 
+In case of vacancy the Commissioners Court of the county shall have the power to appoint a County
 Attorney until the next general election.  The County Attorneys shall represent the State in all cases in
-the District and inferior courts in their respective counties; but if any county shall be included in a district
-in which there shall be a District Attorney, the respective duties of District Attorneys and County
+the District and inferior courts in their respective counties; but if any county shall be included in a
+district in which there shall be a District Attorney, the respective duties of District Attorneys and County
 Attorneys shall in such counties be regulated by the Legislature.  The Legislature may provide for the
 election of District Attorneys in such districts, as may be deemed necessary, and make provision for the
 compensation of District Attorneys and County Attorneys.  District Attorneys shall hold office for a term
@@ -2552,30 +2739,30 @@ by a jury.
 Sec. 25.  (Repealed Nov. 5, 1985.)
 Sec. 26.  CRIMINAL CASES; APPEAL BY STATE.  The State is entitled to appeal in criminal
 cases, as authorized by general law.  (Amended Nov. 3, 1987.)
-Sec. 27.  TRANSFER OF CASES PENDING AT ADOPTION OF CONSTITUTION.  The
-Legislature shall, at its first session, provide for the transfer of all business, civil and criminal, pending
-in District Courts, over which jurisdiction is given by this Constitution to the County Courts, or other inferior
-courts, to such County or inferior courts, and for the trial or disposition of all such cases by such County or other inferior
-courts.
-Sec. 28.  VACANCIES IN JUDICIAL OFFICES.
-Vacancies In Offices Of Judges Of Superior Courts To Be Filled By The Governor.
-Vacancies in the office of judges of the Supreme Court, the Court of Criminal Appeals, the Court
-of Civil Appeals and the District Courts shall be filled by the Governor until the next succeeding General
-Election; and vacancies in the office of County Judge and Justices of the Peace shall be filled by the
-Commissioners Court until the next succeeding General Election.  (Amended Aug. 11, 1891, and Nov.
-4, 1958.)
+Sec. 27.  (Repealed Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
+Sec. 28.  VACANCY IN OFFICE OF SUPREME COURT, COURT OF CRIMINAL
+APPEALS, COURT OF APPEALS AND DISTRICT COURTS TO BE FILLED BY THE
+GOVERNOR. (a) A vacancy in the office of Chief Justice, Justice, or Judge of the Supreme Court, the
+Court of Criminal Appeals, the Court of Appeals, or the District Courts shall be filled by the Governor
+until the next succeeding General Election for state officers, and at that election the voters shall fill the
+vacancy for the unexpired term.
+(b)  A vacancy in the office of County Judge or Justice of the Peace shall be filled by the
+Commissioners Court until the next succeeding General Election.  (Amended Aug. 11, 1891, Nov. 4, 1958, and
+Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
 Sec. 29.  COUNTY COURT; TERMS OF COURT; PROBATE BUSINESS;
 COMMENCEMENT OF PROSECUTIONS; JURY.  The County Court shall hold at least four terms
 for both civil and criminal business annually, as may be provided by the Legislature, or by the
-Commissioners' Court of the county under authority of law, and such other terms each year as may be
-fixed by the Commissioners' Court; provided, the Commissioners' Court of any county having fixed the
+Commissioners Court of the county under authority of law, and such other terms each year as may be
+fixed by the Commissioners Court; provided, the Commissioners Court of any county having fixed the
 times and number of terms of the County Court, shall not change the same again until the expiration of
 one year.  Said court shall dispose of probate business either in term time or vacation, under such
-regulation as may be prescribed by law.  Prosecutions may be commenced in said courts in such manner
-as is or may be provided by law, and a jury therein shall consist of six men.  Until otherwise provided,
-the terms of the County Court shall be held on the first Mondays in February, May, August and
-November, and may remain in session three weeks.  (Added Aug. 14, 1883.)
- Sec. 30.  JUDGES OF COURTS OF COUNTY-WIDE JURISDICTION; CRIMINAL
+regulation as may be prescribed by law.  Until otherwise provided, the terms of the County Court shall
+be held on the first Mondays in February, May, August and November, and may remain in session three weeks. 
+(Added Aug. 14, 1883; amended Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
+Sec. 30.  JUDGES OF COURTS OF COUNTY-WIDE JURISDICTION; CRIMINAL
 DISTRICT ATTORNEYS.  The Judges of all Courts of county-wide jurisdiction heretofore or hereafter
 created by the Legislature of this State, and all Criminal District Attorneys now or hereafter authorized
 by the laws of this State, shall be elected for a term of four years, and shall serve until their successors
@@ -2594,25 +2781,32 @@ and procedures as may be provided by law.
 constitution, if the supreme court does not act on  a motion for rehearing before the 180th day after the
 date on which the motion is filed, the motion is denied.  (Added Nov. 5, 1985; Subsec. (d) added Nov.
 4, 1997.)
-
                            ARTICLE 6
                             SUFFRAGE
-Sec. 1.  CLASSES OF PERSONS NOT ALLOWED TO VOTE.  The following classes of persons shall not
-be allowed to vote in this State, to wit:
-First:  Persons under 18 years of age.
-Second:  All persons who have been determined mentally incompetent by a court, subject to such
-exceptions as the Legislature may make.
-Third:  All persons convicted of any felony, subject to such exceptions as the Legislature may make. 
-(Amended Nov. 8, 1932, Nov. 2, 1954, and Nov. 4, 1997.)
-Sec. 2.  QUALIFIED ELECTOR; REGISTRATION; ABSENTEE VOTING.  Every person
-subject to none of the foregoing disqualifications who shall be a citizen of the United States and who is
-a resident of this State shall be deemed a qualified voter; provided, however, that before offering to vote
-at an election a voter shall have registered, but such requirement for registration shall not be considered
-a qualification of a voter within the meaning of the term "qualified voter" as used in any other Article
-of this Constitution in respect to any matter except qualification and eligibility to vote at an election. 
-The Legislature may authorize absentee voting.  (Amended Nov. 3, 1896, Nov. 4, 1902, July 23, 1921,
-Nov. 2, 1954, Nov. 8, 1966, Nov. 4, 1997, and Nov. 2, 1999.)
+Sec. 1.  CLASSES OF PERSONS NOT ALLOWED TO VOTE. (a) The following classes of persons shall
+not be allowed to vote in this State:
+(1)  persons under 18 years of age;
+(2)  persons who have been determined mentally incompetent by a court, subject to such exceptions
+as the Legislature may make; and
+(3)  persons convicted of any felony, subject to such exceptions as the Legislature may make.
+(b)  The legislature shall enact laws to exclude from the right of suffrage persons who have been
+convicted of bribery, perjury, forgery, or other high crimes.  (Amended Nov. 8, 1932, Nov. 2, 1954,
+Nov. 4, 1997, and Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
+Sec. 2.  QUALIFIED ELECTOR; REGISTRATION; ABSENTEE VOTING. (a) Every person
+subject to none of the disqualifications provided by Section 1 of this article or by a law enacted under
+that section who is a citizen of the United States and who is a resident of this State shall be deemed a
+qualified voter; provided, however, that before offering to vote at an election a voter shall have
+registered, but such requirement for registration shall not be considered a qualification of a voter within
+the meaning of the term "qualified voter" as used in any other Article of this Constitution in respect to
+any matter except qualification and eligibility to vote at an election.
+(b)  The Legislature may authorize absentee voting.
+(c)  The privilege of free suffrage shall be protected by laws regulating elections and prohibiting
+under adequate penalties all undue influence in elections from power, bribery, tumult, or other improper
+practice.  (Amended Nov. 3, 1896, Nov. 4, 1902, July 23, 1921, Nov. 2, 1954, Nov. 8, 1966, Nov. 4,
+1997, Nov. 2, 1999, and Nov. 6, 2001.)
 TEMPORARY TRANSITION PROVISIONS.1
+TEMPORARY TRANSITION PROVISION.4
 Sec. 2a.  VOTING FOR PRESIDENTIAL AND VICE-PRESIDENTIAL ELECTORS AND
 STATEWIDE OFFICES; QUALIFIED PERSONS EXCEPT FOR RESIDENCE
 REQUIREMENTS.  (a) Notwithstanding any other provision of this Constitution, the Legislature may
@@ -2627,9 +2821,9 @@ provide for a method of registration, including the time for such registration, 
 who is qualified to vote in this State except for the residence requirements of Section 2 of this Article,
 and (2) who shall have resided anywhere within this State at least thirty (30) days next preceding a
 General Election in a presidential election year, and (3) who shall have been a qualified voter in another
-state immediately prior to his removal to this State or would have been eligible to vote in such other state
-had he remained there until such election, to vote for electors for President and Vice President of the
-United States in that election.
+state immediately prior to his removal to this State or would have been eligible to vote in such other
+state had he remained there until such election, to vote for electors for President and Vice President of
+the United States in that election.
 TEMPORARY TRANSITION PROVISIONS.1
 (c)  Notwithstanding any other provision of this Constitution, the Legislature may enact laws and
 provide for a method of registration, including the time for such registration, permitting absentee voting
@@ -2645,8 +2839,8 @@ of the State, as herein described, who reside within the limits of any city or c
 the right to vote for Mayor and all other elective officers.  (Amended Nov. 4, 1997, and Nov. 2, 1999.)
 TEMPORARY TRANSITION PROVISIONS.1
 Sec. 3a.  BOND ISSUES; LOANS OF CREDIT; EXPENDITURES; ASSUMPTION OF DEBTS;
-QUALIFICATIONS OF VOTERS.  When an election is held by any county, or any number of counties, or
-any political sub-division of the State, or any political sub-division of a county, or any defined district
+QUALIFICATIONS OF VOTERS.  When an election is held by any county, or any number of counties,
+or any political sub-division of the State, or any political sub-division of a county, or any defined district
 now or hereafter to be described and defined within the State and which may or may not include towns,
 villages or municipal corporations, or any city, town or village, for the  purpose of issuing bonds or
 otherwise lending credit, or expending  money or assuming any debt, only qualified voters of the State,
@@ -2661,27 +2855,66 @@ provide by law for the registration of all voters.  (Amended Aug. 11, 1891, and 
 Sec. 5.  PRIVILEGE OF VOTERS FROM ARREST.  Voters shall, in all cases, except treason,
 felony or breach of the peace, be privileged from arrest during their attendance at elections, and in going
 to and returning therefrom.
-
                            ARTICLE 7
                            EDUCATION
                     THE PUBLIC FREE SCHOOLS
 Sec. 1.  SUPPORT AND MAINTENANCE OF SYSTEM OF PUBLIC FREE SCHOOLS.  A
 general diffusion of knowledge being essential to the preservation of the liberties and rights of the
-people, it shall be the duty of the Legislature of the State to establish and make suitable provision for the
-support and maintenance of an efficient system of public free schools.
+people, it shall be the duty of the Legislature of the State to establish and make suitable provision for
+the support and maintenance of an efficient system of public free schools.
 Sec. 2.  PERPETUAL SCHOOL FUND.  All funds, lands and other property heretofore set apart
 and appropriated for the support of public schools; all the alternate sections of land reserved by the State
 out of grants heretofore made or that may hereafter be made to railroads or other corporations of any
 nature whatsoever; one half of the public domain of the State; and all sums of money that may come to
 the State from the sale of any portion of the same, shall constitute a perpetual public school fund.
-Sec. 2A.  RELEASE OF CLAIM TO CERTAIN LANDS AND MINERALS.  The State of Texas
-hereby relinquishes and releases any claim of sovereign ownership or title to an undivided one-third
-interest in and to the lands and minerals within the Shelby, Frazier, and McCormick League (now located
-in Fort Bend and Austin counties) arising out of the interest in that league originally granted under the
-Mexican Colonization Law of 1823 to John McCormick on or about July 24, 1824, and subsequently
-voided by the governing body of Austin's Original Colony on or about December 15, 1830, and title to
-such interest in the lands and minerals is confirmed to the owners of the remaining interests in such lands
-and minerals.  This section is self-executing.  (Added Nov. 2, 1993.)
+Sec. 2A.  RELEASE OF CLAIM TO CERTAIN LANDS AND MINERALS. (a) The State of
+Texas hereby relinquishes and releases any claim of sovereign ownership or title to an undivided
+one-third interest in and to the lands and minerals within the Shelby, Frazier, and McCormick League
+(now located in Fort Bend and Austin counties) arising out of the interest in that league originally
+granted under the Mexican Colonization Law of 1823 to John McCormick on or about July 24, 1824,
+and subsequently voided by the governing body of Austin's Original Colony on or about December 15,
+1830.
+(b)  The State of Texas relinquishes and releases any claim of sovereign ownership or title to an
+interest in and to the lands, excluding the minerals, in Tracts 2-5, 13, 15-17, 19-20, 23-26, 29-32, and
+34-37, in the A. P. Nance Survey, Bastrop County, as said tracts are:
+(1)  shown on Bastrop County Rolled Sketch No. 4, recorded in the General Land Office on
+December 15, 1999; and
+(2)  further described by the field notes prepared by a licensed state land surveyor of Travis County
+in September through November 1999 and May 2000.
+(c)  Title to such interest in the lands and minerals described by Subsection (a) is confirmed to the
+owners of the remaining interests in such lands and minerals.  Title to the lands, excluding the minerals,
+described by Subsection (b) is confirmed to the holder of record title to each tract.  Any outstanding land
+award or land payment obligation owed to the state for lands described by Subsection (b) is canceled,
+and any funds previously paid related to an outstanding land award or land payment obligation may not
+be refunded.
+(d)  The General Land Office shall issue a patent to the holder of record title to each tract described
+by Subsection (b). The patent shall be issued in the same manner as other patents except that no filing
+fee or patent fee may be required.
+(e)  A patent issued under Subsection (d) shall include a provision reserving all mineral interest in
+the land to the state.
+(f)  This section is self-executing.  (Added Nov. 2, 1993; amended Nov. 6, 2001.)
+Sec. 2B.  AUTHORITY TO RELEASE STATE'S INTEREST IN LAND HELD BY PERSON
+UNDER COLOR OF TITLE.  (a)  The legislature by law may provide for the release of all or part of
+the state's interest in land, excluding mineral rights, if:
+(1)  the land is surveyed, unsold, permanent school fund land according to the records of the General
+Land Office;
+(2)  the land is not patentable under the law in effect before January 1, 2002; and
+(3)  the person claiming title to the land:
+(A)  holds the land under color of title;
+(B)  holds the land under a chain of title that originated on or before January 1, 1952;
+(C)  acquired the land without actual knowledge that title to the land was vested in the State of
+Texas;
+(D)  has a deed to the land recorded in the appropriate county; and
+(E)  has paid all taxes assessed on the land and any interest and penalties associated with any period
+of tax delinquency.
+(b)  This section does not apply to:
+(1)  beach land, submerged or filled land, or islands; or
+(2)  land that has been determined to be state-owned by judicial decree.
+(c)  This section may not be used to:
+(1)  resolve boundary disputes; or
+(2)  change the mineral reservation in an existing patent.
+(d)  This section takes effect January 1, 2002. This subsection expires January 2, 2002.  (Added
+Nov. 6, 2001.)
 Sec. 3.  TAXES FOR BENEFIT OF SCHOOLS; SCHOOL DISTRICTS.  (a) One-fourth of the
 revenue derived from the State occupation taxes shall be set apart annually for the benefit of the public
 free schools.
@@ -2691,8 +2924,8 @@ funds to provide free text books for the use of children attending the public fr
 the general funds of the State.
 (d)  The Legislature may provide for the formation of school districts by general laws, and all such
 school districts may embrace parts of two or more counties.
-(e)  The Legislature shall be authorized to pass laws for the assessment and collection of taxes in all
-school districts and for the management and control of the public school or schools of such districts,
+(e)  The Legislature shall be authorized to pass laws for the assessment and collection of taxes in
+all school districts and for the management and control of the public school or schools of such districts,
 whether such districts are composed of territory wholly within a county or in parts of two or more
 counties, and the Legislature may authorize an additional ad valorem tax to be levied and collected
 within all school districts for the further maintenance of public free schools, and for the erection and
@@ -2723,8 +2956,8 @@ school  districts, the taxes to be levied for the purposes hereinabove  authoriz
 or at not to exceed the rate theretofore voted in the district having at the time of such change the greatest
 scholastic population according to the latest scholastic census and only the unissued bonds of such
 district voted prior to such change, may be subsequently sold and delivered and any voted, but unissued,
-bonds of other school districts involved in such annexation or consolidation shall not thereafter be issued. 
-(Added Nov. 6, 1962; amended Nov. 8, 1966.)
+bonds of other school districts involved in such annexation or consolidation shall not thereafter be
+issued.  (Added Nov. 6, 1962; amended Nov. 8, 1966.)
 Sec. 4.  SALE OF LANDS; INVESTMENT OF PROCEEDS.  The lands herein set apart to the
 Public Free School fund, shall be sold under such regulations, at such times, and on such terms as may
 be prescribed by law; and the Legislature shall not have power to grant any relief to purchasers thereof. 
@@ -2734,56 +2967,28 @@ directed by the Board of Education herein provided for, in the bonds of the Unit
 Texas, or counties in said State, or in such other securities, and under such restrictions as may be
 prescribed by law; and the State shall be responsible for all investments.  (Amended Aug. 14, 1883, Nov.
 5, 1985, and Nov. 7, 1995.)
-Sec. 4A.  PUBLIC FREE SCHOOL FUND LANDS HELD FIFTY YEARS UNDER COLOR
-OF TITLE; APPLICATION FOR PATENT; CONDITIONS; EXCLUDED LAND.  (a) On
-application to the School Land Board, a natural person is entitled to receive a patent to land from the
-commissioner of the General Land Office if:
-(1)  the land is surveyed public free school fund land, either surveyed or platted according to records
-of the General Land Office;
-(2)  the land was not patentable under the law in effect immediately before adoption of this section;
-(3)  the person acquired the land without knowledge of the title defect out of the State of Texas or
-Republic of Texas and held the land under color of title, the chain of which dates from at least as early
-as January 1, 1941; and
-(4)  the person, in conjunction with his predecessors in interest:
-(A)  has a recorded deed on file in the respective county courthouse and has claimed the land for a
-continuous period of at least 50 years as of January 1, 1991; and
-(B)  for at least 50 years has paid taxes on the land together with all interest and penalties associated
-with any period of delinquency of the taxes; provided, however, that in the event that public records
-concerning the tax payments on the land are unavailable for any period within the past 50 years, the tax
-assessors-collectors of the taxing jurisdictions in which the land is located shall provide the School Land
-Board with a sworn certificate stating that, to the best of their knowledge, all taxes have been paid for
-the past 50 years and there are no outstanding taxes nor interest or penalties currently due against the
-property.
-(b)  The applicant for the patent must submit to the School Land Board certified copies of his chain
-of title and a survey of the land for which a patent is sought, if requested to do so by the board.  The
-board shall determine the qualifications of the applicant to receive a patent under this section.  On a
-finding by the board that the applicant meets the requirements of Subsection (a) of this section, the
-commissioner of the General Land Office shall award the applicant a patent.  If the applicant is denied
-a patent, he may file suit against the board in a district court of the county in which the land is situated
-within 60 days from the date of the denial of the patent under this section.  The trial shall be de novo and
-not subject to the Administrative Procedure and Texas Register Act (Article 6252-13a, Vernon's Texas
-Civil Statutes), and the burden of proof is on the applicant.
-(c)  This section does not apply to beach land, submerged or filled land, or islands and may not be
-used by an applicant to resolve a boundary dispute.  This section does not apply to land that, pursuant
-to an action filed previous to the date of an application for patent thereon, was found by a court of
-competent jurisdiction to be state owned or to land on which the state has given a mineral lease that is
-in effect on the date of an application for patent thereon.  A patent under this section for land within five
-miles of mineral production shall reserve minerals to the state in the same manner provided by law for
-reservations of minerals in sales to good faith claimants of unsurveyed school land within five miles of
-production.
-(d)  Application for a patent under this section must be filed with the School Land Board before
-January 1, 1993.
-(e)  This section is self-executing.  (Added Nov. 5, 1991.)
+Sec. 4A.  (Repealed Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
+Sec. 4B.  INDEPENDENT SCHOOL DISTRICT; BOARD OF TRUSTEES; DONATION OF
+REAL PROPERTY AND IMPROVEMENTS. (a) The legislature by general law may authorize the
+board of trustees of an independent school district to donate district real property and improvements
+formerly used as a school campus for the purpose of preserving the improvements.
+(b)  A law enacted under this section must provide that before the board of trustees may make the
+donation, the board must determine that:
+(1)  the improvements have historical significance;
+(2)  the transfer will further the preservation of the improvements; and
+(3)  at the time of the transfer, the district does not need the real property or improvements for
+educational purposes.  (Added Nov. 6, 2001.)
 Sec. 5.  PERMANENT SCHOOL FUND; AVAILABLE SCHOOL FUND; USE OF FUNDS;
 DISTRIBUTION OF AVAILABLE SCHOOL FUND.  (a) The principal of all bonds and other funds, and
 the principal arising from the sale of the lands hereinbefore set apart to said school fund, shall be the
 permanent school fund, and all the interest derivable therefrom and the taxes herein authorized and
 levied shall be the available school fund.  The available school fund shall be applied annually to the
 support of the public free schools.  Except as provided by this section, no law shall ever be enacted
-appropriating any part of the permanent or available school fund to any other purpose whatever; nor shall
-the same, or any part thereof ever be appropriated to or used for the support of any sectarian school; and
-the available school fund herein provided shall be distributed to the several counties according to their
-scholastic population and applied in such manner as may be provided by law.
+appropriating any part of the permanent or available school fund to any other purpose whatever; nor
+shall the same, or any part thereof ever be appropriated to or used for the support of any sectarian
+school; and the available school fund herein provided shall be distributed to the several counties
+according to their scholastic population and applied in such manner as may be provided by law.
 (b)  The legislature by law may provide for using the permanent school fund and the income from
 the permanent school fund to guarantee bonds issued by school districts or by the state for the purpose
 of making loans to or purchasing the bonds of school districts for the purpose of acquisition,
@@ -2793,9 +2998,9 @@ state, an amount equal to this payment shall be immediately paid by the state fr
 permanent school fund.  An amount owed by the state to the permanent school fund under this section
 shall be a general obligation of the state until paid.  The amount of bonds authorized hereunder shall not
 exceed $750 million or a higher amount authorized by a two-thirds record vote of both houses of the
-legislature.  If the proceeds of bonds issued by the state are used to provide a loan to a school district and
-the district becomes delinquent on the loan payments, the amount of the delinquent payments shall be
-offset against state aid to which the district is otherwise entitled.
+legislature.  If the proceeds of bonds issued by the state are used to provide a loan to a school district
+and the district becomes delinquent on the loan payments, the amount of the delinquent payments shall
+be offset against state aid to which the district is otherwise entitled.
 (c)  The legislature may appropriate part of the available school fund for administration of the
 permanent school fund or of a bond guarantee program established under this section.
 (d)  Notwithstanding any other provision of this constitution, in managing the assets of the
@@ -2813,15 +3018,13 @@ AVAILABLE SCHOOL FUND.  All lands heretofore, or hereafter granted to the severa
 this State for educational purposes, are of right the property of said counties respectively, to which they
 were granted, and title thereto is vested in said counties, and no adverse possession or limitation shall
 ever be available against the title of any county.  Each county may sell or dispose of its lands in whole
-or in part, in manner to be provided by the Commissioners' Court of the county.  Actual settlers residing
-on said lands, shall be protected in the prior right of purchasing the same to the extent of their settlement,
-not to exceed one hundred and sixty acres, at the price fixed by said court, which price shall not include
-the value of existing improvements made thereon by such settlers.  Said lands, and the proceeds thereof,
-when sold, shall be held by said counties alone as a trust for the benefit of public schools therein; said
-proceeds to be invested in bonds of the United States, the State of Texas, or counties in said State, or in
-such other securities, and under such restrictions as may be prescribed by law; and the counties shall be
-responsible for all investments; the interest thereon, and other revenue, except the principal shall be available fund. 
-(Amended Aug. 14, 1883.)
+or in part, in manner to be provided by the Commissioners Court of the county.  Said lands, and the
+proceeds thereof, when sold, shall be held by said counties alone as a trust for the benefit of public
+schools therein; said proceeds to be invested in bonds of the United States, the State of Texas, or
+counties in said State, or in such other securities, and under such restrictions as may be prescribed by
+law; and the counties shall be responsible for all investments; the interest thereon, and other revenue,
+except the principal shall be available fund.  (Amended Aug. 14, 1883, and Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
 Sec. 6a.  COUNTY AGRICULTURAL OR GRAZING SCHOOL LAND SUBJECT TO
 TAX.  All agriculture or grazing school land  mentioned in Section 6 of this article owned by any county 
 shall be subject to taxation except for State purposes to the same extent as lands privately owned. 
@@ -2832,22 +3035,29 @@ of Texas, any county, acting through the commissioners court, may reduce the cou
 fund of that county and may distribute the amount of the reduction to the independent and common
 school districts of the county on a per scholastic basis to be used solely for the purpose of  reducing
 bonded indebtedness of those districts or for making permanent improvements.  The commissioners
-court shall, however, retain a sufficient amount of the corpus of the county permanent school fund to pay
-ad valorem taxes on school lands or royalty interests owned at the time of the distribution.  Nothing in
-this Section affects financial aid to any school district by the state.  (Added Nov. 7, 1972.)
+court shall, however, retain a sufficient amount of the corpus of the county permanent school fund to
+pay ad valorem taxes on school lands or royalty interests owned at the time of the distribution.  Nothing
+in this Section affects financial aid to any school district by the state.  (Added Nov. 7, 1972.)
 Sec. 7.  (Repealed Aug. 5, 1969.)
 Sec. 8.  STATE BOARD OF EDUCATION.  The Legislature shall provide by law for a State
 Board of Education, whose members shall be appointed or elected in such manner and by such authority
 and shall serve for such terms as the  Legislature shall prescribe not to exceed six years.  The said board
 shall perform such duties as may be prescribed  by law.  (Amended Nov. 6, 1928.)
                             ASYLUMS
-Sec. 9.  LANDS FOR BENEFIT OF ASYLUMS; PERMANENT FUND; SALE AND
-INVESTMENT OF PROCEEDS.  All lands heretofore granted for the benefit of the Lunatic, Blind,
-Deaf and Dumb, and Orphan Asylums, together with such donations as may have been or may hereafter
-be made to either of them, respectively, as indicated in the several grants, are hereby set apart to provide
-a permanent fund for the support, maintenance and improvement of said Asylums.  And the Legislature
-may provide for the sale of the lands and the investment of the proceeds in manner as provided for the
-sale and investment of school lands in Section 4 of this Article.
+Sec. 9.  (Repealed Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
+Sec. 9-a.  TEMPORARY PROVISION. (a)  All land and other property set apart under former
+Section 9 of this article to provide a permanent fund described by former Section 9 and constituting such
+a fund on the date former Section 9 of this article is repealed shall be sold by the General Land Office
+as soon as practicable after that date and the proceeds shall be deposited to the credit of the general
+revenue fund to be appropriated for the benefit of education.
+(b)  All money remaining in the permanent funds established under former Section 9 of this article
+on the date that section is repealed shall be transferred on that date to the Texas School for the Blind and
+Visually Impaired and the Texas School for the Deaf, in equal shares.  All outstanding income accrued
+to the benefit of those permanent funds before that date that are collected after that date and before this
+section expires shall be deposited to the credit of the general revenue fund.
+(c)  This section expires January 1, 2005.  (Added Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
                            UNIVERSITY
 Sec. 10.  ESTABLISHMENT OF UNIVERSITY; AGRICULTURAL AND MECHANICAL
 DEPARTMENT.  The legislature shall as soon as practicable establish, organize and provide for the
@@ -2862,19 +3072,19 @@ of the same, heretofore made or hereafter to be made, and all grants, donations 
 may hereafter be made by the State of Texas, or from any other source, except donations limited to
 specific purposes, shall constitute and become a Permanent University Fund.  And the same as realized
 and received into the Treasury of the State (together with such sums belonging to the Fund, as may now
-be in the Treasury), shall be invested in bonds of the United States, the State of Texas, or counties of said
-State, or in School Bonds or municipalities, or in bonds of any city of this State, or in bonds issued under
-and by virtue of the Federal Farm Loan Act approved by the President of the United States, July 17,
-1916, and amendments thereto; and the interest accruing thereon shall be subject to appropriation by the
-Legislature to accomplish the purpose declared in the foregoing Section; provided, that the one-tenth of
-the alternate Section of the lands granted to railroads, reserved by the State, which were set apart and
-appropriated to the establishment of the University of Texas, by an Act of the Legislature of February
-11, 1858, entitled, "An Act to establish the University of Texas," shall not be included in, or constitute
-a part of, the Permanent University Fund.  (Amended Nov. 4, 1930, and Nov. 8, 1932.)
+be in the Treasury), shall be invested in bonds of the United States, the State of Texas, or counties of
+said State, or in School Bonds or municipalities, or in bonds of any city of this State, or in bonds issued
+under and by virtue of the Federal Farm Loan Act approved by the President of the United States, July
+17, 1916, and amendments thereto; and the interest accruing thereon shall be subject to appropriation
+by the Legislature to accomplish the purpose declared in the foregoing Section; provided, that the
+one-tenth of the alternate Section of the lands granted to railroads, reserved by the State, which were set
+apart and appropriated to the establishment of the University of Texas, by an Act of the Legislature of
+February 11, 1858, entitled, "An Act to establish the University of Texas," shall not be included in, or
+constitute a part of, the Permanent University Fund.  (Amended Nov. 4, 1930, and Nov. 8, 1932.)
 Sec. 11a.  INVESTMENT OF PERMANENT UNIVERSITY FUND.  In addition to the bonds
-enumerated in Section 11 of Article VII of the Constitution of the State of Texas, the Board of Regents of The University
-of Texas may invest the Permanent University Fund in securities, bonds or other obligations issued, insured, or guaranteed
-in any manner by the United States Government, or any of its agencies, and in such bonds, debentures, or
+enumerated in Section 11 of Article VII of the Constitution of the State of Texas, the Board of Regents of The University of
+Texas may invest the Permanent University Fund in securities, bonds or other obligations issued, insured, or guaranteed in
+any manner by the United States Government, or any of its agencies, and in such bonds, debentures, or
 obligations, and preferred and common stocks issued by corporations, associations, or other institutions
 as the Board of Regents of The University of Texas System may deem to be proper investments for said
 funds; provided, however, that not more than one per cent (1%) of said fund shall be invested in the
@@ -2911,9 +3121,9 @@ such regulations, at such times, and on such terms as may be provided by law; an
 provide for the prompt collection, at maturity, of all debts due on account of University lands, heretofore
 sold, or that may hereafter be sold, and shall in neither event have the power to grant relief to the
 purchasers.
-Sec. 13.  AGRICULTURAL AND MECHANICAL COLLEGE.  The Agricultural and Mechanical College
-of Texas, established by an Act of the Legislature passed April 17th, 1871, located in the county of
-Brazos, is hereby made, and constituted a Branch of the University of Texas, for instruction in
+Sec. 13.  AGRICULTURAL AND MECHANICAL COLLEGE.  The Agricultural and Mechanical
+College of Texas, established by an Act of the Legislature passed April 17th, 1871, located in the county
+of Brazos, is hereby made, and constituted a Branch of the University of Texas, for instruction in
 Agriculture, the Mechanic Arts, and the Natural Sciences connected therewith.  And the Legislature shall
 at its next session, make an appropriation, not to exceed forty thousand dollars, for the construction and
 completion of the buildings and improvements, and for providing the furniture necessary to put said
@@ -2922,35 +3132,35 @@ Sec. 14.  PRAIRIE VIEW A&M UNIVERSITY.  Prairie View A&M University in Waller Co
 is an institution of the first class under the direction of the same governing board as Texas A&M
 University referred to in Article VII, Section 13, of this constitution as the Agricultural and Mechanical
 College of Texas.  (Amended Nov. 6, 1984.)
-Sec. 15.  GRANT OF ADDITIONAL LANDS TO UNIVERSITY.  In addition to the lands heretofore granted
-to the University of Texas, there is hereby set apart, and appropriated, for the endowment maintenance,
-and support of said University and its branches, one million acres of the unappropriated public domain
-of the State, to be designated, and surveyed as may be provided by law; and said lands shall be sold under
-the same regulations, and the proceeds invested in the same manner, as is provided for the sale and
-investment of the permanent University fund; and the Legislature shall not have power to grant any relief
-to the purchasers of said lands.
+Sec. 15.  GRANT OF ADDITIONAL LANDS TO UNIVERSITY.  In addition to the lands heretofore
+granted to the University of Texas, there is hereby set apart, and appropriated, for the endowment
+maintenance, and support of said University and its branches, one million acres of the unappropriated
+public domain of the State, to be designated, and surveyed as may be provided by law; and said lands
+shall be sold under the same regulations, and the proceeds invested in the same manner, as is provided
+for the sale and investment of the permanent University fund; and the Legislature shall not have power
+to grant any relief to the purchasers of said lands.
 Sec. 16. COUNTY TAXATION OF UNIVERSITY LANDS.  All land mentioned in Sections 11,
 12, and 15 of Article VII, of the Constitution of the State of Texas, now belonging to the University of
 Texas shall be subject to the taxation for county purposes to the same extent as lands privately owned;
 provided they shall be rendered for taxation upon values fixed by the State Tax Board; and providing
-that the State shall remit annually to each of the counties in which said lands are located an amount equal
-to the tax imposed upon said land for county purposes.  (Added Nov. 4, 1930.)
+that the State shall remit annually to each of the counties in which said lands are located an amount
+equal to the tax imposed upon said land for county purposes.  (Added Nov. 4, 1930.)
 Sec. 16-a.  TERMS OF OFFICE.  The Legislature shall fix by law the terms of all offices of the
 public school system and of the State institutions of higher education, inclusive, and the terms of
 members of the respective boards, not to exceed six years.  (Added Nov. 6, 1928; amended Nov. 4,
 1997.)
-Sec. 17.  COLLEGES AND UNIVERSITIES; APPROPRIATIONS AND FUNDING.  (a) In the fiscal year
-beginning September 1, 1985, and each fiscal year thereafter, there is hereby appropriated out of the first
-money coming into the state treasury not otherwise appropriated by the constitution $100 million to be
-used by eligible agencies and institutions of higher education for the purpose of acquiring land either
-with or without permanent improvements, constructing and equipping buildings or other permanent
-improvements, major repair or rehabilitation of buildings or other permanent improvements, acquisition
-of capital equipment, library books and library materials, and paying for acquiring, constructing, or
-equipping or for major repair or rehabilitation of buildings, facilities, other permanent improvements,
-or capital equipment used jointly for educational and general activities and for auxiliary enterprises to
-the extent of their use for educational and general activities.  For the five-year period that begins on
-September 1, 2000, and for each five-year period that begins after that period, the legislature, during a
-regular session that is nearest, but preceding, a five-year period, may by two-thirds vote of the
+Sec. 17.  COLLEGES AND UNIVERSITIES; APPROPRIATIONS AND FUNDING.  (a) In the fiscal
+year beginning September 1, 1985, and each fiscal year thereafter, there is hereby appropriated out of
+the first money coming into the state treasury not otherwise appropriated by the constitution $100
+million to be used by eligible agencies and institutions of higher education for the purpose of acquiring
+land either with or without permanent improvements, constructing and equipping buildings or other
+permanent improvements, major repair or rehabilitation of buildings or other permanent improvements,
+acquisition of capital equipment, library books and library materials, and paying for acquiring,
+constructing, or equipping or for major repair or rehabilitation of buildings, facilities, other permanent
+improvements, or capital equipment used jointly for educational and general activities and for auxiliary
+enterprises to the extent of their use for educational and general activities.  For the five-year period that
+begins on September 1, 2000, and for each five-year period that begins after that period, the legislature,
+during a regular session that is nearest, but preceding, a five-year period, may by two-thirds vote of the
 membership of each house increase the amount of the constitutional appropriation for the five-year
 period but may not adjust the appropriation in such a way as to impair any obligation created by the
 issuance of bonds or notes in accordance with this section.
@@ -2983,19 +3193,19 @@ eligible agencies and institutions of higher education (even though their names 
 (25)   West Texas A&M University; and
 (26)   Texas State Technical College System and its campuses, but not its extension centers or
 programs.
-(c)  Pursuant to a two-thirds vote of the membership of each house of the legislature, institutions of
-higher education may be created at a later date by general law, and, when created, such an institution
+(c)  Pursuant to a two-thirds vote of the membership of each house of the legislature, institutions
+of higher education may be created at a later date by general law, and, when created, such an institution
 shall be entitled to participate in the funding provided by this section if it is not created as a part of The
 University of Texas System or The Texas A&M University System.  An institution that is entitled to
 participate in dedicated funding provided by Article VII, Section 18, of this constitution may not be
 entitled to participate in the funding provided by this section.
 (d)  In the year 1985 and every 10 years thereafter, the legislature or an agency designated by the
 legislature no later than August 31 of such year shall allocate by equitable formula the annual
-appropriations made under Subsection (a) of this section to the governing boards of eligible agencies and
-institutions of higher education.  The legislature shall review, or provide for a review, of the allocation
-formula at the end of the fifth year of each 10-year allocation period.  At that time adjustments may be
-made in the allocation formula, but no adjustment that will prevent the payment of outstanding bonds
-and notes, both principal and interest, may be made.
+appropriations made under Subsection (a) of this section to the governing boards of eligible agencies
+and institutions of higher education.  The legislature shall review, or provide for a review, of the
+allocation formula at the end of the fifth year of each 10-year allocation period.  At that time adjustments
+may be made in the allocation formula, but no adjustment that will prevent the payment of outstanding
+bonds and notes, both principal and interest, may be made.
 (d-1)  Notwithstanding Subsection (d) of this section, the allocation of the annual appropriation to
 Texas State Technical College System and its campuses may not exceed 2.2 percent of the total
 appropriation each fiscal year.
@@ -3003,17 +3213,17 @@ appropriation each fiscal year.
 is authorized to expend all money distributed to it for any of the purposes enumerated in Subsection (a). 
 In addition, such governing board may issue bonds and notes for the purposes of refunding bonds or
 notes issued under this section or prior law, acquiring land either with or without permanent
-improvements, constructing and equipping buildings or other permanent improvements, acquiring capital
-equipment, library books, and library materials, paying for acquiring, constructing, or equipping or for
-major repair or rehabilitation of buildings, facilities, other permanent improvements, or capital
+improvements, constructing and equipping buildings or other permanent improvements, acquiring
+capital equipment, library books, and library materials, paying for acquiring, constructing, or equipping
+or for major repair or rehabilitation of buildings, facilities, other permanent improvements, or capital
 equipment used jointly for educational and general activities and for auxiliary enterprises to the extent
 of their use for educational and general activities, and for major repair and rehabilitation of buildings
 or other permanent improvements, and may pledge up to 50 percent of the money allocated to such
-governing board pursuant to this section to secure the payment of the principal and interest of such bonds
-or notes.  Proceeds from the issuance of bonds or notes under this subsection shall be maintained in a
-local depository selected by the governing board issuing the bonds or notes.  The bonds and notes issued
-under this subsection shall be payable solely out of the money appropriated by this section and shall
-mature serially or otherwise in not more than 10 years from their respective dates.  All bonds issued
+governing board pursuant to this section to secure the payment of the principal and interest of such
+bonds or notes.  Proceeds from the issuance of bonds or notes under this subsection shall be maintained
+in a local depository selected by the governing board issuing the bonds or notes.  The bonds and notes
+issued under this subsection shall be payable solely out of the money appropriated by this section and
+shall mature serially or otherwise in not more than 10 years from their respective dates.  All bonds issued
 under this section shall be sold only through competitive bidding and are subject to approval by the
 attorney general.  Bonds approved by the attorney general shall be incontestable.  The permanent
 university fund may be invested in the bonds and notes issued under this section.
@@ -3039,8 +3249,8 @@ interest, dividends, and other income accruing from the investments of the highe
 the previous fiscal year shall be deposited and become part of the principal of the fund, and out of the
 remainder of the annual income from the investment of the principal of the fund there shall be
 appropriated an annual sum sufficient to pay the principal and interest due on the bonds and notes issued
-under this section and the balance of the income shall be allocated, distributed, and expended as provided
-for the appropriations made under Subsection (a).
+under this section and the balance of the income shall be allocated, distributed, and expended as
+provided for the appropriations made under Subsection (a).
 (j)  The state systems and institutions of higher education designated in this section may not receive
 any additional funds from the general revenue of the state for acquiring land with or without permanent
 improvements, for constructing or equipping buildings or other permanent improvements, or for major
@@ -3059,17 +3269,17 @@ for acquiring land with or without permanent improvements, or for constructing a
 other permanent improvements, for a branch campus or educational center that is not a separate
 degree-granting institution created by general law.
 (l)  This section is self-enacting upon the issuance of the governor's proclamation declaring the
-adoption of the amendment, and the state comptroller of public accounts shall do all things necessary to
-effectuate this section.  This section does not impair any obligation created by the issuance of any bonds
-and notes in accordance with prior law, and all outstanding bonds and notes shall be paid in full, both
-principal and interest, in accordance with their terms.  If the provisions of this section conflict with any
-other provisions of this constitution, then the provisions of this section shall prevail, notwithstanding all
-such conflicting provisions.  (Added Nov. 6, 1984; Subsecs. (a), (b), (e), (f), and (g) amended and (d-1)
-added Nov. 2, 1993; Subsec. (l) amended Nov. 7, 1995.)
+adoption of the amendment, and the state comptroller of public accounts shall do all things necessary
+to effectuate this section.  This section does not impair any obligation created by the issuance of any
+bonds and notes in accordance with prior law, and all outstanding bonds and notes shall be paid in full,
+both principal and interest, in accordance with their terms.  If the provisions of this section conflict with
+any other provisions of this constitution, then the provisions of this section shall prevail, notwithstanding
+all such conflicting provisions.  (Added Nov. 6, 1984; Subsecs. (a), (b), (e), (f), and (g) amended and
+(d-1) added Nov. 2, 1993; Subsec. (l) amended Nov. 7, 1995.)
 Sec. 18.  TEXAS A&M UNIVERSITY SYSTEM; UNIVERSITY OF TEXAS SYSTEM;
 BONDS OR NOTES PAYABLE FROM INCOME OF AVAILABLE UNIVERSITY
-FUND.  (a) The Board of Regents of The Texas A&M University System may issue bonds and notes not
-to exceed a total amount of 10 percent of the cost value of the investments and other assets of the
+FUND.  (a) The Board of Regents of The Texas A&M University System may issue bonds and notes
+not to exceed a total amount of 10 percent of the cost value of the investments and other assets of the
 permanent university fund (exclusive of real estate) at the time of the issuance thereof, and may pledge
 all or any part of its one-third interest in the available university fund to secure the payment of the
 principal and interest of those bonds and notes, for the purpose of acquiring land either with or without
@@ -3094,10 +3304,11 @@ exceed a total amount of 20 percent of the cost value of investments and other a
 university fund (exclusive of real estate) at the time of issuance thereof, and may pledge all or any part
 of its two-thirds interest in the available university fund to secure the payment of the principal and
 interest of those bonds and notes, for the purpose of acquiring land either with or without permanent
-improvements, constructing and equipping buildings or other permanent improvements, major repair and
-rehabilitation of buildings and other permanent improvements, acquiring capital equipment and library
-books and library materials, and refunding bonds or notes issued under this section or prior law, at or for
-The University of Texas System administration and the following component institutions of the system:
+improvements, constructing and equipping buildings or other permanent improvements, major repair
+and rehabilitation of buildings and other permanent improvements, acquiring capital equipment and
+library books and library materials, and refunding bonds or notes issued under this section or prior law,
+at or for The University of Texas System administration and the following component institutions of the
+system:
          (1)     The University of Texas at Arlington;
          (2)     The University of Texas at Austin;
          (3)     The University of Texas at Dallas;
@@ -3112,12 +3323,12 @@ The University of Texas System administration and the following component instit
         (12)     The University of Texas System Cancer Center;
         (13)     The University of Texas Health Center at Tyler; and
         (14)     The University of Texas Institute of Texan Cultures at San Antonio.
-(c)  Pursuant to a two-thirds vote of the membership of each house of the legislature, institutions of
-higher education may be created at a later date as a part of The University of Texas System or The Texas
-A&M University System by general law, and, when created, such an institution shall be entitled to
-participate in the funding provided by this section for the system in which it is created.  An institution
-that is entitled to participate in dedicated funding provided by Article VII, Section 17, of this constitution
-may not be entitled to participate in the funding provided by this section.
+(c)  Pursuant to a two-thirds vote of the membership of each house of the legislature, institutions
+of higher education may be created at a later date as a part of The University of Texas System or The
+Texas A&M University System by general law, and, when created, such an institution shall be entitled
+to participate in the funding provided by this section for the system in which it is created.  An institution
+that is entitled to participate in dedicated funding provided by Article VII, Section 17, of this
+constitution may not be entitled to participate in the funding provided by this section.
 (d)  The proceeds of the bonds or notes issued under Subsection (a) or (b) of this section may not
 be used for the purpose of constructing, equipping, repairing, or rehabilitating buildings or other
 permanent improvements that are to be used for student housing, intercollegiate athletics, or auxiliary
@@ -3126,8 +3337,8 @@ enterprises.
 investment assets of the permanent university fund, including the net income attributable to the surface
 of permanent university fund land.  The amount of any distributions to the available university fund shall
 be determined by the board of regents of The University of Texas System in a manner intended to
-provide the available university fund with a stable and predictable stream of annual distributions and to
-maintain over time the purchasing power of permanent university fund investments and annual
+provide the available university fund with a stable and predictable stream of annual distributions and
+to maintain over time the purchasing power of permanent university fund investments and annual
 distributions to the available university fund.  The amount distributed to the available university fund
 in a fiscal year must be not less than the amount needed to pay the principal and interest due and owing
 in that fiscal year on bonds and notes issued under this section.  If the purchasing power of permanent
@@ -3136,10 +3347,10 @@ annual distributions to the available university fund until the purchasing power
 university fund investments is restored, except as necessary to pay the principal and interest due and
 owing on bonds and notes issued under this section.  An annual distribution made by the board to the
 available university fund during any fiscal year may not exceed an amount equal to seven percent of the
-average net fair market value of permanent university fund investment assets as determined by the board,
-except as necessary to pay any principal and interest due and owing on bonds issued under this section. 
-The expenses of managing permanent university fund land and investments shall be paid by the
-permanent university fund.
+average net fair market value of permanent university fund investment assets as determined by the
+board, except as necessary to pay any principal and interest due and owing on bonds issued under this
+section.  The expenses of managing permanent university fund land and investments shall be paid by
+the permanent university fund.
 (f)  Out of one-third of the annual distribution from the permanent university fund to the available
 university fund, there shall be appropriated an annual sum sufficient to pay the principal and interest due
 on the bonds and notes issued by the Board of Regents of The Texas A&M University System under this
@@ -3185,8 +3396,8 @@ adoption of this amendment, and the state comptroller of public accounts shall d
 to effectuate this section.  This section does not impair any obligation created by the issuance of bonds
 or notes in accordance with prior law, and all outstanding bonds and notes shall be paid in full, both
 principal and interest, in accordance with their terms, and the changes herein made in the allocation of
-the available university fund shall not affect the pledges thereof made in connection with such bonds or
-notes heretofore issued.  If the provisions of this section conflict with any other provision of this
+the available university fund shall not affect the pledges thereof made in connection with such bonds
+or notes heretofore issued.  If the provisions of this section conflict with any other provision of this
 constitution, then the provisions of this section shall prevail, notwithstanding any such conflicting
 provisions.  (Added Aug. 23, 1947; amended Nov. 6, 1956, Nov. 8, 1966, and Nov. 6, 1984; Subsec. (j)
 amended Nov. 7, 1995; Subsec. (e) amended and Subsec. (f) added Nov. 2, 1999.)
@@ -3216,35 +3427,34 @@ considering the probable income from the disposition as well as the probable saf
 section.
 (e)  To the extent this section conflicts with any other provision of this constitution, this section
 controls.  (Added Nov. 4, 1997.)
-
                            ARTICLE 8
                       TAXATION AND REVENUE
-Sec. 1.  EQUALITY AND UNIFORMITY; TAX IN PROPORTION TO VALUE; TAXATION OF
-TANGIBLE AND INTANGIBLE PROPERTY; OCCUPATION TAXES; INCOME TAX; EXEMPTION OF
-HOUSEHOLD GOODS.  (a) Taxation shall be equal and uniform.
+Sec. 1.  EQUALITY AND UNIFORMITY; TAX IN PROPORTION TO VALUE; INCOME TAX;
+EXEMPTION OF CERTAIN TANGIBLE PERSONAL PROPERTY FROM AD VALOREM
+TAXATION.  (a) Taxation shall be equal and uniform.
 (b)  All real property and tangible personal property in this State, unless exempt as required or
 permitted by this Constitution, whether owned by natural persons or corporations, other than municipal,
 shall be taxed in proportion to its value, which shall be ascertained as may be provided by law.
 (c)  The Legislature may provide for the taxation of intangible property and may also impose
 occupation taxes, both upon natural persons and upon corporations, other than municipal, doing any
-business in this State.  Subject to the restrictions of Section 24 of this article, it may also tax incomes of
-both natural persons and corporations other than municipal.  Persons engaged in mechanical and
+business in this State.  Subject to the restrictions of Section 24 of this article, it may also tax incomes
+of both natural persons and corporations other than municipal.  Persons engaged in mechanical and
 agricultural pursuits shall never be required to pay an occupation tax.
 (d)  The Legislature by general law shall exempt from ad valorem taxation household goods not held
 or used for the production of income and personal effects not held or used for the production of income. 
 The Legislature by general law may exempt from ad valorem taxation:
 (1)  all or part of the personal property homestead of a family or single adult, "personal property
 homestead" meaning that personal property exempt by law from forced sale for debt;
-(2)  subject to Subsections (e) and (g) of this section, all other tangible personal property, except
+(2)  subject to Subsections (e), (g), and (j) of this section, all other tangible personal property, except
 structures which are personal property and are used or occupied as residential dwellings and except
 property held or used for the production of income; and
 (3)  subject to Subsection (e) of this section, a leased motor vehicle that is not held primarily for the
 production of income by the lessee and that otherwise qualifies under general law for exemption.
 (e)  The governing body of a political subdivision may provide for the taxation of all property
-exempt under a law adopted under Subdivision (2) or (3) of Subsection (d) of this section and not exempt
-from ad valorem taxation by any other law.  The Legislature by general law may provide limitations to
-the application of this subsection to the taxation of vehicles exempted under the authority of Subdivision
-(3) of Subsection (d) of this section.
+exempt under a law adopted under Subdivision (2) or (3) of Subsection (d) of this section and not
+exempt from ad valorem taxation by any other law.  The Legislature by general law may provide
+limitations to the application of this subsection to the taxation of vehicles exempted under the authority
+of Subdivision (3) of Subsection (d) of this section.
 (f)  The occupation tax levied by any county, city or town for any year on persons or corporations
 pursuing any profession or business, shall not exceed one half of the tax levied by the State for the same
 period on such profession or business.
@@ -3255,51 +3465,59 @@ general law granting the exemption.
 (h)  The Legislature may exempt from ad valorem taxation a mineral interest that has a taxable value
 of less than the minimum amount sufficient to recover the costs of the administration of the taxes on the
 interest, as determined by or under the general law granting the exemption.
-(i)  Notwithstanding Subsections (a) and (b) of this section, the Legislature by general law may limit
-the maximum average annual percentage increase in the appraised value of residence homesteads for ad
-valorem tax purposes to 10 percent, or a greater percentage, for each year since the most recent tax
-appraisal.  A limitation on appraisal increases authorized by this subsection:
+(i)  Notwithstanding Subsections (a) and (b) of this section, the Legislature by general law may
+limit the maximum average annual percentage increase in the appraised value of residence homesteads
+for ad valorem tax purposes to 10 percent, or a greater percentage, for each year since the most recent
+tax appraisal.  A limitation on appraisal increases authorized by this subsection:
 (1)  takes effect as to a residence homestead on the later of the effective date of the law imposing
 the limitation or January 1 of the tax year following the first tax year the owner qualifies the property
 for an exemption under Section 1-b of this article; and
 (2)  Expires on January 1 of the first tax year that neither the owner of the property when the
 limitation took effect nor the owner's spouse or surviving spouse qualifies for an exemption under
-Section 1-b of this article.  (Amended Nov. 7, 1978, and Nov. 3, 1987; Subsecs. (b) and (f) amended
-Nov. 7, 1989; Subsec. (e) amended Aug. 10, 1991; Subsec. (c) amended Nov. 2, 1993; Subsec. (d)
-amended and (g) and (h) added Nov. 7, 1995; Subsec. (i) added Nov. 4, 1997; Subsecs. (d) and (e)
-amended Nov. 2, 1999.)
+Section 1-b of this article.
+(j)  The Legislature by general law may authorize a taxing unit, other than a school district, to
+exempt from ad valorem taxation by the taxing unit, a travel trailer, as defined by the Legislature,
+regardless of whether the travel trailer is real or personal property, that:
+(1)  on January 1 of the applicable tax year is registered in this state in compliance with the laws of
+this state relating to the registration of vehicles; and
+(2)  is not held or used for the production of income.
+(j-1)  Subsection (j) of this section and this subsection take effect January 1, 2002.  This subsection
+expires January 1, 2004.  (Amended Nov. 7, 1978, and Nov. 3, 1987; Subsecs. (b) and (f) amended Nov.
+7, 1989; Subsec. (e) amended Aug. 10, 1991; Subsec. (c) amended Nov. 2, 1993; Subsec. (d) amended
+and (g) and (h) added Nov. 7, 1995; Subsec. (i) added Nov. 4, 1997; Subsecs. (d) and (e) amended Nov.
+2, 1999; Subsec. (d) amended and (j) and (j-1) added Nov. 6, 2001.)
 Sec. 1-a.  NO STATE AD VALOREM TAX LEVY; COUNTY LEVY FOR ROADS AND
-FLOOD CONTROL; TAX DONATIONS.  No State ad valorem tax shall be levied upon any property
-within this State.  The several counties of the State are authorized to levy ad valorem taxes upon all
-property within their respective boundaries for county purposes, except the first Three Thousand Dollars
-($3,000) value of residential homesteads of married or unmarried adults, male or female; including those
-living alone, not to exceed thirty cents (30›) on each One Hundred Dollars ($100) valuation, in addition
-to all other ad valorem taxes authorized by the Constitution of this State, provided the revenue derived
-therefrom shall be used for construction and maintenance of Farm to Market Roads or for Flood Control,
-except as herein otherwise provided.  (Added Nov. 8, 1932; amended Aug. 26, 1933, Nov. 2, 1948, Nov.
-6, 1973, and Nov. 2, 1999.)
+FLOOD CONTROL; TAX DONATIONS.  The several counties of the State are authorized to levy
+ad valorem taxes upon all property within their respective boundaries for county purposes, except the
+first Three Thousand Dollars ($3,000) value of residential homesteads of married or unmarried adults,
+including those living alone, not to exceed thirty cents (30›) on each One Hundred Dollars ($100)
+valuation, in addition to all other ad valorem taxes authorized by the Constitution of this State, provided
+the revenue derived therefrom shall be used for construction and maintenance of Farm to Market Roads
+or for Flood Control, except as herein otherwise provided.  (Added Nov. 8, 1932; amended Aug. 26,
+1933, Nov. 2, 1948, Nov. 6, 1973, Nov. 2, 1999, and Nov. 6, 2001.)
 TEMPORARY TRANSITION PROVISIONS.1
-Sec. 1-b.  RESIDENCE HOMESTEAD EXEMPTION.  (a) Three Thousand Dollars ($3,000) of the assessed
-taxable value of all residence homesteads of married or unmarried adults, male or female, including those
-living alone, shall be exempt from all taxation for all State purposes.
+TEMPORARY TRANSITION PROVISION.4
+Sec. 1-b.  RESIDENCE HOMESTEAD EXEMPTION.  (a) Three Thousand Dollars ($3,000) of the
+assessed taxable value of all residence homesteads of married or unmarried adults, male or female,
+including those living alone, shall be exempt from all taxation for all State purposes.
 (b)  The governing body of any county, city, town, school district, or other political subdivision of
 the State may exempt by its own action not less than Three Thousand Dollars ($3,000) of the market
 value of residence homesteads of persons, married or unmarried, including those living alone, who are
 under a disability for purposes of payment of disability insurance benefits under Federal Old-Age,
 Survivors, and Disability Insurance or its successor or of married or unmarried persons sixty-five (65)
 years of age or older, including those living alone, from all ad valorem taxes thereafter levied by the
-political subdivision.  As an alternative, upon receipt of a petition signed by twenty percent (20%) of the
-voters who voted in the last preceding election held by the political subdivision, the governing body of
-the subdivision shall call an election to determine by majority vote whether an amount not less than
+political subdivision.  As an alternative, upon receipt of a petition signed by twenty percent (20%) of
+the voters who voted in the last preceding election held by the political subdivision, the governing body
+of the subdivision shall call an election to determine by majority vote whether an amount not less than
 Three Thousand Dollars ($3,000) as provided in the petition, of the market value of residence
 homesteads of disabled persons or of persons sixty-five (65) years of age or over shall be exempt from
 ad valorem taxes thereafter levied by the political subdivision.  An eligible disabled person who is
-sixty-five (65) years of age or older may not receive both exemptions from the same political subdivision
-in the same year but may choose either if the subdivision has adopted both.  Where any ad valorem tax
-has theretofore been pledged for the payment of any debt, the taxing officers of the political subdivision
-shall have authority to continue to levy and collect the tax against the homestead property at the same
-rate as the tax so pledged until the debt is discharged, if the cessation of the levy would impair the
-obligation of the contract by which the debt was created.
+sixty-five (65) years of age or older may not receive both exemptions from the same political
+subdivision in the same year but may choose either if the subdivision has adopted both.  Where any ad
+valorem tax has theretofore been pledged for the payment of any debt, the taxing officers of the political
+subdivision shall have authority to continue to levy and collect the tax against the homestead property
+at the same rate as the tax so pledged until the debt is discharged, if the cessation of the levy would
+impair the obligation of the contract by which the debt was created.
 TEMPORARY TRANSITION PROVISIONS.1
 (c)  Fifteen Thousand Dollars ($15,000) of the market value of the residence homestead of a married
 or unmarried adult, including one living alone, is exempt from ad valorem taxation for general
@@ -3309,23 +3527,23 @@ taxes for public education purposes but is not the principal school district pro
 and secondary public education throughout its territory.  In addition to this exemption, the legislature
 by general law may exempt an amount not to exceed Ten Thousand Dollars ($10,000) of the market
 value of the residence homestead of a person who is disabled as defined in Subsection (b) of this section
-and of a person sixty-five (65) years of age or older from ad valorem taxation for general elementary and
-secondary public school purposes.  The legislature by general law may base the amount of and condition
-eligibility for the additional exemption authorized by this subsection for disabled persons and for persons
-sixty-five (65) years of age or older on economic need.  An eligible disabled person who is sixty-five
-(65) years of age or older may not receive both exemptions from a school district but may choose either. 
-An eligible person is entitled to receive both the exemption required by this subsection for all residence
-homesteads and any exemption adopted pursuant to Subsection (b) of this section, but the legislature
-shall provide by general law whether an eligible disabled or elderly person may receive both the
-additional exemption for the elderly and disabled authorized by this subsection and any exemption for
-the elderly or disabled adopted pursuant to Subsection (b) of this section.  Where ad valorem tax has
-previously been pledged for the payment of debt, the taxing officers of a school district may continue
-to levy and collect the tax against the value of homesteads exempted under this subsection until the debt
-is discharged if the cessation of the levy would impair the obligation of the contract by which the debt
-was created.  The legislature shall provide for formulas to protect school districts against all or part of
-the revenue loss incurred by the implementation of Article VIII, Sections 1-b(c), 1-b(d), and 1-d-1, of
-this constitution.  The legislature by general law may define residence homestead for purposes of this
-section.
+and of a person sixty-five (65) years of age or older from ad valorem taxation for general elementary
+and secondary public school purposes.  The legislature by general law may base the amount of and
+condition eligibility for the additional exemption authorized by this subsection for disabled persons and
+for persons sixty-five (65) years of age or older on economic need.  An eligible disabled person who is
+sixty-five (65) years of age or older may not receive both exemptions from a school district but may
+choose either.  An eligible person is entitled to receive both the exemption required by this subsection
+for all residence homesteads and any exemption adopted pursuant to Subsection (b) of this section, but
+the legislature shall provide by general law whether an eligible disabled or elderly person may receive
+both the additional exemption for the elderly and disabled authorized by this subsection and any
+exemption for the elderly or disabled adopted pursuant to Subsection (b) of this section.  Where ad
+valorem tax has previously been pledged for the payment of debt, the taxing officers of a school district
+may continue to levy and collect the tax against the value of homesteads exempted under this subsection
+until the debt is discharged if the cessation of the levy would impair the obligation of the contract by
+which the debt was created.  The legislature shall provide for formulas to protect school districts against
+all or part of the revenue loss incurred by the implementation of Article VIII, Sections 1-b(c), 1-b(d),
+and 1-d-1, of this constitution.  The legislature by general law may define residence homestead for
+purposes of this section.
 (d)  Except as otherwise provided by this subsection, if a person receives the residence homestead
 exemption prescribed by Subsection (c) of this section for homesteads of persons sixty-five (65) years
 of age or older, the total amount of ad valorem taxes imposed on that homestead for general elementary
@@ -3333,32 +3551,32 @@ and secondary public school purposes may not be increased while it remains the r
 of that person or that person's spouse who receives the exemption.  If a person sixty-five (65) years of
 age or older dies in a year in which the person received the exemption, the total amount of ad valorem
 taxes imposed on the homestead for general elementary and secondary public school purposes may not
-be increased while it remains the residence homestead of that person's surviving spouse if the spouse is
-fifty-five (55) years of age or older at the time of the person's death, subject to any exceptions provided
-by general law.  The legislature, by general law, may provide for the transfer of all or a proportionate
-amount of a limitation provided by this subsection for a person who qualifies for the limitation and
-establishes a different residence homestead.  However, taxes otherwise limited by this subsection may
-be increased to the extent the value of the homestead is increased by improvements other than repairs
-or improvements made to comply with governmental requirements and except as may be consistent with
-the transfer of a limitation under this subsection.  For a residence homestead subject to the limitation
-provided by this subsection in the 1996 tax year or an earlier tax year, the legislature shall provide for
-a reduction in the amount of the limitation for the 1997 tax year and subsequent tax years in an amount
-equal to $10,000 multiplied by the 1997 tax rate for general elementary and secondary public school
-purposes applicable to the residence homestead.
+be increased while it remains the residence homestead of that person's surviving spouse if the spouse
+is fifty-five (55) years of age or older at the time of the person's death, subject to any exceptions
+provided by general law.  The legislature, by general law, may provide for the transfer of all or a
+proportionate amount of a limitation provided by this subsection for a person who qualifies for the
+limitation and establishes a different residence homestead.  However, taxes otherwise limited by this
+subsection may be increased to the extent the value of the homestead is increased by improvements other
+than repairs or improvements made to comply with governmental requirements and except as may be
+consistent with the transfer of a limitation under this subsection.  For a residence homestead subject to
+the limitation provided by this subsection in the 1996 tax year or an earlier tax year, the legislature shall
+provide for a reduction in the amount of the limitation for the 1997 tax year and subsequent tax years
+in an amount equal to $10,000 multiplied by the 1997 tax rate for general elementary and secondary
+public school purposes applicable to the residence homestead.
 (e)  The governing body of a political subdivision, other than a county education district, may
 exempt from ad valorem taxation a percentage of the market value of the residence homestead of a
-married or unmarried adult, including one living alone.  In the manner provided by law, the voters of a
-county education district at an election held for that purpose may exempt from ad valorem taxation a
-percentage of the market value of the residence homestead of a married or unmarried adult, including
-one living alone.  The percentage may not exceed twenty percent.  However, the amount of an exemption
-authorized pursuant to this subsection may not be less than Five Thousand Dollars ($5,000) unless the
-legislature by general law prescribes other monetary restrictions on the amount of the exemption.  An
-eligible adult is entitled to receive other applicable exemptions provided by law.  Where ad valorem tax
-has previously been pledged for the payment of debt, the governing body of a political subdivision may
-continue to levy and collect the tax against the value of the homesteads exempted under this subsection
-until the debt is discharged if the cessation of the levy would impair the obligation of the contract by
-which the debt was created.  The legislature by general law may prescribe procedures for the
-administration of residence homestead exemptions.
+married or unmarried adult, including one living alone.  In the manner provided by law, the voters of
+a county education district at an election held for that purpose may exempt from ad valorem taxation
+a percentage of the market value of the residence homestead of a married or unmarried adult, including
+one living alone.  The percentage may not exceed twenty percent.  However, the amount of an
+exemption authorized pursuant to this subsection may not be less than Five Thousand Dollars ($5,000)
+unless the legislature by general law prescribes other monetary restrictions on the amount of the
+exemption.  An eligible adult is entitled to receive other applicable exemptions provided by law.  Where
+ad valorem tax has previously been pledged for the payment of debt, the governing body of a political
+subdivision may continue to levy and collect the tax against the value of the homesteads exempted under
+this subsection until the debt is discharged if the cessation of the levy would impair the obligation of the
+contract by which the debt was created.  The legislature by general law may prescribe procedures for
+the administration of residence homestead exemptions.
 (e-1)  (Added Nov. 3, 1981; expired Jan. 2, 1982.)
 (f)  The surviving spouse of a person who received an exemption under Subsection (b) of this
 section for the residence homestead of a person sixty-five (65) years of age or older is entitled to an
@@ -3376,9 +3594,9 @@ establishes a different residence homestead, the legislature by general law may 
 body of a school district to elect to apply the law providing for the transfer of the tax limitation to a
 change of a person's residence homestead that occurred before that law took effect, subject to any
 restrictions provided by general law.  The transfer of the limitation may apply only to taxes imposed in
-a tax year that begins after the tax year in which the election is made.  (Added Nov. 2, 1948; Subsec. (b)
-added Nov. 7, 1972; Subsecs. (a) and (b) amended Nov. 6, 1973; Subsecs. (b) amended and (c) and (d)
-added Nov. 7, 1978; Subsecs. (e) and (e-1) added Nov. 3, 1981; Subsec. (d) amended Nov. 3, 1987;
+a tax year that begins after the tax year in which the election is made.  (Added Nov. 2, 1948; Subsec.
+(b) added Nov. 7, 1972; Subsecs. (a) and (b) amended Nov. 6, 1973; Subsec. (b) amended and (c) and
+(d) added Nov. 7, 1978; Subsecs. (e) and (e-1) added Nov. 3, 1981; Subsec. (d) amended Nov. 3, 1987;
 Subsecs. (b) and (e) amended Aug. 10, 1991; Subsec. (f) added Nov. 7, 1995; Subsecs. (c) and (d)
 amended Aug. 9, 1997; Subsec. (g) added Nov. 4, 1997; Subsec. (b) amended Nov. 2, 1999.)
 Sec. 1-b-1.  (Repealed Nov. 2, 1999.)
@@ -3406,10 +3624,10 @@ agricultural use, or unless the land has been continuously developed for agricul
 (f)  Each year during which the land is designated for agricultural use, the local tax assessor shall
 note on his records the valuation which would have been made had the land not qualified for such
 designation under this Section.  If designated land is subsequently diverted to a purpose other than that
-of agricultural use, or is sold, the land shall be subject to an additional tax.  The additional tax shall equal
-the difference between taxes paid or payable, hereunder, and the amount of tax payable for the preceding
-three years had the land been otherwise assessed.  Until paid there shall be a lien for additional taxes and
-interest on land assessed under the provisions of this Section.
+of agricultural use, or is sold, the land shall be subject to an additional tax.  The additional tax shall
+equal the difference between taxes paid or payable, hereunder, and the amount of tax payable for the
+preceding three years had the land been otherwise assessed.  Until paid there shall be a lien for additional
+taxes and interest on land assessed under the provisions of this Section.
 (g)  The valuation and assessment of any minerals or subsurface rights to minerals shall not come
 within the provisions of this Section.  (Added Nov. 8, 1966.)
 Sec. 1-d-1.  TAXATION OF CERTAIN OPEN-SPACE LAND. (a) To promote the preservation
@@ -3422,20 +3640,15 @@ and may impose sanctions in furtherance of the taxation policy of this section.
 this article, the land is subject to the provisions of Section 1-d for the year in which the designation is
 effective and is not subject to a law enacted under this Section 1-d-1 in that year.  (Added Nov. 7, 1978;
 Subsec. (a) amended Nov. 7, 1995.)
-Sec. 1-e.  ABOLITION OF STATE AD VALOREM TAXES; PREVIOUS RECEIPTS.  1. No
-State ad valorem taxes shall be levied upon any property within this State.
-2.   All receipts from previously authorized State ad valorem taxes that are collected on or after the
-effective date of the 1982 amendment to this section shall be deposited to the credit of the general fund
-of the county collecting the taxes and may be expended for county purposes.  Receipts from taxes
-collected before that date shall be distributed by the legislature among institutions eligible to receive
-distributions under prior law.  Those receipts and receipts distributed under prior law may be expended
-for the purposes provided under prior law or for repair and renovation of existing permanent
-improvements.  (Added Nov. 5, 1968; amended Nov. 2, 1982.)
+Sec. 1-e.  ABOLITION OF AD VALOREM PROPERTY TAXES.   No State ad valorem taxes
+shall be levied upon any property within this State.  (Added Nov. 5, 1968; amended Nov. 2, 1982, and
+Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
 Sec. 1-f.  CULTURAL, HISTORICAL, OR NATURAL HISTORY PRESERVATION; AD VALOREM
 TAX RELIEF.  The legislature by law may provide for the preservation of cultural, historical, or natural
 history resources by:
-(1)  granting exemptions or other relief from state ad valorem taxes on appropriate property so
-designated in the manner prescribed by law; and
+(1)  granting exemptions or other relief from state ad valorem taxes on appropriate property so designated
+in the manner prescribed by law; and
 (2)  authorizing political subdivisions to grant exemptions or other relief from ad valorem taxes on
 appropriate property so designated by the political subdivision in the manner prescribed by general law. 
 (Added Nov. 8, 1977.)
@@ -3446,9 +3659,9 @@ on property located in a reinvestment zone for the purpose of encouraging develo
 redevelopment and improvement of the property.
 (b)  The legislature by general law may authorize an incorporated city or town to issue
 bonds or notes to finance the development or redevelopment of an unproductive,
-underdeveloped, or blighted area within the city or town and to pledge for repayment of those bonds
-or notes increases in ad valorem tax revenues imposed on property in the area by the city or town and
-other political subdivisions.  (Added Nov. 3, 1981.)
+underdeveloped, or blighted area within the city or town and to pledge for repayment of those
+bonds or notes increases in ad valorem tax revenues imposed on property in the area by the city or town
+and other political subdivisions.  (Added Nov. 3, 1981.)
 Sec. 1-h.  VALIDATION OF ASSESSMENT RATIO.  Section 26.03, Tax Code, is validated
 as of January 1, 1980.  (Added Nov. 2, 1982.)
 Sec. 1-i.  Mobile Marine Drilling Equipment; Ad Valorem Tax Relief.  The legislature
@@ -3458,8 +3671,8 @@ of Mexico or on a bay or other body of water immediately adjacent to the Gulf of
 3, 1987.)
 Sec. 1-j.  CERTAIN TANGIBLE Personal Property EXEMPT FROM AD VALOREM
 TAXATION.  (a) To promote economic development in the State, goods, wares, merchandise, other
-tangible personal property, and ores, other than oil, natural gas, and other petroleum products, are exempt
-from ad valorem taxation if:
+tangible personal property, and ores, other than oil, natural gas, and other petroleum products, are
+exempt from ad valorem taxation if:
 (1)  the property is acquired in or imported into this State to be forwarded outside this State, whether
 or not the intention to forward the property outside this State is formed or the destination to which the
 property is forwarded is specified when the property is acquired in or imported into this State;
@@ -3486,20 +3699,20 @@ and used by the person who acquired the property, aircraft, or aircraft parts in
 property, aircraft, or aircraft parts into this State for the purpose of repair or maintenance of aircraft
 operated by a certificated air carrier.  (Added Nov. 7, 1989; Subsec. (b) amended Nov. 2, 1999.)
 Sec. 1-k.  NONPROFIT CORPORATIONS SUPPLYING WATER OR PROVIDING WASTEWATER
-SERVICES; EXEMPTION OF PROPERTY FROM AD VALOREM TAXATION.  The legislature by general
-law may exempt from ad valorem taxation property owned by a nonprofit corporation organized to
-supply water or provide wastewater service that provides in the bylaws of the corporation that on
-dissolution of the corporation, the assets of the corporation remaining after discharge of the corporation's
-indebtedness shall be transferred to an entity that provides a water supply or wastewater service, or both,
-that is exempt from ad valorem taxation, if the property is reasonably necessary for and used in the
-acquisition, treatment, storage, transportation, sale, or distribution of water or the provision of
-wastewater service.  (Added Nov. 5, 1991.)
+SERVICES; EXEMPTION OF PROPERTY FROM AD VALOREM TAXATION.  The legislature by
+general law may exempt from ad valorem taxation property owned by a nonprofit corporation organized
+to supply water or provide wastewater service that provides in the bylaws of the corporation that on
+dissolution of the corporation, the assets of the corporation remaining after discharge of the
+corporation's indebtedness shall be transferred to an entity that provides a water supply or wastewater
+service, or both, that is exempt from ad valorem taxation, if the property is reasonably necessary for and
+used in the acquisition, treatment, storage, transportation, sale, or distribution of water or the provision
+of wastewater service.  (Added Nov. 5, 1991.)
 Sec. 1-l.  PROPERTY USED FOR CONTROL OF AIR, WATER, OR LAND POLLUTION;
 EXEMPTION FROM AD VALOREM TAXATION.  (a) The legislature by general law may exempt
-from ad valorem taxation all or part of real and personal property used, constructed, acquired, or installed
-wholly or partly to meet or exceed rules or regulations adopted by any environmental protection agency
-of the United States, this state, or a political subdivision of this state for the prevention, monitoring,
-control, or reduction of air, water, or land pollution.
+from ad valorem taxation all or part of real and personal property used, constructed, acquired, or
+installed wholly or partly to meet or exceed rules or regulations adopted by any environmental
+protection agency of the United States, this state, or a political subdivision of this state for the
+prevention, monitoring, control, or reduction of air, water, or land pollution.
 (b)  This section applies to real and personal property used as a facility, device, or method for the
 control of air, water, or land pollution that would otherwise be taxable for the first time on or after
 January 1, 1994.
@@ -3510,57 +3723,99 @@ Sec. 1-m.  PROPERTY ON WHICH WATER CONSERVATION INITIATIVE HAS BEEN
 IMPLEMENTED; EXEMPTION FROM AD VALOREM TAXATION.  The legislature by general
 law may authorize a taxing unit to grant an exemption or other relief from ad valorem taxes on property
 on which a water conservation initiative has been implemented.  (Added Nov. 4, 1997.)
+Sec. 1-n.  AUTHORIZATION TO EXEMPT FROM AD VALOREM TAXATION RAW
+COCOA AND GREEN COFFEE.  (Text of section as added by Acts 2001, 77th Leg., R.S., S.J.R. 47.) 
+(a)  The legislature by general law may exempt from ad valorem taxation raw cocoa and green coffee
+that is held in Harris County.
+(b)  The legislature may impose additional requirements for qualification for an exemption under
+this section.  (Added Nov. 6, 2001.)
+Sec. 1-n.  AUTHORIZATION TO EXEMPT FROM AD VALOREM TAXATION TANGIBLE
+PERSONAL PROPERTY.  (Text of section as added by Acts 2001, 77th Leg., R.S., S.J.R. 6.)  (a)  To
+promote economic development in this state, the legislature by general law may exempt from ad valorem
+taxation goods, wares, merchandise, other tangible personal property, and ores, other than oil, natural
+gas, and other petroleum products, if:
+(1)  the property is acquired in or imported into this state to be forwarded to another location in this
+state or outside this state, whether or not the intention to forward the property to another location in this
+state or outside this state is formed or the destination to which the property is forwarded is specified
+when the property is acquired in or imported into this state;
+(2)  the property is detained at a location in this state that is not owned or under the control of the
+property owner for assembling, storing, manufacturing, processing, or fabricating purposes by the person
+who acquired or imported the property; and
+(3)  the property is transported to another location in this state or outside this state not later than 270
+days after the date the person acquired the property in or imported the property into this state.
+(b)  For purposes of this section:
+(1)  tangible personal property includes aircraft and aircraft parts;
+(2)  property imported into this state includes property brought into this state;
+(3)  property forwarded to another location in this state or outside this state includes property
+transported to another location in this state or outside this state or to be affixed to an aircraft to be
+transported to another location in this state or outside this state; and
+(4)  property detained at a location in this state for assembling, storing, manufacturing, processing,
+or fabricating purposes includes property, aircraft, or aircraft parts brought into this state or acquired in
+this state and used by the person who acquired the property, aircraft, or aircraft parts in this state or who
+brought the property, aircraft, or aircraft parts into this state for the purpose of repair or maintenance of
+aircraft operated by a certificated air carrier.
+(c)  A property owner who is eligible to receive the exemption authorized by Section 1-j of this
+article may apply for the exemption authorized by the legislature under this section in the manner
+provided by general law, subject to the provisions of Subsection (d) of this section.  A property owner
+who receives the exemption authorized by the legislature under this section is not entitled to receive the
+exemption authorized by Section 1-j of this article for the same property.
+(d)  The governing body of a political subdivision that imposes ad valorem taxes may provide for
+the taxation of property exempt under a law adopted under Subsection (a)  of this section and not exempt
+from ad valorem taxation by any other law.  Before acting to tax the exempt property, the governing
+body of the political subdivision must conduct a public hearing at which members of the public are
+permitted to speak for or against the taxation of the property.
+(e)  This section takes effect January 1, 2002.  This subsection expires January 1, 2003.  (Added
+Nov. 6, 2001.)
 Sec. 2.  OCCUPATION TAXES; EQUALITY AND UNIFORMITY; EXEMPTIONS FROM
-TAXATION.  (a) All occupation taxes shall be equal and uniform upon the same class of subjects within
-the limits of the authority levying the tax; but the legislature may, by general laws, exempt from taxation
-public property used for public purposes; actual places of religious worship, also any property owned
-by a church or by a strictly religious society for the exclusive use as a dwelling place for the ministry of
-such church or religious society, and which yields no revenue whatever to such church or religious
-society; provided that such exemption shall not extend to more property than is reasonably necessary for
-a dwelling place and in no event more than one acre of land; places of burial not held for private or
-corporate profit; solar or wind-powered energy devices; all buildings used exclusively and owned by
-persons or associations of persons for school purposes and the necessary furniture of all schools and
-property used exclusively and reasonably necessary in conducting any association engaged in promoting
-the religious, educational and physical development of boys, girls, young men or young women
-operating under a State or National organization of like character; also the endowment funds of such
-institutions of learning and religion not used with a view to profit; and when the same are invested in
-bonds or mortgages, or in land or other property which has been and shall hereafter be bought in by such
-institutions under foreclosure sales made to satisfy or protect such bonds or mortgages, that such
-exemption of such land and property shall continue only for two years after the purchase of the same at
-such sale by such institutions and no longer, and institutions engaged primarily in public charitable
+TAXATION.  (a) All occupation taxes shall be equal and uniform upon the same class of subjects
+within the limits of the authority levying the tax; but the legislature may, by general laws, exempt from
+taxation public property used for public purposes; actual places of religious worship, also any property
+owned by a church or by a strictly religious society for the exclusive use as a dwelling place for the
+ministry of such church or religious society, and which yields no revenue whatever to such church or
+religious society; provided that such exemption shall not extend to more property than is reasonably
+necessary for a dwelling place and in no event more than one acre of land; places of burial not held for
+private or corporate profit; solar or wind-powered energy devices; all buildings used exclusively and
+owned by persons or associations of persons for school purposes and the necessary furniture of all
+schools and property used exclusively and reasonably necessary in conducting any association engaged
+in promoting the religious, educational and physical development of boys, girls, young men or young
+women operating under a State or National organization of like character; also the endowment funds of
+such institutions of learning and religion not used with a view to profit; and when the same are invested
+in bonds or mortgages, or in land or other property which has been and shall hereafter be bought in by
+such institutions under foreclosure sales made to satisfy or protect such bonds or mortgages, that such
+exemption of such land and property shall continue only for two years after the purchase of the same
+at such sale by such institutions and no longer, and institutions engaged primarily in public charitable
 functions, which may conduct auxiliary activities to support those charitable functions; and all laws
 exempting property from taxation other than the property mentioned in this Section shall be null and
 void.
-TEMPORARY PROVISION.3
 (b)  The Legislature may, by general law, exempt property owned by a disabled veteran or by the
 surviving spouse and surviving minor children of a disabled veteran.  A disabled veteran is a veteran of
-the armed services of the United States who is classified as disabled by the Veterans' Administration or
-by a successor to that agency; or the military service in which he served.  A veteran who is certified as
-having a disability of less than 10 percent is not entitled to an exemption.  A veteran having a disability
-rating of not less than 10 percent nor more than 30 percent may be granted an exemption from taxation
-for property valued at up to $5,000.  A veteran having a disability rating of more than 30 percent but not
-more than 50 percent may be granted an exemption from taxation for property valued at up to $7,500. 
-A veteran having a disability rating of more than 50 percent but not more than 70 percent may be granted
-an exemption from taxation for property valued at up to $10,000.  A veteran who has a disability rating
-of more than 70 percent, or a veteran who has a disability rating of not less than 10 percent and has
-attained the age of 65, or a disabled veteran whose disability consists of the loss or loss of use of one or
-more limbs, total blindness in one or both eyes, or paraplegia, may be granted an exemption from
-taxation for property valued at up to $12,000.  The spouse and children of any member of the United
-States Armed Forces who dies while on active duty may be granted an exemption from taxation for
-property valued at up to $5,000.  A deceased disabled veteran's surviving spouse and children may be
-granted an exemption which in the aggregate is equal to the exemption to which the veteran was entitled
-when the veteran died.
+the armed services of the United States who is classified as disabled by the Veterans' Administration
+or by a successor to that agency; or the military service in which he served.  A veteran who is certified
+as having a disability of less than 10 percent is not entitled to an exemption.  A veteran having a
+disability rating of not less than 10 percent nor more than 30 percent may be granted an exemption from
+taxation for property valued at up to $5,000.  A veteran having a disability rating of more than 30
+percent but not more than 50 percent may be granted an exemption from taxation for property valued
+at up to $7,500.  A veteran having a disability rating of more than 50 percent but not more than 70
+percent may be granted an exemption from taxation for property valued at up to $10,000.  A veteran who
+has a disability rating of more than 70 percent, or a veteran who has a disability rating of not less than
+10 percent and has attained the age of 65, or a disabled veteran whose disability consists of the loss or
+loss of use of one or more limbs, total blindness in one or both eyes, or paraplegia, may be granted an
+exemption from taxation for property valued at up to $12,000.  The spouse and children of any member
+of the United States Armed Forces who dies while on active duty may be granted an exemption from
+taxation for property valued at up to $5,000.  A deceased disabled veteran's surviving spouse and
+children may be granted an exemption which in the aggregate is equal to the exemption to which the
+veteran was entitled when the veteran died.
 (c)  The Legislature by general law may exempt from ad valorem taxation property that is owned
 by a nonprofit organization composed primarily of members or former members of the armed forces of
 the United States or its allies and chartered or incorporated by the United States Congress.
 (d)  Unless otherwise provided by general law enacted after January 1, 1995, the amounts of the
 exemptions from ad valorem taxation to which a person is entitled under Section 11.22, Tax Code, for
-a tax year that begins on or after the date this subsection takes effect are the maximum amounts permitted
-under Subsection (b) of this section instead of the amounts specified by Section 11.22, Tax Code.  This
-subsection may be repealed by the Legislature by general law.  (Amended Nov. 6, 1906, and Nov. 6,
-1928; Subsec. (a) amended and (b) added Nov. 7, 1972; Subsec. (a) amended Nov. 7, 1978; Subsec. (c)
-added Nov. 7, 1989; Subsec. (b) amended and (d) added Nov. 7, 1995; Subsec. (a) amended Nov. 2,
-1999.)
+a tax year that begins on or after the date this subsection takes effect are the maximum amounts
+permitted under Subsection (b) of this section instead of the amounts specified by Section 11.22, Tax
+Code.  This subsection may be repealed by the Legislature by general law.  (Amended Nov. 6, 1906, and
+Nov. 6, 1928; Subsec. (a) amended and (b) added Nov. 7, 1972; Subsec. (a) amended Nov. 7, 1978;
+Subsec. (c) added Nov. 7, 1989; Subsec. (b) amended and (d) added Nov. 7, 1995; Subsec. (a) amended
+Nov. 2, 1999.)
 Sec. 3.  GENERAL LAWS; PUBLIC PURPOSES.  Taxes shall be levied and collected by general
 laws and for public purposes only.
 Sec. 4.  SURRENDER OR SUSPENSION OF TAXING POWER.  The power to tax corporations
@@ -3582,17 +3837,17 @@ MOTOR FUELS AND LUBRICANTS;  PURPOSES FOR WHICH USED.  Subject to legislative
 appropriation, allocation and direction, all net revenues remaining after payment of all refunds allowed
 by law and expenses of collection derived from motor vehicle registration fees, and all taxes, except
 gross production and ad valorem taxes, on motor fuels and lubricants used to propel motor vehicles over
-public roadways, shall be used for the sole purpose of acquiring rights-of-way, constructing, maintaining,
-and policing such public roadways, and for the administration of such laws as may be prescribed by the
-Legislature pertaining to the supervision of traffic and safety on such roads; and for the payment of the
-principal and interest on county and road district bonds or warrants voted or issued prior to January 2,
-1939, and declared eligible prior to January 2, 1945, for payment out of the County and Road District
-Highway Fund under existing law; provided, however, that one-fourth (1/4) of such net revenue from
-the motor fuel tax shall be allocated to the Available School Fund; and, provided, however, that the net
-revenue derived by counties from motor vehicle registration fees shall never be less than the maximum
-amounts allowed to be retained by each County and the percentage allowed to be retained by each
-County under the laws in effect on January 1, 1945.  Nothing contained herein shall be construed as
-authorizing the pledging of the State's credit for any purpose.  (Added Nov. 5, 1946.)
+public roadways, shall be used for the sole purpose of acquiring rights-of-way, constructing,
+maintaining, and policing such public roadways, and for the administration of such laws as may be
+prescribed by the Legislature pertaining to the supervision of traffic and safety on such roads; and for
+the payment of the principal and interest on county and road district bonds or warrants voted or issued
+prior to January 2, 1939, and declared eligible prior to January 2, 1945, for payment out of the County
+and Road District Highway Fund under existing law; provided, however, that one-fourth (1/4) of such
+net revenue from the motor fuel tax shall be allocated to the Available School Fund; and, provided,
+however, that the net revenue derived by counties from motor vehicle registration fees shall never be
+less than the maximum amounts allowed to be retained by each County and the percentage allowed to
+be retained by each County under the laws in effect on January 1, 1945.  Nothing contained herein shall
+be construed as authorizing the pledging of the State's credit for any purpose.  (Added Nov. 5, 1946.)
 Sec. 7-b.  REVENUES FROM FEDERAL REIMBURSEMENT;  PURPOSES FOR WHICH
 USED.  All revenues received from the federal government as reimbursement for state expenditures of
 funds that are themselves dedicated for acquiring rights-of-way and constructing, maintaining, and
@@ -3662,32 +3917,30 @@ to redeem the property upon the payment of the amount of money paid for the prop
 Tax Deed Recording Fee and all taxes, penalties, interest, and costs paid plus an amount not exceeding
 25 percent of the aggregate total.  (Amended Nov. 8, 1932; Subsecs. (a)-(c) amended and (d) and (e)
 added Nov. 2, 1993.)
-Sec. 14.  ASSESSOR AND COLLECTOR OF TAXES.  Except as provided in Section 16 of this
-Article, there shall be elected by the qualified voters of each county, an Assessor and Collector of Taxes,
-who shall hold his office for four years and until his successor is elected and qualified; and such Assessor
-and Collector of Taxes shall perform all the duties with respect to assessing property for the purpose of
-taxation and of collecting taxes, as may be prescribed by the Legislature.  (Amended Nov. 8, 1932, and
-Nov. 2, 1954.)
+Sec. 14.  ASSESSOR AND COLLECTOR OF TAXES. (a) The qualified voters of each county
+shall elect an assessor-collector of taxes for the county, except as otherwise provided by this section.
+(b)  In any county having a population of less than 10,000 inhabitants, as determined by the most
+recent decennial census of the United States, the sheriff of the county, in addition to that officer's other
+duties, shall be the assessor-collector of taxes, except that the commissioners court of such a county may
+submit to the qualified voters of the county at an election the question of electing an assessor-collector
+of taxes as a county officer separate from the office of sheriff.  If a majority of the voters voting in such
+an election approve of electing an assessor-collector of taxes for the county, then such official shall be
+elected at the next general election for the constitutional term of office as is provided for other tax
+assessor-collectors in this state.
+(c)  An assessor-collector of taxes shall hold office for four years; and shall perform all the duties
+with respect to assessing property for the purpose of taxation and of collecting taxes, as may be
+prescribed by the Legislature.  (Amended Nov. 8, 1932, Nov. 2, 1954, and Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
 Sec. 15.  LIEN OF ASSESSMENT; SEIZURE AND SALE OF PROPERTY.  The annual
 assessment made upon landed property shall be a special lien thereon; and all property, both real and
 personal, belonging to any delinquent taxpayer shall be liable to seizure and sale for the payment of all
 the taxes and penalties due by such delinquent; and such property may be sold for the payment of the
 taxes and penalties due by such delinquent, under such regulations as the Legislature may provide.
-Sec. 16.  ASSESSOR AND COLLECTOR OF TAXES; COUNTIES HAVING 10,000 OR MORE
-INHABITANTS.  The Sheriff of each county, in addition to his other duties, shall be the Assessor and
-Collector of Taxes therefor; but, in counties having 10,000 or more inhabitants, to be determined by the
-last preceding census of the United States, an Assessor and Collector of Taxes shall be elected as
-provided in Section 14 of this Article, and shall hold office for four years and until his successor shall
-be elected and qualified.  (Amended Nov. 8, 1932, and Nov. 2, 1954.)
-Sec. 16a.  ASSESSOR-COLLECTOR OF TAXES; COUNTIES HAVING LESS THAN 10,000
-INHABITANTS.  In any county having a population of less than ten thousand (10,000) inhabitants, as
-determined by the last preceding census of the United States, the Commissioners Court may submit to
-the qualified voters of such county at an election the question of adding an Assessor-Collector of Taxes
-to the list of authorized county officials.  If a majority of such voters voting in such election shall
-approve of adding an Assessor-Collector of Taxes to such list, then such official shall be elected at the
-next General Election for such Constitutional term of office as is provided for other Tax
-Assessor-Collectors in this State.  (Added Nov. 2, 1954; amended Nov. 2, 1999.)
+Sec. 16.  (Repealed Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
+Sec. 16a.  (Repealed Nov. 6, 2001.)
 TEMPORARY TRANSITION PROVISIONS.1
+TEMPORARY TRANSITION PROVISION.4
 Sec. 17.  SPECIFICATION OF SUBJECTS NOT LIMITATION OF LEGISLATURE'S
 POWER.  The specification of the objects and subjects of taxation shall not deprive the Legislature of
 the power to require other subjects or objects to be taxed in such manner as may be consistent with the
@@ -3702,8 +3955,8 @@ general law, may authorize appraisals outside a county when political subdivisio
 than one county or when two or more counties elect to consolidate appraisal services.
 (c)  The Legislature, by general law, shall provide for a single board of equalization for each
 appraisal entity consisting of qualified persons residing within the territory appraised by that entity. 
-Members of the board of equalization may not be elected officials of the county or of the governing body
-of a taxing unit.
+Members of the board of equalization may not be elected officials of the county or of the governing
+body of a taxing unit.
 (d)  The Legislature shall prescribe by general law the methods, timing, and administrative process
 for implementing the requirements of this section.  (Amended Nov. 4, 1980.)
 Sec. 19.  FARM PRODUCTS, LIVESTOCK, POULTRY, AND FAMILY SUPPLIES;
@@ -3717,29 +3970,29 @@ Sec. 20.  FAIR CASH MARKET VALUE NOT TO BE EXCEEDED; DISCOUNTS FOR
 ADVANCE PAYMENT.  No property of any kind in this State shall ever be assessed for ad valorem
 taxes at a greater value than its fair cash market value nor shall any Board of Equalization of any
 governmental or political subdivision or taxing district within this State fix the value of any property for
-tax purposes at more than its fair cash market value; provided that in order to encourage the prompt payment of taxes,
-the Legislature shall have the power to provide that the taxpayer shall be allowed by the State and all
-governmental and political subdivisions and taxing districts of the State a three per cent (3%) discount
-on ad valorem taxes due the State or due any governmental or political subdivision or taxing district of
-the State if such taxes are paid ninety (90) days before the date when they would otherwise become
-delinquent; and the taxpayer shall be allowed a two per cent (2%) discount on said taxes if paid sixty (60)
-days before said taxes would become delinquent; and the taxpayer shall be allowed a one per cent (1%)
-discount if said taxes are paid thirty (30) days before they would otherwise become delinquent.  The
-Legislature shall pass necessary laws for the proper administration of this Section.  (Added Aug. 23,
-1937; amended Nov. 2, 1999.)
+tax purposes at more than its fair cash market value; provided that in order to encourage the prompt payment of taxes, the
+Legislature shall have the power to provide that the taxpayer shall be allowed by the State and all governmental
+and political subdivisions and taxing districts of the State a three per cent (3%) discount on ad valorem
+taxes due the State or due any governmental or political subdivision or taxing district of the State if such
+taxes are paid ninety (90) days before the date when they would otherwise become delinquent; and the
+taxpayer shall be allowed a two per cent (2%) discount on said taxes if paid sixty (60) days before said
+taxes would become delinquent; and the taxpayer shall be allowed a one per cent (1%) discount if said
+taxes are paid thirty (30) days before they would otherwise become delinquent.  The Legislature shall
+pass necessary laws for the proper administration of this Section.  (Added Aug. 23, 1937; amended Nov.
+2, 1999.)
 TEMPORARY TRANSITION PROVISIONS.1
 Sec. 21.  INCREASE IN TOTAL PROPERTY TAXES; NOTICE AND HEARING;
-CALCULATION.  (a) Subject to any exceptions prescribed by general law, the total amount of property
-taxes imposed by a political subdivision in any year may not exceed the total amount of property taxes
-imposed by that subdivision in the preceding year unless the governing body of the subdivision gives
-notice of its intent to consider an increase in taxes and holds a public hearing on the proposed increase
-before it increases those total taxes.  The legislature shall prescribe by law the form, content, timing, and
-methods of giving the notice and the rules for the conduct of the hearing.
+CALCULATION.  (a) Subject to any exceptions prescribed by general law, the total amount of
+property taxes imposed by a political subdivision in any year may not exceed the total amount of
+property taxes imposed by that subdivision in the preceding year unless the governing body of the
+subdivision gives notice of its intent to consider an increase in taxes and holds a public hearing on the
+proposed increase before it increases those total taxes.  The legislature shall prescribe by law the form,
+content, timing, and methods of giving the notice and the rules for the conduct of the hearing.
 (b)  In calculating the total amount of taxes imposed in the current year for the purposes of
 Subsection (a) of this section, the taxes on property in territory added to the political subdivision since
 the preceding year and on new improvements that were not taxable in the preceding year are excluded. 
-In calculating the total amount of taxes imposed in the preceding year for the purposes of Subsection (a)
-of this section, the taxes imposed on real property that is not taxable by the subdivision in the current
+In calculating the total amount of taxes imposed in the preceding year for the purposes of Subsection
+(a) of this section, the taxes imposed on real property that is not taxable by the subdivision in the current
 year are excluded.
 (c)  The legislature by general law shall require that, subject to reasonable exceptions, a property
 owner be given notice of a revaluation of his property and a reasonable estimate of the amount of taxes
@@ -3748,8 +4001,8 @@ increased according to any law enacted pursuant to Subsection (a) of this sectio
 given before the procedures required in Subsection (a) are instituted.  (Added Nov. 7, 1978; Subsec. (c)
 amended Nov. 3, 1981.)
 Sec. 22.  RESTRICTION ON APPROPRIATIONS.  (a) In no biennium shall the rate of growth
-of appropriations from state tax revenues not dedicated by this constitution exceed the estimated rate of
-growth of the state's economy.  The legislature shall provide by general law procedures to implement
+of appropriations from state tax revenues not dedicated by this constitution exceed the estimated rate
+of growth of the state's economy.  The legislature shall provide by general law procedures to implement
 this subsection.
 (b)  If the legislature by adoption of a resolution approved by a record vote of a majority of the
 members of each house finds that an emergency exists and identifies the nature of the emergency, the
@@ -3772,15 +4025,15 @@ share of partnership and unincorporated association income, must provide that th
 imposing the tax not take effect until approved by a majority of the registered voters voting in a
 statewide referendum held on the question of imposing the tax.  The referendum must specify the rate
 of the tax that will apply to taxable income as defined by law.
-(b)  A general law enacted by the legislature that increases the rate of the tax, or changes the tax, in
-a manner that results in an increase in the combined income tax liability of all persons subject to the tax
-may not take effect until approved by a majority of the registered voters voting in a statewide referendum
-held on the question of increasing the income tax.  A determination of whether a bill proposing a change
-in the tax would increase the combined income tax liability of all persons subject to the tax must be made
-by comparing the provisions of the proposed change in law with the provisions of the law for the most
-recent year in which actual tax collections have been made.  A referendum held under this subsection
-must specify the manner in which the proposed law would increase the combined income tax liability of all
-persons subject to the tax.
+(b)  A general law enacted by the legislature that increases the rate of the tax, or changes the tax,
+in a manner that results in an increase in the combined income tax liability of all persons subject to the
+tax may not take effect until approved by a majority of the registered voters voting in a statewide
+referendum held on the question of increasing the income tax.  A determination of whether a bill
+proposing a change in the tax would increase the combined income tax liability of all persons subject
+to the tax must be made by comparing the provisions of the proposed change in law with the provisions
+of the law for the most recent year in which actual tax collections have been made.  A referendum held
+under this subsection must specify the manner in which the proposed law would increase the combined
+income tax liability of all persons subject to the tax.
 (c)  Except as provided by Subsection (b) of this section, the legislature may amend or repeal a tax
 approved by the voters under this section without submitting the amendment or the repeal to the voters
 as provided by Subsection (a) of this section.
@@ -3799,14 +4052,14 @@ revenues from the tax shall be used to continue such ad valorem tax relief.
 (g)  The net revenues remaining after the dedication of money from the tax under Subsection (f) of
 this section shall be used for support of education, subject to legislative appropriation, allocation, and
 direction.
-(h)  The maximum rate at which a school district may impose ad valorem maintenance and operation
-taxes is reduced by an amount equal to one cent per $100 valuation for each one cent per $100 valuation
-that the school district's ad valorem maintenance and operation tax is reduced by the minimum amount
-of money dedicated under Subsection (f) of this section, provided that a school district may subsequently
-increase the maximum ad valorem maintenance and operation tax rate if the increased maximum rate is
-approved by a majority of the voters of the school district voting at an election called and held for that
-purpose.  The legislature by general law shall provide for the tax relief that is required by Subsection (f)
-and this subsection.
+(h)  The maximum rate at which a school district may impose ad valorem maintenance and
+operation taxes is reduced by an amount equal to one cent per $100 valuation for each one cent per $100
+valuation that the school district's ad valorem maintenance and operation tax is reduced by the minimum
+amount of money dedicated under Subsection (f) of this section, provided that a school district may
+subsequently increase the maximum ad valorem maintenance and operation tax rate if the increased
+maximum rate is approved by a majority of the voters of the school district voting at an election called
+and held for that purpose.  The legislature by general law shall provide for the tax relief that is required
+by Subsection (f) and this subsection.
 (i)  Subsections (f) and (h) of this section apply to ad valorem maintenance and operation taxes
 levied by a school district on or after the first January 1 after the date on which a tax on the net incomes
 of natural persons, including a person's share of partnership and unincorporated association income,
@@ -3815,7 +4068,6 @@ begins to apply to that income, except that if the income tax begins to apply on
 date.
 (j)  A provision of this section prevails over a conflicting provision of Article VII, Section 3, of this
 Constitution to the extent of the conflict.  (Added Nov. 2, 1993.)
-
                            ARTICLE 9
                             COUNTIES
 Sec. 1.  CREATION OF COUNTIES.  The Legislature shall have power to create counties for the
@@ -3825,8 +4077,8 @@ square miles, nor shall any such county now existing be reduced to a less area t
 counties shall be created so as to approach nearer than twelve miles of the county seat of any county from which it may in
 whole or in part be taken.  Counties of a less area than nine hundred, but of seven hundred or more square miles, within
 counties now existing, may be created by a two-thirds vote of each House of the Legislature, taken by yeas and nays and
-entered on the journals.  Any county now existing may be reduced to an area of not less than seven hundred square miles
-by a like two-thirds vote.  When any part of a county is stricken off and attached to, or created into another county, the part
+entered on the journals.  Any county now existing may be reduced to an area of not less than seven hundred square miles by
+a like two-thirds vote.  When any part of a county is stricken off and attached to, or created into another county, the part
 stricken off shall be holden for and obliged to pay its proportion of all the liabilities then existing, of the county from which
 it was taken, in such manner as may be prescribed by law.
 (2)  No part of any existing county shall be detached from it and attached to another existing county
@@ -3859,11 +4111,11 @@ Sec. 3.  (Repealed Aug. 5, 1969.)
                        HOSPITAL DISTRICTS
 Sec. 4.  COUNTY-WIDE HOSPITAL DISTRICTS.  The Legislature may by law authorize the creation of
 county-wide Hospital Districts in counties having a population in excess of 190,000 and in Galveston
-County, with power to issue bonds for the purchase, acquisition, construction, maintenance and operation
-of any county owned hospital, or where the hospital system is jointly operated by a county and city
-within the county, and to provide for the transfer to the county-wide Hospital District of the title to any
-land, buildings or equipment, jointly or separately owned, and for the assumption by the district of any
-outstanding bonded indebtedness theretofore issued by any county or city for the establishment of
+County, with power to issue bonds for the purchase, acquisition, construction, maintenance and
+operation of any county owned hospital, or where the hospital system is jointly operated by a county and
+city within the county, and to provide for the transfer to the county-wide Hospital District of the title to
+any land, buildings or equipment, jointly or separately owned, and for the assumption by the district of
+any outstanding bonded indebtedness theretofore issued by any county or city for the establishment of
 hospitals or hospital facilities; to levy a tax not to exceed seventy-five ($ .75) cents on the One Hundred
 ($100.00) Dollars valuation of all taxable property within such district, provided, however, that such
 district shall be approved at an election held for that purpose, and that only qualified voters in such
@@ -3883,10 +4135,10 @@ be coextensive with Wichita County.
 If such district or districts are created, they may be authorized to levy a tax not to exceed
 Seventy-five Cents (75›) on the One Hundred Dollars ($100.00) valuation of taxable property within
 the district; provided, however, no tax may be levied until approved by a majority vote of the
-participating resident qualified voters.  The maximum rate of tax may be changed at subsequent elections
-so long as obligations are not impaired, and not to exceed the maximum limit of Seventy-five Cents
-(75›) per One Hundred Dollars ($100.00) valuation, and no election shall be required by subsequent
-changes in the boundaries of the City of Amarillo.
+participating resident qualified voters.  The maximum rate of tax may be changed at subsequent
+elections so long as obligations are not impaired, and not to exceed the maximum limit of Seventy-five
+Cents (75›) per One Hundred Dollars ($100.00) valuation, and no election shall be required by
+subsequent changes in the boundaries of the City of Amarillo.
 If such tax is authorized, no political subdivision or municipality within or having the same
 boundaries as the district may levy a tax for medical or hospital care for needy individuals, nor shall they
 maintain or erect hospital facilities, but the district shall by resolution assume all such responsibilities
@@ -3904,10 +4156,10 @@ maintaining the system and paying a part of the debts of the district (whether a
 district) and may authorize the levy of a tax not to exceed Ten Cents (10›) per One Hundred Dollars
 ($100.00) valuation (in addition to other taxes permitted by this Constitution) upon all property within
 the county but without the City of Amarillo at the time such levy is made for such purposes.  If such tax
-is authorized, the district shall by resolution assume the responsibilities, obligations, and liabilities of the
-county in the manner and to the extent hereinabove provided for political subdivisions having boundaries
-coextensive with the district, and the county shall not thereafter levy taxes (other than herein provided)
-for hospital purposes nor for providing hospital care for needy individuals of the county.
+is authorized, the district shall by resolution assume the responsibilities, obligations, and liabilities of
+the county in the manner and to the extent hereinabove provided for political subdivisions having
+boundaries coextensive with the district, and the county shall not thereafter levy taxes (other than herein
+provided) for hospital purposes nor for providing hospital care for needy individuals of the county.
 (c)  The Legislature may by law authorize the creation of a hospital district within Jefferson County,
 the boundaries of which shall include only the area comprising the Jefferson County Drainage District
 No. 7 and the Port Arthur Independent School District, as such boundaries existed on the first day of
@@ -3937,15 +4189,15 @@ District.  This tax is in addition to any other tax authorized by this constitut
 by the legislature and approved by the voters of the area to be taxed, the Amarillo Hospital District shall,
 by resolution, assume the responsibilities, obligations, and liabilities of Randall County in accordance
 with Subsection (a) of this section and, except as provided by this subsection, Randall County may not
-levy taxes or issue bonds for hospital purposes or for providing hospital care for needy inhabitants of the
-county.
+levy taxes or issue bonds for hospital purposes or for providing hospital care for needy inhabitants of
+the county.
 TEMPORARY TRANSITION PROVISIONS.1
 (f)  Notwithstanding the provisions of Article IX of this constitution, if a hospital district was created
 or authorized under a constitutional provision that includes a description of the district's boundaries or
-jurisdiction, the legislature by law may authorize the district to change its boundaries or jurisdiction.  The
-change must be approved by a majority of the qualified voters of the district voting at an election called
-and held for that purpose.  (Added Nov. 4, 1958; Subsecs. (e) and (f) added Nov. 3, 1987; Subsecs. (a),
-(c), and (e) amended Nov. 2, 1999.)
+jurisdiction, the legislature by law may authorize the district to change its boundaries or jurisdiction. 
+The change must be approved by a majority of the qualified voters of the district voting at an election
+called and held for that purpose.  (Added Nov. 4, 1958; Subsecs. (e) and (f) added Nov. 3, 1987;
+Subsecs. (a), (c), and (e) amended Nov. 2, 1999.)
 Sec. 6.  (Repealed Nov. 2, 1999.)
 TEMPORARY TRANSITION PROVISIONS.1
 Sec. 7.  HIDALGO COUNTY HOSPITAL DISTRICT; CREATION; TAX RATE.  The
@@ -3967,20 +4219,20 @@ and not to exceed the maximum limit of seventy-five cents (75›) per One Hundre
 valuation, and no election shall be required by subsequent changes in the boundaries of the
 Commissioners Precinct No. 4 of Comanche County.
 If such tax is authorized, no political subdivision or municipality within or having the same
-boundaries as the District may levy a tax for medical or hospital care for needy individuals, nor shall they
-maintain or erect hospital facilities, but the District shall by resolution assume all such responsibilities
-and shall assume all of the liabilities and obligations (including bonds and warrants) of such subdivisions
-or municipalities or both.  The maximum tax rate submitted shall be sufficient to discharge such
-obligations, liabilities, and responsibilities, and to maintain and operate the hospital system, and the
-Legislature may authorize the District to issue tax bonds for the purpose of the purchase, construction,
-acquisition, repair or renovation of improvements and initially equipping the same, and such bonds shall
-be payable from said seventy-five cent (75›) tax.  The Legislature shall provide for transfer of title to
-properties to the District.
+boundaries as the District may levy a tax for medical or hospital care for needy individuals, nor shall
+they maintain or erect hospital facilities, but the District shall by resolution assume all such
+responsibilities and shall assume all of the liabilities and obligations (including bonds and warrants) of
+such subdivisions or municipalities or both.  The maximum tax rate submitted shall be sufficient to
+discharge such obligations, liabilities, and responsibilities, and to maintain and operate the hospital
+system, and the Legislature may authorize the District to issue tax bonds for the purpose of the purchase,
+construction, acquisition, repair or renovation of improvements and initially equipping the same, and
+such bonds shall be payable from said seventy-five cent (75›) tax.  The Legislature shall provide for
+transfer of title to properties to the District.
 TEMPORARY TRANSITION PROVISIONS.1
 (b)  The Legislature may by law permit the County of Comanche to render financial aid to that
 District by paying a part of the expenses of operating and maintaining the system and paying a part of
-the debts of the District (whether assumed or created by the District) and may authorize the levy of a tax
-not to exceed ten cents (10›) per One Hundred Dollar ($100) valuation (in addition to other taxes
+the debts of the District (whether assumed or created by the District) and may authorize the levy of a
+tax not to exceed ten cents (10›) per One Hundred Dollar ($100) valuation (in addition to other taxes
 permitted by this Constitution) upon all property within the County but without the County
 Commissioners Precinct No. 4 of Comanche County at the time such levy is made for such purposes. 
 If such tax is authorized, the District shall by resolution assume the responsibilities, obligations, and
@@ -3992,28 +4244,28 @@ County.
 such Acts shall not be invalid because of their anticipatory character.  (Added Nov. 8, 1960; Subsec. (a)
 amended Nov. 2, 1999.)
 Sec. 9.  HOSPITAL DISTRICTS; CREATION, OPERATION, POWERS, DUTIES AND
-DISSOLUTION.  The Legislature may by general or special law provide for the creation, establishment,
-maintenance and operation of hospital districts composed of one or more counties or all or any part of
-one or more counties with power to issue bonds for the purchase, construction, acquisition, repair or
-renovation of buildings and improvements and equipping same, for hospital purposes; providing for the
-transfer to the hospital district of the title to any land, buildings, improvements and equipment located
-wholly within the district which may be jointly or separately owned by any city, town or county,
-providing that any district so created shall assume full responsibility for providing medical and hospital
-care for its needy inhabitants and assume the outstanding indebtedness incurred by cities, towns and
-counties for hospital purposes prior to the creation of the district, if same are located wholly within its
-boundaries, and a pro rata portion of such indebtedness based upon the then last approved tax assessment
-rolls of the included cities, towns and counties is less than all the territory thereof is included within the
-district boundaries; providing that after its creation no other municipality or political subdivision shall
-have the power to levy taxes or issue bonds or other obligations for hospital purposes or for providing
-medical care within the boundaries of the district; providing for the levy of annual taxes at a rate not to
-exceed seventy-five cents ($ .75) on the One Hundred Dollar valuation of all taxable property within
-such district for the purpose of meeting the requirements of the district's bonds, the indebtedness
-assumed by it and its maintenance and operating expenses, providing that such district shall not be
-created or such tax authorized unless approved by a majority of the qualified voters thereof voting at an
-election called for the purpose; and providing further that the support and maintenance of the district's
-hospital system shall never become a charge against or obligation of the State of Texas nor shall any
-direct appropriation be made by the Legislature for the construction, maintenance or improvement of
-any of the facilities of such district.
+DISSOLUTION.  The Legislature may by general or special law provide for the creation,
+establishment, maintenance and operation of hospital districts composed of one or more counties or all
+or any part of one or more counties with power to issue bonds for the purchase, construction, acquisition,
+repair or renovation of buildings and improvements and equipping same, for hospital purposes;
+providing for the transfer to the hospital district of the title to any land, buildings, improvements and
+equipment located wholly within the district which may be jointly or separately owned by any city, town
+or county, providing that any district so created shall assume full responsibility for providing medical
+and hospital care for its needy inhabitants and assume the outstanding indebtedness incurred by cities,
+towns and counties for hospital purposes prior to the creation of the district, if same are located wholly
+within its boundaries, and a pro rata portion of such indebtedness based upon the then last approved tax
+assessment rolls of the included cities, towns and counties is less than all the territory thereof is included
+within the district boundaries; providing that after its creation no other municipality or political
+subdivision shall have the power to levy taxes or issue bonds or other obligations for hospital purposes
+or for providing medical care within the boundaries of the district; providing for the levy of annual taxes
+at a rate not to exceed seventy-five cents ($ .75) on the One Hundred Dollar valuation of all taxable
+property within such district for the purpose of meeting the requirements of the district's bonds, the
+indebtedness assumed by it and its maintenance and operating expenses, providing that such district shall
+not be created or such tax authorized unless approved by a majority of the qualified voters thereof voting
+at an election called for the purpose; and providing further that the support and maintenance of the
+district's hospital system shall never become a charge against or obligation of the State of Texas nor
+shall any direct appropriation be made by the Legislature for the construction, maintenance or
+improvement of any of the facilities of such district.
 Provided, however, that no district shall be created by special law except after thirty (30) days'
 public notice to the district affected, and in no event may the Legislature provide for a district to be
 created without the affirmative vote of a majority of the qualified voters in the district concerned.
@@ -4024,15 +4276,15 @@ afforded by statute for:
 (3)  satisfying the debts and bond obligations, if any, of the district, in such manner as to protect the
 interests of the citizens within the district, including their collective property rights in the assets and
 property of the district, provided, however, that any grant from federal funds, however dispensed, shall
-be considered an obligation to be repaid in satisfaction and provided that no election to dissolve shall be
-held more often than once each year.  In such connection, the statute shall provide against disposal or
-transfer of the assets of the district except for due compensation unless such assets are transferred to
+be considered an obligation to be repaid in satisfaction and provided that no election to dissolve shall
+be held more often than once each year.  In such connection, the statute shall provide against disposal
+or transfer of the assets of the district except for due compensation unless such assets are transferred to
 another governmental agency, such as a county, embracing such district and using such transferred assets
 in such a way as to benefit citizens formerly within the district.  (Added Nov. 6, 1962; amended Nov.
 8, 1966, and Nov. 7, 1989.)
-Sec. 9A.  HOSPITAL DISTRICTS; REGULATION OF HEALTH CARE SERVICES.  The legislature by
-law may determine the health care services a hospital district is required to provide, the requirements a
-resident must meet to qualify for services, and any other relevant provisions necessary to regulate the
+Sec. 9A.  HOSPITAL DISTRICTS; REGULATION OF HEALTH CARE SERVICES.  The legislature
+by law may determine the health care services a hospital district is required to provide, the requirements
+a resident must meet to qualify for services, and any other relevant provisions necessary to regulate the
 provision of health care to residents.  (Added Nov. 5, 1985.)
 Sec. 9B.  HOSPITAL DISTRICTS IN COUNTIES WITH POPULATION OF 75,000 OR
 LESS.  The legislature by general or special law may provide for the creation, establishment,
@@ -4050,12 +4302,12 @@ Sec. 11.  HOSPITAL DISTRICTS; OCHILTREE, CASTRO, HANSFORD, AND HOPKINS
 COUNTIES; CREATION; TAXES.  (a) The Legislature may by law authorize the creation of hospital
 districts in Ochiltree, Castro, Hansford and Hopkins Counties, each district to be coextensive with the
 limits of such county.
-(b)  If any such district is created, it may be authorized to levy a tax not to exceed Seventy-five Cents
-(75›) on the One Hundred Dollar ($100) valuation of taxable property within the district; provided,
-however, no tax may be levied until approved by a majority vote of the participating resident qualified
-voters.  The maximum rate of tax may be changed at subsequent elections so long as obligations are not
-impaired, and not to exceed the maximum limit of Seventy-five Cents (75›) per One Hundred Dollar
-($100) valuation.
+(b)  If any such district is created, it may be authorized to levy a tax not to exceed Seventy-five
+Cents (75›) on the One Hundred Dollar ($100) valuation of taxable property within the district;
+provided, however, no tax may be levied until approved by a majority vote of the participating resident
+qualified voters.  The maximum rate of tax may be changed at subsequent elections so long as
+obligations are not impaired, and not to exceed the maximum limit of Seventy-five Cents (75›) per One
+Hundred Dollar ($100) valuation.
 (c)  If such tax is authorized, no political subdivision or municipality within or having the same
 boundaries as the district may levy a tax for medical or hospital care for needy individuals, nor shall they
 maintain or erect hospital facilities, but the district shall by resolution assume all such responsibilities
@@ -4068,22 +4320,23 @@ said Seventy-five Cent (75›) tax.  The Legislature shall provide for transfer 
 district.  (Added Nov. 6, 1962; amended Nov. 2, 1999.)
 TEMPORARY TRANSITION PROVISIONS.1
 Sec. 12.  AIRPORT AUTHORITIES.  (a) The Legislature may by law provide for the creation,
-establishment, maintenance and operation of Airport Authorities composed of one or more counties, with
-power to issue general obligation bonds, revenue bonds, either or both of them, for the purchase,
+establishment, maintenance and operation of Airport Authorities composed of one or more counties,
+with power to issue general obligation bonds, revenue bonds, either or both of them, for the purchase,
 acquisition by the exercise of the power of eminent domain or otherwise, construction, reconstruction,
 repair or renovation of any airport or airports, landing fields and runways, airport buildings, hangars,
 facilities, equipment, fixtures, and any and all property, real or personal, necessary to operate, equip and
 maintain an airport.
 (b)  The Legislature shall provide for the option by the governing body of the city or cities whose
-airport facilities are served by certificated airlines and whose facility or some interest therein, is proposed
-to be or has been acquired by the Authority, to either appoint or elect a Board of Directors of said
-Authority.  If the Directors are appointed such appointment shall be made by the County Commissioners
-Court after consultation with and consent of the governing body or bodies of such city or cities.  If the
-Board of Directors is elected they shall be elected by the qualified voters of the county which chooses
-to elect the Directors to represent that county.  Directors shall serve without compensation for a term
-fixed by the Legislature not to exceed six (6) years, shall be selected on the basis of the proportionate
-population of each county based upon the last preceding Federal Census, and shall be residents of such
-county.  No county shall have less than one (1) member on the Board of Directors.
+airport facilities are served by certificated airlines and whose facility or some interest therein, is
+proposed to be or has been acquired by the Authority, to either appoint or elect a Board of Directors of
+said Authority.  If the Directors are appointed such appointment shall be made by the County
+Commissioners Court after consultation with and consent of the governing body or bodies of such city
+or cities.  If the Board of Directors is elected they shall be elected by the qualified voters of the county
+which chooses to elect the Directors to represent that county.  Directors shall serve without
+compensation for a term fixed by the Legislature not to exceed six (6) years, shall be selected on the
+basis of the proportionate population of each county based upon the last preceding Federal Census, and
+shall be residents of such county.  No county shall have less than one (1) member on the Board of
+Directors.
 (c)  The Legislature shall provide for the holding of an election in each county proposing the
 creation of an Authority to be called by the Commissioners Court or Commissioners Courts, as the case
 may be, upon petition of five per cent (5%) of the qualified voters within the county or counties.  The
@@ -4093,8 +4346,8 @@ has failed, and thereafter only upon a petition of ten per cent (10%) of the qua
 presented to the Commissioners Court or Commissioners Courts of the county or counties in which such
 an election has failed.  In the event that two or more counties vote on the proposition of the creation of
 an Authority therein, the proposition shall not be deemed to carry unless the majority of the qualified
-voters in each county voting thereon vote in favor thereof.  An Airport Authority may be created and be
-composed of the county or counties that vote in favor of its creation if separate propositions are
+voters in each county voting thereon vote in favor thereof.  An Airport Authority may be created and
+be composed of the county or counties that vote in favor of its creation if separate propositions are
 submitted to the voters of each county so that they may vote for a two or more county Authority or a
 single county Authority.
 (d)  The Legislature shall provide for the appointment by the Board of Directors of an Assessor and
@@ -4107,15 +4360,15 @@ the Authority.  The taxable property shall be assessed on a valuation not to exc
 shall be equal and uniform throughout the Authority as is otherwise provided by the Constitution.
 (e)  The Legislature shall authorize the purchase or acquisition by the Authority of any existing
 airport facility publicly owned and financed and served by certificated airlines, in fee or of any interest
-therein, or to enter into any lease agreement therefor, upon such terms and conditions as may be mutually
-agreeable to the Authority and the owner of such facilities, or authorize the acquisition of same through
-the exercise of the power of eminent domain.  In the event of such acquisition, if there are any general
-obligation bonds that the owner of the publicly owned airport facility has outstanding, the same shall be
-fully assumed by the Authority and sufficient taxes levied by the Authority to discharge said outstanding
-indebtedness.  If any city or owner has outstanding revenue bonds where the revenues of the airport have
-been pledged or said bonds constitute a lien against the airport facilities, the Authority shall assume and
-discharge all the obligations of the city under the ordinances and bond indentures under which said
-revenue bonds have been issued and sold.
+therein, or to enter into any lease agreement therefor, upon such terms and conditions as may be
+mutually agreeable to the Authority and the owner of such facilities, or authorize the acquisition of same
+through the exercise of the power of eminent domain.  In the event of such acquisition, if there are any
+general obligation bonds that the owner of the publicly owned airport facility has outstanding, the same
+shall be fully assumed by the Authority and sufficient taxes levied by the Authority to discharge said
+outstanding indebtedness.  If any city or owner has outstanding revenue bonds where the revenues of
+the airport have been pledged or said bonds constitute a lien against the airport facilities, the Authority
+shall assume and discharge all the obligations of the city under the ordinances and bond indentures under
+which said revenue bonds have been issued and sold.
 (f)  Any city which owns airport facilities not serving certificated airlines which are not purchased
 or acquired or taken over as herein provided by such Authority shall have the power to operate the same
 under the existing laws or as the same may hereafter be amended.
@@ -4135,8 +4388,8 @@ TEMPORARY TRANSITION PROVISIONS.1
 Sec. 13.  PARTICIPATION OF MUNICIPALITIES AND OTHER POLITICAL SUBDIVISIONS IN
 ESTABLISHMENT OF MENTAL HEALTH, MENTAL RETARDATION, OR PUBLIC
 HEALTH SERVICES.  Notwithstanding any other section of this article, the Legislature in providing
-for the creation, establishment, maintenance and operation of a hospital district, shall not be required to
-provide that such district shall assume full responsibility for the establishment, maintenance, support,
+for the creation, establishment, maintenance and operation of a hospital district, shall not be required
+to provide that such district shall assume full responsibility for the establishment, maintenance, support,
 or operation of mental health services or mental retardation services including the operation of any
 community mental health centers, community mental retardation centers or community mental health
 and mental retardation centers which may exist or be thereafter established within the boundaries of such
@@ -4151,23 +4404,27 @@ district shall expressly prohibit participation by any entity other than the hos
 establishment, maintenance, or support of mental health services, mental retardation services, public
 health units or clinics or related public health activities within or partly within the boundaries of any
 hospital district, any municipality or any other political subdivision or state-supported entity within the
-hospital district may participate in the establishment, maintenance, and support of mental health services,
-mental retardation services, public health units and clinics and related public health activities and may
-levy taxes, issue bonds or other obligations, and expend public moneys for such purposes as provided
-by law.  (Added Nov. 11, 1967.)
-
+hospital district may participate in the establishment, maintenance, and support of mental health
+services, mental retardation services, public health units and clinics and related public health activities
+and may levy taxes, issue bonds or other obligations, and expend public moneys for such purposes as
+provided by law.  (Added Nov. 11, 1967.)
+Sec. 14.  COUNTY POOR HOUSE AND FARM.  Each county in the State may provide, in such
+manner as may be prescribed by law, a Manual Labor Poor House and Farm, for taking care of,
+managing, employing and supplying the wants of its indigent and poor inhabitants.  (Formerly Sec. 8,
+Art. XVI, amended to redesignate as Sec. 14, Art. IX, Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
                            ARTICLE 10
                            RAILROADS
 Sec. 1.  (Repealed Aug. 5, 1969.)
 Sec. 2.  PUBLIC HIGHWAYS; COMMON CARRIERS; REGULATION OF TARIFFS,
-CORRECTION OF ABUSES, AND PREVENTION OF DISCRIMINATION AND EXTORTION; MEANS
-AND AGENCIES.  Railroads heretofore constructed or which may hereafter be constructed in this state
-are hereby declared public highways, and railroad companies, common carriers.  The Legislature shall
-pass laws to regulate railroad, freight and passenger tariffs, to correct abuses and prevent unjust
-discrimination and extortion in the rates of freight and passenger tariffs on the different railroads in this
-state, and enforce the same by adequate penalties; and to the further accomplishment of these objects and
-purposes, may provide and establish all requisite means and agencies invested with such powers as may
-be deemed adequate and advisable.  (Amended Nov. 4, 1890.)
+CORRECTION OF ABUSES, AND PREVENTION OF DISCRIMINATION AND EXTORTION;
+MEANS AND AGENCIES.  Railroads heretofore constructed or which may hereafter be constructed
+in this state are hereby declared public highways, and railroad companies, common carriers.  The
+Legislature shall pass laws to regulate railroad, freight and passenger tariffs, to correct abuses and
+prevent unjust discrimination and extortion in the rates of freight and passenger tariffs on the different
+railroads in this state, and enforce the same by adequate penalties; and to the further accomplishment
+of these objects and purposes, may provide and establish all requisite means and agencies invested with
+such powers as may be deemed adequate and advisable.  (Amended Nov. 4, 1890.)
 Sec. 3.  (Repealed Aug. 5, 1969.)
 Sec. 4.  (Repealed Aug. 5, 1969.)
 Sec. 5.  (Repealed Aug. 5, 1969.)
@@ -4175,7 +4432,6 @@ Sec. 6.  (Repealed Aug. 5, 1969.)
 Sec. 7.  (Repealed Aug. 5, 1969.)
 Sec. 8.  (Repealed Aug. 5, 1969.)
 Sec. 9.  (Repealed Aug. 5, 1969.)
-
                            ARTICLE 11
                      MUNICIPAL CORPORATIONS
 Sec. 1.  COUNTIES AS LEGAL SUBDIVISIONS.  The several counties of this State are hereby
@@ -4198,8 +4454,8 @@ one year which shall exceed one and one-half per cent of the taxable property of
 shall be collectible only in current money, and all licenses and occupation taxes levied, and all fines,
 forfeitures and penalties accruing to said cities and towns shall be collectible only in current money. 
 (Amended Aug. 3, 1909, and Nov. 2, 1920.)
-Sec. 5.  CITIES OF MORE THAN 5,000 POPULATION; ADOPTION OR AMENDMENT OF
-CHARTERS; TAXES; DEBT RESTRICTIONS.  Cities having more than five thousand (5000)
+Sec. 5.  CITIES OF MORE THAN 5,000 POPULATION; ADOPTION OR AMENDMENT
+OF CHARTERS; TAXES; DEBT RESTRICTIONS.  Cities having more than five thousand (5000)
 inhabitants may, by a majority vote of the qualified voters of said city, at an election held for that
 purpose, adopt or amend their charters.  If the number of inhabitants of cities that have adopted or
 amended their charters under this section is reduced to five thousand (5000) or fewer, the cities still may
@@ -4211,21 +4467,23 @@ State.  Said cities may levy, assess and collect such taxes as may be authorized
 charters; but no tax for any purpose shall ever be lawful for any one year, which shall exceed two and
 one-half per cent. of the taxable property of such city, and no debt shall ever be created by any city,
 unless at the same time provision be made to assess and collect annually a sufficient sum to pay the
-interest thereon and creating a sinking fund of at least two per cent. thereon.  Furthermore, no city charter
-shall be altered, amended or repealed oftener than every two years.  (Amended Aug. 3, 1909, Nov. 5,
-1912, and Nov. 5, 1991.)
+interest thereon and creating a sinking fund of at least two per cent. thereon.  Furthermore, no city
+charter shall be altered, amended or repealed oftener than every two years.  (Amended Aug. 3, 1909,
+Nov. 5, 1912, and Nov. 5, 1991.)
 Sec. 6.  (Repealed Nov. 2, 1999.)
 TEMPORARY TRANSITION PROVISIONS.1
 Sec. 7.  COUNTIES AND CITIES ON GULF OF MEXICO; TAX FOR SEA WALLS,
-BREAKWATERS, AND SANITATION; BONDS; CONDEMNATION OF RIGHT OF WAY.  All counties
-and cities bordering on the coast of the Gulf of Mexico are hereby authorized upon a vote of the majority
-of the resident property taxpayers voting thereon at an election called for such purpose to levy and collect
-such tax for construction of sea walls, breakwaters, or sanitary purposes, as may now or may hereafter
-be authorized by law, and may create a debt for such works and issue bonds in evidence thereof.  But no
-debt for any purpose shall ever be incurred in any manner by any city or county unless provision is made,
-at the time of creating the same, for levying and collecting a sufficient tax to pay the interest thereon and
-provide at least two per cent (2%) as a sinking fund; and the condemnation of the right of way for the
-erection of such works shall be fully provided for.  (Amended Nov. 8, 1932, and Nov. 6, 1973.)
+BREAKWATERS, AND SANITATION; BONDS; CONDEMNATION OF RIGHT OF WAY.  All
+counties and cities bordering on the coast of the Gulf of Mexico are hereby authorized upon a vote of
+the majority of the qualified voters voting thereon at an election called for such purpose to levy and
+collect such tax for construction of sea walls, breakwaters, or sanitary purposes, as may now or may
+hereafter be authorized by law, and may create a debt for such works and issue bonds in evidence
+thereof.  But no debt for any purpose shall ever be incurred in any manner by any city or county unless
+provision is made, at the time of creating the same, for levying and collecting a sufficient tax to pay the
+interest thereon and provide at least two per cent (2%) as a sinking fund; and the condemnation of the
+right of way for the erection of such works shall be fully provided for.  (Amended Nov. 8, 1932, Nov.
+6, 1973, and Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
 Sec. 8.  DONATION OF PORTION OF PUBLIC DOMAIN TO AID IN CONSTRUCTION
 OF SEA WALLS OR BREAKWATERS.  The counties and cities on the Gulf Coast being subject to
 calamitous overflows, and a very large proportion of the general revenue being derived from those
@@ -4240,24 +4498,22 @@ extinguishing fires, public grounds and all other property devoted exclusively t
 the public shall be exempt from forced sale and from taxation, provided, nothing herein shall prevent
 the enforcement of the vendors lien, the mechanics or builders lien, or other liens now existing.
 Sec. 10.  (Repealed Aug. 5, 1969.)
-Sec. 11.  MAXIMUM FOUR-YEAR TERMS OF OFFICE FOR ELECTIVE AND APPOINTIVE
-CITY OFFICIALS AUTHORIZED; VACANCIES.  A Home Rule City may provide by charter or charter
-amendment, and a city, town or village operating under the general laws may provide by majority vote
-of the qualified voters voting at an election called for that purpose, for a longer term of office than two
-(2) years for its officers, either elective or appointive, or both, but not to exceed four (4) years; provided,
-however, that tenure under Civil Service shall not be affected hereby.
-Provided, however, if any of such officers, elective or appointive, shall announce their candidacy,
-or shall in fact become a candidate, in any general, special or primary election, for any office of profit
-or trust under the laws of this State or the United States other than the office then held, at any time when
-the unexpired term of the office then held shall exceed one (1) year, such announcement or such
-candidacy shall constitute an automatic resignation of the office then held, and the vacancy thereby
-created shall be filled pursuant to law in the same manner as other vacancies for such office are filled.
-A municipality so providing a term exceeding two (2) years but not exceeding four (4) years for any
-of its non-civil service officers must elect all of the members of its governing body by majority vote of
-the qualified voters in such municipality, and any vacancy or vacancies occurring on such governing
-body shall not be filled by appointment but must be filled by majority vote of the qualified voters at a
-special election called for such purpose within one hundred and twenty (120) days after such vacancy
-or vacancies occur.  (Added Nov. 4, 1958.)
+Sec. 11.  TERM OF OFFICE EXCEEDING TWO YEARS IN HOME RULE AND GENERAL
+LAW CITIES; VACANCIES. (a) A Home Rule City may provide by charter or charter amendment,
+and a city, town or village operating under the general laws may provide by majority vote of the
+qualified voters voting at an election called for that purpose, for a longer term of office than two (2)
+years for its officers, either elective or appointive, or both, but not to exceed four (4) years; provided,
+however, that tenure under Civil Service shall not be affected hereby; provided, however, that such
+officers, elective or appointive, are subject to Section 65(b), Article XVI, of this Constitution, providing
+for automatic resignation in certain circumstances, in the same manner as a county or district officer to
+which that section applies.
+(b)  A municipality so providing a term exceeding two (2) years but not exceeding four (4) years
+for any of its non-civil service officers must elect all of the members of its governing body by majority
+vote of the qualified voters in such municipality, and any vacancy or vacancies occurring on such
+governing body shall not be filled by appointment but must be filled by majority vote of the qualified
+voters at a special election called for such purpose within one hundred and twenty (120) days after such vacancy or
+vacancies occur.  (Added Nov. 4, 1958; amended Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
 Sec. 12.  EXPENDITURES FOR RELOCATION OR REPLACEMENT OF SANITATION
 SEWER OR WATER LATERALS ON PRIVATE PROPERTY.  The legislature by general law may
 authorize a city or town to expend public funds for the relocation or replacement of sanitation sewer
@@ -4266,8 +4522,8 @@ or immediately following the replacement or relocation of sanitation sewer mains
 the property.  The law must authorize the city or town to affix, with the consent of the owner of the
 private property, a lien on the property for the cost of relocating or replacing the laterals on the property
 and must provide that the cost shall be assessed against the property with repayment by the property
-owner to be amortized over a period not to exceed five years at a rate of interest to be set as provided by
-the law.  The lien may not be enforced until after five years have expired since the date the lien was
+owner to be amortized over a period not to exceed five years at a rate of interest to be set as provided
+by the law.  The lien may not be enforced until after five years have expired since the date the lien was
 affixed.  (Added Nov. 8, 1983; amended Nov. 5, 1985.)
 Sec. 13.  CLASSIFICATION OF MUNICIPAL FUNCTIONS. (a) Notwithstanding any other
 provision of this constitution, the legislature may by law define for all purposes those functions of a
@@ -4275,7 +4531,6 @@ municipality that are to be considered governmental and those that are proprieta
 reclassifying a function's classification assigned under prior statute or common law.
 (b)  This section applies to laws enacted by the 70th Legislature, Regular Session, 1987, and to all
 subsequent regular or special sessions of the legislature.  (Added Nov. 3, 1987.)
-
                            ARTICLE 12
                       PRIVATE CORPORATIONS
 Sec. 1.  CREATION BY GENERAL LAWS.  No private corporation shall be created except by general laws.
@@ -4288,11 +4543,9 @@ Sec. 4.  (Repealed Aug. 5, 1969.)
 Sec. 5.  (Repealed Aug. 5, 1969.)
 Sec. 6.  (Repealed Nov. 2, 1993.)
 Sec. 7.  (Repealed Aug. 5, 1969.)
-
                            ARTICLE 13
                 SPANISH AND MEXICAN LAND TITLES
 (Repealed Aug. 5, 1969.)
-
                            ARTICLE 14
                   PUBLIC LANDS AND LAND OFFICE
 Sec. 1.  GENERAL LAND OFFICE.  There shall be one General Land Office in the State, which
@@ -4308,7 +4561,6 @@ Sec. 5.  (Repealed Aug. 5, 1969.)
 Sec. 6.  (Repealed Aug. 5, 1969.)
 Sec. 7.  (Repealed Aug. 5, 1969.)
 Sec. 8.  (Repealed Aug. 5, 1969.)
-
                            ARTICLE 15
                           IMPEACHMENT
 Sec. 1.  POWER OF IMPEACHMENT.  The power of impeachment shall be vested in the House of
@@ -4345,64 +4597,52 @@ Sec. 7.  REMOVAL OF OFFICERS WHEN MODE NOT PROVIDED IN CONSTITUTION.
 The Legislature shall provide by law for the trial and removal from office of all officers of this State,
 the modes for which have not been provided in this Constitution.
                             ADDRESS
-Sec. 8.  REMOVAL OF JUDGES BY GOVERNOR ON ADDRESS OF TWO-THIRDS OF EACH HOUSE OF
-LEGISLATURE.  The Judges of the Supreme Court, Court of Appeals and District Courts, shall be
+Sec. 8.  REMOVAL OF JUDGES BY GOVERNOR ON ADDRESS OF TWO-THIRDS OF EACH HOUSE
+OF LEGISLATURE.  The Judges of the Supreme Court, Court of Appeals and District Courts, shall be
 removed by the Governor on the address of two-thirds of each House of the Legislature, for wilful
 neglect of duty, incompetency, habitual drunkenness, oppression in office, or other reasonable cause
 which shall not be sufficient ground for impeachment; provided, however, that the cause or causes for
-which such removal shall be required, shall be stated at length in such address and entered on the journals
-of each House; and provided further, that the cause or causes shall be notified to the judge so intended
-to be removed, and he shall be admitted to a hearing in his own defense before any vote for such address
-shall pass, and in all such cases, the vote shall be taken by yeas and nays and entered on the journals of
-each House respectively.
+which such removal shall be required, shall be stated at length in such address and entered on the
+journals of each House; and provided further, that the cause or causes shall be notified to the judge so
+intended to be removed, and he shall be admitted to a hearing in his own defense before any vote for
+such address shall pass, and in all such cases, the vote shall be taken by yeas and nays and entered on
+the journals of each House respectively.
 Sec. 9.  REMOVAL BY GOVERNOR WITH ADVICE AND CONSENT OF SENATE.  (a) In
 addition to the other procedures provided by law for removal of public officers, the governor who
-appoints an officer may remove the officer with the advice and consent of two-thirds of the members of
-the senate present.
+appoints an officer may remove the officer with the advice and consent of two-thirds of the members
+of the senate present.
 (b)  If the legislature is not in session when the governor desires to remove an officer, the governor
 shall call a special session of the senate for consideration of the proposed removal.  The session may not
 exceed two days in duration.  (Added Nov. 4, 1980.)
-
                            ARTICLE 16
                        GENERAL PROVISIONS
-Sec. 1.  OFFICIAL OATH.  (a)  Members of the Legislature, and all other elected officers, before
-they enter upon the duties of their offices, shall take the following Oath or Affirmation:
+Sec. 1.  OFFICIAL OATH.  (a)  All elected and appointed officers, before they enter upon the
+duties of their offices, shall take the following Oath or Affirmation:
 "I, _______________________, do solemnly swear (or affirm), that I will faithfully execute the
 duties of the office of ___________________ of the State of Texas, and will to the best of my ability
 preserve, protect, and defend the Constitution and laws of the United States and of this State, so help me
 God."
-(b)  Each member of the Legislature and all other elected officers, before taking the Oath or
-Affirmation of office prescribed by this section and entering upon the duties of office, shall subscribe
-to the following statement:
+TEMPORARY TRANSITION PROVISION.4
+(b)  All elected or appointed officers, before taking the Oath or Affirmation of office prescribed by
+this section and entering upon the duties of office, shall subscribe to the following statement:
 "I, _______________________, do solemnly swear (or affirm) that I have not directly or indirectly
 paid, offered, promised to pay, contributed, or promised to contribute any money or thing of value, or
 promised any public office or employment for the giving or withholding of a vote at the election at
-which I was elected so help me God."
-(c)  The Secretary of State, and all other appointed officers, before entering upon the duties of their
-offices, shall take the following Oath or Affirmation:
-"I, _________________, do solemnly swear (or affirm), that I will faithfully execute the duties of
-the office of ________________ of the State of Texas, and will to the best of my ability preserve,
-protect, and defend the Constitution and laws of the United States and of this State, so help me God."
-(d)  The Secretary of State, and all other appointed officers, before taking the Oath or Affirmation
-of office prescribed by this section and entering upon the duties of office, shall subscribe to the following
-statement:
-"I, _____________________, do  solemnly  swear (or affirm) that I have not directly or indirectly
-paid, offered, or promised to pay, contributed, or promised to contribute any money, or valuable thing,
-or promised any public office or employment, as a reward to secure my appointment or confirmation
-thereof, so help me God."
-(e)  Members of the Legislature and all other elected officers shall file the signed statement required
-by Subsection (b) of this section with the Secretary of State before taking the Oath or Affirmation of
-office prescribed by Subsection (a) of this section.
-(f)  The Secretary of State and all other appointed officers shall file the signed statement required
-by Subsection (d) of this section with the Secretary of State before taking the Oath or Affirmation of
-office prescribed by Subsection (c) of this section.  (Amended Nov. 8, 1938, and Nov. 6, 1956; Subsecs.
-(a)-(c) amended and (d)-(f) added Nov. 7, 1989.)
+which I was elected or as a reward to secure my appointment or confirmation, whichever the case may
+be, so help me God."
+TEMPORARY TRANSITION PROVISION.4
+(c)  Members of the Legislature, the Secretary of State, and all other elected and appointed state
+officers shall file the signed statement required by Subsection (b) of this section with the Secretary of
+State before taking the Oath or Affirmation of office prescribed by Subsection (a) of this section.  All
+other officers shall retain the signed statement required by Subsection (b) of this section with the official
+records of the office.  (Amended Nov. 8, 1938, and Nov. 6, 1956; Subsecs. (a)-(c) amended and (d)-(f)
+added Nov. 7, 1989; Subsecs. (a) and (b) amended, Subsecs. (c) and (d) deleted, and Subsecs. (e) and
+(f) amended and redesignated as Subsec. (c) Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
 Sec. 2.  EXCLUSIONS FROM OFFICE, JURY SERVICE AND RIGHT OF SUFFRAGE;
-PROTECTION OF RIGHT OF SUFFRAGE.  Laws shall be made to exclude from office, serving on juries,
-and from the right of suffrage, those who may have been or shall hereafter be convicted of bribery,
-perjury, forgery, or other high crimes.  The privilege of free suffrage shall be protected by laws
-regulating elections and prohibiting under adequate penalties all undue influence therein from power,
-bribery, tumult or other improper practice.
+PROTECTION OF RIGHT OF SUFFRAGE.  Laws shall be made to exclude from office persons who
+have been convicted of bribery, perjury, forgery, or other high crimes.  (Amended Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
 Sec. 3.  (Repealed Aug. 5, 1969.)
 Sec. 4.  (Repealed Aug. 5, 1969.)
 Sec. 5.  DISQUALIFICATION TO HOLD OFFICE BY GIVING OR OFFERING BRIBE. 
@@ -4423,8 +4663,8 @@ providing other services determined by the state agency to be essential for the 
 of the handicapped.  Money accepted under this subsection is state money.  State agencies may spend
 money accepted under this subsection, and no other money, for specific programs and projects to be
 conducted by local level or other private, nonsectarian associations, groups, and nonprofit organizations,
-in establishing and equipping facilities for assisting those who are blind, crippled, or otherwise physically
-or mentally handicapped in becoming gainfully employed, in rehabilitating and restoring the
+in establishing and equipping facilities for assisting those who are blind, crippled, or otherwise
+physically or mentally handicapped in becoming gainfully employed, in rehabilitating and restoring the
 handicapped, and in providing other services determined by the state agency to be essential for the better
 care or treatment of the handicapped.
 The state agencies may deposit money accepted under this subsection either in the state treasury or
@@ -4432,17 +4672,16 @@ in other secure depositories.  The money may not be expended for any purpose oth
 for which it was given.  Notwithstanding any other provision of this Constitution, the state agencies may
 expend money accepted under this subsection without the necessity of an appropriation, unless the
 Legislature, by law, requires that the money be expended only on appropriation.  The Legislature may
-prohibit state agencies from accepting money under this subsection or may regulate the amount of money
-accepted, the way the acceptance and expenditure of the money is administered, and the purposes for
-which the state agencies may expend the money.  Money accepted under this subsection for a purpose
-prohibited by the Legislature shall be returned to the entity that gave the money.
+prohibit state agencies from accepting money under this subsection or may regulate the amount of
+money accepted, the way the acceptance and expenditure of the money is administered, and the purposes
+for which the state agencies may expend the money.  Money accepted under this subsection for a
+purpose prohibited by the Legislature shall be returned to the entity that gave the money.
 This subsection does not prohibit state agencies authorized to render services to the handicapped
 from contracting with privately-owned or local facilities for necessary and essential services, subject to
 such conditions, standards, and procedures as may be prescribed by law.  (Amended Nov. 8, 1966.)
 Sec. 7.  (Repealed Aug. 5, 1969.)
-Sec. 8.  COUNTY POOR HOUSE AND FARM.  Each county in the State may provide, in such
-manner as may be prescribed by law, a Manual Labor Poor House and Farm, for taking care of,
-managing, employing and supplying the wants of its indigent and poor inhabitants.
+Sec. 8.  (Redesignated as Sec. 14, Art. IX, Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
 Sec. 9.  FORFEITURE OF RESIDENCE BY ABSENCE ON PUBLIC BUSINESS.  Absence
 on business of the State, or of the United States, shall not forfeit a residence once obtained, so as to
 deprive any one of the right of suffrage, or of being elected or appointed to any office under the
@@ -4451,20 +4690,16 @@ Sec. 10.  DEDUCTIONS FROM SALARY FOR NEGLECT OF DUTY.  The Legislature shall
 provide for deductions from the salaries of public officers who may neglect the performance of any duty
 that may be assigned them by law.
 Sec. 11.  USURY; RATE OF INTEREST IN ABSENCE OF LEGISLATION.  The Legislature
-shall have authority to classify loans and lenders, license and regulate lenders, define interest and fix
-maximum rates of interest; provided, however, in the absence of legislation fixing maximum rates of
-interest all contracts for a greater rate of interest than ten per centum (10%) per annum shall be deemed
-usurious; provided, further, that in contracts where no rate of interest is agreed upon, the rate shall not
-exceed six per centum (6%) per annum.  Should any regulatory agency, acting under the provisions of
-this Section, cancel or refuse to grant any permit under any law passed by the Legislature; then such
-applicant or holder shall have the right of appeal to the courts and granted a trial de novo as that term
-is used in appealing from the justice of peace court to the county court.  (Amended Aug. 11, 1891, and
-Nov. 8, 1960.)
+shall have authority to define interest and fix maximum rates of interest; provided, however, in the
+absence of legislation fixing maximum rates of interest all contracts for a greater rate of interest than
+ten per centum (10%) per annum shall be deemed usurious; provided, further, that in contracts where
+no rate of interest is agreed upon, the rate shall not exceed six per centum (6%) per annum.  (Amended
+Aug. 11, 1891, Nov. 8, 1960, and Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
 Sec. 12.  MEMBERS OF CONGRESS; OFFICERS OF UNITED STATES OR FOREIGN
 POWER; INELIGIBILITY TO HOLD OFFICE.  No member of Congress, nor person holding or
 exercising any office of profit or trust, under the United States, or either of them, or under any foreign
-power, shall be eligible as a member of the Legislature, or hold or exercise any office of profit or trust under this
-State.
+power, shall be eligible as a member of the Legislature, or hold or exercise any office of profit or trust under this State.
 Sec. 13.  (Repealed Aug. 5, 1969.)
 Sec. 14.  CIVIL OFFICERS; RESIDENCE; LOCATION OF OFFICES.  All civil officers shall
 reside within the State; and all district or county officers within their districts or counties, and shall keep
@@ -4474,20 +4709,20 @@ Sec. 15.  SEPARATE AND COMMUNITY PROPERTY.  All property, both real and personal
 of a spouse owned or claimed before marriage, and that acquired afterward by gift, devise or descent,
 shall be the separate property of that spouse; and laws shall be passed more clearly defining the rights
 of the spouses, in relation to separate and community property; provided that persons about to marry and
-spouses, without the intention to defraud pre-existing creditors, may by written instrument from time to
-time partition between themselves all or part of their property, then existing or to be acquired, or
-exchange between themselves the community interest of one spouse or future spouse in any property for
-the community interest of the other spouse or future spouse in other community property then existing
-or to be acquired, whereupon the portion or interest set aside to each spouse shall be and constitute a part
-of the separate property and estate of such spouse or future spouse; spouses also may from time to time,
-by written instrument, agree between themselves that the income or property from all or part of the
-separate property then owned or which thereafter might be acquired by only one of them, shall be the
-separate property of that spouse; if one spouse makes a gift of property to the other that gift is presumed
-to include all the income or property which might arise from that gift of property; spouses may agree in
-writing that all or part of their community property becomes the property of the surviving spouse on the
-death of a spouse; and spouses may agree in writing that all or part of the separate property owned by
-either or both of them shall be the spouses' community property.  (Amended Nov. 2, 1948, Nov. 4, 1980,
-Nov. 3, 1987, and Nov. 2, 1999.)
+spouses, without the intention to defraud pre-existing creditors, may by written instrument from time
+to time partition between themselves all or part of their property, then existing or to be acquired, or
+exchange between themselves the community interest of one spouse or future spouse in any property
+for the community interest of the other spouse or future spouse in other community property then
+existing or to be acquired, whereupon the portion or interest set aside to each spouse shall be and
+constitute a part of the separate property and estate of such spouse or future spouse; spouses also may
+from time to time, by written instrument, agree between themselves that the income or property from
+all or part of the separate property then owned or which thereafter might be acquired by only one of
+them, shall be the separate property of that spouse; if one spouse makes a gift of property to the other
+that gift is presumed to include all the income or property which might arise from that gift of property;
+spouses may agree in writing that all or part of their community property becomes the property of the
+surviving spouse on the death of a spouse; and spouses may agree in writing that all or part of the
+separate property owned by either or both of them shall be the spouses' community property.  (Amended
+Nov. 2, 1948, Nov. 4, 1980, Nov. 3, 1987, and Nov. 2, 1999.)
 Sec. 16.  CORPORATIONS WITH BANKING AND DISCOUNTING PRIVILEGES.  (a) The
 Legislature shall by general laws, authorize the incorporation of state banks and savings and loan
 associations and shall provide for a system of State supervision, regulation and control of such bodies
@@ -4529,23 +4764,20 @@ Sec. 17.  OFFICERS TO SERVE UNTIL SUCCESSORS QUALIFIED.  All officers within thi
 State shall continue to perform the duties of their offices until their successors shall be duly qualified.
 Sec. 18.  (Repealed Nov. 2, 1999.)
 TEMPORARY TRANSITION PROVISIONS.1
-Sec. 19.  QUALIFICATIONS OF JURORS.  The Legislature shall prescribe by law the
-qualifications of grand and petit jurors; provided that neither the right nor the duty to serve on grand and
-petit juries shall be denied or abridged by reason of sex.  Whenever in the Constitution the term "men"
-is used in reference to grand or petit juries, such term shall include persons of the female as well as the
-male sex.  (Amended Nov. 2, 1954.)
+Sec. 19.  (Repealed Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
 Sec. 20.  MIXED ALCOHOLIC BEVERAGES; INTOXICATING LIQUORS;
 REGULATION; LOCAL OPTION.  (a) The Legislature shall have the power to enact a Mixed
 Beverage Law regulating the sale of mixed alcoholic beverages on a local option election basis.  The
-Legislature shall also have the power to regulate the manufacture, sale, possession and transportation of
-intoxicating liquors, including the power to establish a State Monopoly on the sale of distilled liquors.
+Legislature shall also have the power to regulate the manufacture, sale, possession and transportation
+of intoxicating liquors, including the power to establish a State Monopoly on the sale of distilled liquors.
 Should the Legislature enact any enabling laws in anticipation of this amendment, no such law shall
 be void by reason of its anticipatory nature.
 (b)  The Legislature shall enact a law or laws whereby the qualified voters of any county, justice's
 precinct or incorporated town or city, may, by a majority vote of those voting, determine from time to
-time whether the sale of intoxicating liquors for beverage purposes shall be prohibited or legalized within
-the prescribed limits; and such laws shall contain provisions for voting on the sale of intoxicating liquors
-of various types and various alcoholic content.
+time whether the sale of intoxicating liquors for beverage purposes shall be prohibited or legalized
+within the prescribed limits; and such laws shall contain provisions for voting on the sale of intoxicating
+liquors of various types and various alcoholic content.
 (c)  In all counties, justice's precincts or incorporated towns or cities wherein the sale of intoxicating
 liquors had been prohibited by local option elections held under the laws of the State of Texas and in
 force at the time of the taking effect of Section 20, Article XVI of the Constitution of Texas, it shall
@@ -4564,21 +4796,22 @@ other than the judicial department, printing and binding of the laws, journals, 
 and all other printing and binding and the repairing and furnishing of the halls and rooms used during
 meetings of the legislature and in committees, except proclamations and such products and services as
 may be done by handicapped individuals employed in nonprofit rehabilitation facilities providing
-sheltered employment to the handicapped in Texas, shall be performed under contract, to be given to the
-lowest responsible bidder, below such maximum price and under such regulations as shall be prescribed
-by law.  No member or officer of any department of the government shall in any way have a financial
-interest in such contracts, and all such contracts or programs involving the state use of the products and
-services of handicapped individuals shall be subject to such requirements as might be established by the
-legislature.  (Amended Nov. 7, 1978.)
-Sec. 22.  FENCE LAWS.  The Legislature shall have the power to pass such fence laws, applicable
-to any sub-division of the State, or counties, as may be needed to meet the wants of the people.
+sheltered employment to the handicapped in Texas, shall be performed under contract, to be given to
+the lowest responsible bidder, below such maximum price and under such regulations as shall be
+prescribed by law.  No member or officer of any department of the government shall in any way have
+a financial interest in such contracts, and all such contracts or programs involving the state use of the
+products and services of handicapped individuals shall be subject to such requirements as might be
+established by the legislature.  (Amended Nov. 7, 1978.)
+Sec. 22.  (Repealed Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
 Sec. 23.  REGULATION OF LIVE STOCK; PROTECTION OF STOCK RAISERS;
 INSPECTIONS; BRANDS.  The Legislature may pass laws for the regulation of live stock and the
-protection of stock raisers in the stock raising portion of the State, and exempt from the operation of such
-laws other portions, sections, or counties; and shall have power to pass general and special laws for the
-inspection of cattle, stock and hides and for the regulation of brands; provided, that any local law thus
-passed shall be submitted to the freeholders of the section to be affected thereby, and approved by them,
-before it shall go into effect.
+protection of stock raisers in the stock raising portion of the State, and exempt from the operation of
+such laws other portions, sections, or counties; and shall have power to pass general and special laws
+for the inspection of cattle, stock and hides and for the regulation of brands; provided, that any local law
+thus passed shall be submitted to the qualified voters of the section to be affected thereby, and approved
+by them, before it shall go into effect.  (Amended Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
 Sec. 24.  ROADS AND BRIDGES.  The Legislature shall make provision for laying out and working public roads,
 for the building of bridges, and for utilizing fines, forfeitures, and convict labor to all these purposes.
 Sec. 25.  DRAWBACKS AND REBATEMENT TO CARRIERS, SHIPPERS, MERCHANTS,
@@ -4586,8 +4819,8 @@ ETC.  That all drawbacks and rebatement of insurance, freight, transportation, c
 storage, compressing, baling, repairing, or for any other kind of labor or service of, or to any cotton,
 grain, or any other produce or article of commerce in this State, paid or allowed or contracted for, to any
 common carrier, shipper, merchant, commission merchant, factor, agent, or middleman of any kind, not the true and
-absolute owner thereof, are forever prohibited, and it shall be the duty of the Legislature to pass effective laws punishing
-all persons in this State who pay, receive or contract for, or respecting the same.
+absolute owner thereof, are forever prohibited, and it shall be the duty of the Legislature to pass effective laws punishing all
+persons in this State who pay, receive or contract for, or respecting the same.
 Sec. 26.  HOMICIDE; LIABILITY IN DAMAGES.  Every person, corporation, or company, that
 may commit a homicide, through wilful act, or omission, or gross neglect, shall be responsible, in
 exemplary damages, to the surviving husband, widow, heirs of his or her body, or such of them as there
@@ -4600,8 +4833,8 @@ subject to garnishment, except for the enforcement of court-ordered:
 (1)  child support payments; or
 (2)  spousal maintenance.  (Amended Nov. 8, 1983, and Nov. 2, 1999.)
 Sec. 29.  (Repealed Aug. 5, 1969.)
-Sec. 30.  DURATION OF OFFICES; RAILROAD COMMISSION.  (a) The duration of all offices not fixed
-by this Constitution shall never exceed two years.
+Sec. 30.  DURATION OF OFFICES; RAILROAD COMMISSION.  (a) The duration of all offices not
+fixed by this Constitution shall never exceed two years.
 (b)  When a Railroad Commission is created by law it shall be composed of three Commissioners
 who shall be elected by the people at a general election for State officers, and their terms of office shall
 be six years.  And one Railroad Commissioner shall be elected every two years.  In case of vacancy in
@@ -4611,21 +4844,21 @@ TEMPORARY TRANSITION PROVISIONS.1
 (c)  The Legislature  may provide that members of the governing board of a district or authority
 created by authority of Article III, Section 52(b)(1) or (2), or Article XVI, Section 59, of this
 Constitution serve terms not to exceed four years.
-(d)  The Legislature by general or special law may provide that members of the governing board of
-a hospital district serve terms not to exceed four years.  (Amended Nov. 6, 1894, and Nov. 2, 1982;
+(d)  The Legislature by general or special law may provide that members of the governing board
+of a hospital district serve terms not to exceed four years.  (Amended Nov. 6, 1894, and Nov. 2, 1982;
 Subsec. (d) added Nov. 7, 1989; Subsec. (b) amended Nov. 2, 1999.)
-Sec. 30a.  MEMBERS OF BOARDS; TERMS OF OFFICE.  The Legislature may provide by law
-that the Board of Regents of the State University and boards of trustees or managers of the educational,
-eleemosynary, and penal institutions of the State, and such boards as have been, or may hereafter be
-established by law, may be composed of an odd number of three or more members who serve for a term
-of six (6) years, with one-third, or as near as one-third as possible, of the members of such boards to be
-elected or appointed every two (2) years in such manner as the Legislature may determine; vacancies in
-such offices to be filled as may be provided by law, and the Legislature shall enact suitable laws to give
-effect to this section.  The Legislature may provide by law that a board required by this constitution be
-composed of members of any number divisible by three (3) who serve for a term of six (6) years, with
-one-third of the members elected or appointed every two (2) years.  (Added Nov. 5, 1912; amended Nov.
-2, 1999.)
-TEMPORARY PROVISION.4
+Sec. 30a.  MEMBERS OF BOARDS; TERMS OF OFFICE.  The Legislature may provide by
+law that the Board of Regents of the State University and boards of trustees or managers of the
+educational, eleemosynary, and penal institutions of the State, and such boards as have been, or may
+hereafter be established by law, may be composed of an odd number of three or more members who
+serve for a term of six (6) years, with one-third, or as near as one-third as possible, of the members of
+such boards to be elected or appointed every two (2) years in such manner as the Legislature may
+determine; vacancies in such offices to be filled as may be provided by law, and the Legislature shall
+enact suitable laws to give effect to this section.  The Legislature may provide by law that a board
+required by this constitution be composed of members of any number divisible by three (3) who serve
+for a term of six (6) years, with one-third of the members elected or appointed every two (2) years. 
+(Added Nov. 5, 1912; amended Nov. 2, 1999.)
+TEMPORARY PROVISION.3
 Sec. 30b.  CIVIL SERVICE OFFICES; DURATION.  Wherever by virtue of Statute or charter
 provisions appointive offices of any municipality are placed under the terms and provisions of Civil
 Service and rules are set up governing appointment to and removal from such offices, the provisions of
@@ -4644,40 +4877,46 @@ Section 40.  (Amended Nov. 2, 1926, Nov. 8, 1932, Nov. 11, 1967, and Nov. 7, 197
 Sec. 34.  (Repealed Aug. 5, 1969.)
 Sec. 35.  (Repealed Aug. 5, 1969.)
 Sec. 36.  (Repealed Aug. 5, 1969.)
-Sec. 37.  LIENS OF MECHANICS, ARTISANS, AND MATERIAL MEN.  Mechanics, artisans and material
-men, of every class, shall have a lien upon the buildings and articles made or repaired by them for the
-value of their labor done thereon, or material furnished therefor; and the Legislature shall provide by law
-for the speedy and efficient enforcement of said liens.
+Sec. 37.  LIENS OF MECHANICS, ARTISANS, AND MATERIAL MEN.  Mechanics, artisans and
+material men, of every class, shall have a lien upon the buildings and articles made or repaired by them
+for the value of their labor done thereon, or material furnished therefor; and the Legislature shall provide
+by law for the speedy and efficient enforcement of said liens.
 Sec. 38.  (Repealed Aug. 5, 1969.)
-Sec. 39.  APPROPRIATIONS FOR HISTORICAL MEMORIALS.  The Legislature may, from time to time,
-make appropriations for preserving and perpetuating memorials of the history of Texas, by means of
-monuments, statues, paintings and documents of historical value.
-Sec. 40.  HOLDING MORE THAN ONE OFFICE; EXCEPTIONS; RIGHT TO VOTE.  No person shall
-hold or exercise at the same time, more than one civil office of emolument, except that of Justice of the
-Peace, County Commissioner, Notary Public and Postmaster, Officer of the National Guard, the National
-Guard Reserve, and the Officers Reserve Corps of the United States and enlisted men of the National
-Guard, the National Guard Reserve, and the Organized Reserves of the United States, and retired officers
-of the United States Army, Air Force, Navy, Marine Corps, and Coast Guard, and retired warrant
-officers, and retired enlisted men of the United States Army, Air Force, Navy, Marine Corps, and Coast
-Guard, and the officers and directors of soil and water conservation districts, unless otherwise specially
-provided herein.  Provided, that nothing in this Constitution shall be construed to prohibit an officer or
-enlisted man of the National Guard, and the National Guard Reserve, or an officer in the Officers
-Reserve Corps of the United States, or an enlisted man in the Organized Reserves of the United States,
-or retired officers of the United States Army, Air Force, Navy, Marine Corps, and Coast Guard, and
-retired warrant officers, and retired enlisted men of the United States Army, Air Force, Navy, Marine
-Corps, and Coast Guard, and officers of the State soil and water conservation districts, from holding at
-the same time any other office or position of honor, trust or profit, under this State or the United States,
-or from voting at any election, general, special or primary in this State when otherwise qualified.  State
-employees or other individuals who receive all or part of their compensation either directly or indirectly
-from funds of the State of Texas and who are not State officers, shall not be barred from serving as
-members of the governing bodies of school districts, cities, towns, or other local governmental districts;
-provided, however, that such State employees or other individuals shall receive no salary for serving as
-members of such governing bodies.  It is further provided that a nonelective State officer may hold other
-nonelective offices under the State or the United States, if the other office is of benefit to the State of
-Texas or is required by the State or Federal law, and there is no conflict with the original office for
-which he receives salary or compensation.  No member of the Legislature of this State may hold any
-other office or position of profit under this State, or the United States, except as a notary public if
-qualified by law.  (Amended Nov. 2, 1926, Nov. 8, 1932, and Nov. 7, 1972.)
+Sec. 39.  APPROPRIATIONS FOR HISTORICAL MEMORIALS.  The Legislature may, from time to
+time, make appropriations for preserving and perpetuating memorials of the history of Texas, by means
+of monuments, statues, paintings and documents of historical value.
+Sec. 40.  HOLDING MORE THAN ONE OFFICE; EXCEPTIONS; RIGHT TO VOTE. (a) No person
+shall hold or exercise at the same time, more than one civil office of emolument, except that of Justice
+of the Peace, County Commissioner, Notary Public and Postmaster, Officer of the National Guard, the
+National Guard Reserve, and the Officers Reserve Corps of the United States and enlisted men of the
+National Guard, the National Guard Reserve, and the Organized Reserves of the United States, and
+retired officers of the United States Army, Air Force, Navy, Marine Corps, and Coast Guard, and retired
+warrant officers, and retired enlisted men of the United States Army, Air Force, Navy, Marine Corps,
+and Coast Guard, and the officers and directors of soil and water conservation districts, unless otherwise
+specially provided herein.  Provided, that nothing in this Constitution shall be construed to prohibit an
+officer or enlisted man of the National Guard, and the National Guard Reserve, or an officer in the
+Officers Reserve Corps of the United States, or an enlisted man in the Organized Reserves of the United
+States, or retired officers of the United States Army, Air Force, Navy, Marine Corps, and Coast Guard,
+and retired warrant officers, and retired enlisted men of the United States Army, Air Force, Navy,
+Marine Corps, and Coast Guard, and officers of the State soil and water conservation districts, from
+holding at the same time any other office or position of honor, trust or profit, under this State or the
+United States, or from voting at any election, general, special or primary in this State when otherwise
+qualified.
+(b)  State employees or other individuals who receive all or part of their compensation either directly
+or indirectly from funds of the State of Texas and who are not State officers, shall not be barred from
+serving as members of the governing bodies of school districts, cities, towns, or other local governmental
+districts.  Such State employees or other individuals may not receive a salary for serving as members
+of such governing bodies, except that a schoolteacher, retired schoolteacher, or retired school
+administrator may receive compensation for serving as a member of a governing body of a school
+district, city, town, or local governmental district, including a water district created under Section 59,
+Article XVI, or Section 52, Article III.
+(c)  It is further provided that a nonelective State officer may hold other nonelective offices under
+the State or the United States, if the other office is of benefit to the State of Texas or is required by the
+State or Federal law, and there is no conflict with the original office for which he receives salary or
+compensation.
+(d)  No member of the Legislature of this State may hold any other office or position of profit under
+this State, or the United States, except as a notary public if qualified by law.  (Amended Nov. 2, 1926,
+Nov. 8, 1932, Nov. 7, 1972, and Nov. 6, 2001.)
 Sec. 41.  BRIBERY AND ACCEPTANCE OF BRIBES.  Any person who shall, directly or
 indirectly, offer, give, or promise, any money or thing of value, testimonial, privilege or personal
 advantage, to any executive or judicial officer or member of the Legislature to influence him in the
@@ -4686,18 +4925,16 @@ manner as shall be provided by law.  And any member of the Legislature or execut
 who shall solicit, demand or receive, or consent to receive, directly or indirectly, for himself, or for
 another, from any company, corporation or person, any money, appointment, employment, testimonial,
 reward, thing of value or employment, or of personal advantage or promise thereof, for his vote or
-official influence, or for withholding the same, or with any understanding, expressed or implied, that his
-vote or official action shall be in any way influenced thereby, or who shall solicit, demand and receive
-any such money or other advantage matter or thing aforesaid for another, as the consideration of his vote
-or official influence, in consideration of the payment or promise of such money, advantage, matter or
-thing to another, shall be held guilty of bribery, within the meaning of the Constitution, and shall incur
-the disabilities provided for said offenses, with a forfeiture of the office they may hold, and such other
-additional punishment as is or shall be provided by law.
+official influence, or for withholding the same, or with any understanding, expressed or implied, that
+his vote or official action shall be in any way influenced thereby, or who shall solicit, demand and
+receive any such money or other advantage matter or thing aforesaid for another, as the consideration
+of his vote or official influence, in consideration of the payment or promise of such money, advantage,
+matter or thing to another, shall be held guilty of bribery, within the meaning of the Constitution, and
+shall incur the disabilities provided for said offenses, with a forfeiture of the office they may hold, and
+such other additional punishment as is or shall be provided by law.
 Sec. 42.  (Repealed Aug. 5, 1969.)
-Sec. 43.  EXEMPTIONS FROM PUBLIC DUTY OR SERVICE.  No man, or set of men, shall
-ever be exempted, relieved or discharged, from the performance of any public duty or service imposed
-by general law, by any special law.  Exemptions from the performance of such public duty or service
-shall only be made by general law.
+Sec. 43.  (Repealed Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
 Sec. 44.  COUNTY TREASURER AND COUNTY SURVEYOR. (a) Except as otherwise
 provided by this section, the Legislature shall prescribe the duties and provide for the election by the
 qualified voters of each county in this State, of a County Treasurer and a County Surveyor, who shall
@@ -4719,26 +4956,26 @@ Commissioners Court may from time to time change its designation as it considers
 (Amended Nov. 2, 1954; Subsec. (a) amended and (b) and (c) added Nov. 2, 1982; Subsec. (a) amended
 and (b)(1) added Nov. 6, 1984; Subsecs. (a)-(c) amended and (d)-(f) added Nov. 5, 1985; Subsecs. (c)
 and (d) amended and (f) and (g) added Nov. 3, 1987; Subsec. (f) added Nov. 7, 1989; Subsec. (e)
-amended and two Subsecs. (h) added Nov. 2, 1993; Subsec. (h),* relating to the office of County
-Surveyor in Jackson County, repealed Nov. 4, 1997; Subsec. (b) amended, Subsecs. (c)-(g)
-deleted, and Subsec. (h) redesignated Subsec. (c) Nov. 2, 1999.)
-*Through error, two subsections were designated Subsection (h).
+amended and two Subsecs. (h) added Nov. 2, 1993; Subsec. (h), as added by Acts 1993, 73rd
+Leg., R.S., H.J.R. 21, relating to the office of County Surveyor in Jackson County, repealed
+Nov. 4, 1997;  Subsec. (b) amended, Subsecs. (c)-(g) deleted, and Subsec. (h), as added by
+Acts 1993, 73rd Leg., R.S., H.J.R. 37, relating to abolition of the office of County
+Surveyor, redesignated as Subsec. (c) Nov. 2, 1999.)
 TEMPORARY TRANSITION PROVISIONS.1
 Sec. 45.  (Repealed Aug. 5, 1969.)
 Sec. 46.  (Repealed Aug. 5, 1969.)
 Sec. 47.  (Repealed Nov. 2, 1999.)
 TEMPORARY TRANSITION PROVISIONS.1
-Sec. 48.  EXISTING LAWS TO CONTINUE IN FORCE.  All laws and parts of laws now in force
-in the State of Texas, which are not repugnant to the Constitution of the United States, or to this
+Sec. 48.  EXISTING LAWS TO CONTINUE IN FORCE.  All laws and parts of laws now in
+force in the State of Texas, which are not repugnant to the Constitution of the United States, or to this
 Constitution, shall continue and remain in force as the laws of this State, until they expire by their own
 limitation or shall be amended or repealed by the Legislature.
 Sec. 49.  PROTECTION OF PERSONAL PROPERTY FROM FORCED SALE.  The Legislature
 shall have power, and it shall be its duty, to protect by law from forced sale a certain portion of the personal
 property of all heads of families, and also of unmarried adults, male and female.
-Sec. 50.  HOMESTEAD; EXTENSION OF CREDIT SECURED BY LIEN; PROTECTION
-FROM FORCED SALE; MORTGAGES, TRUST DEEDS, AND LIENS.  (a) The homestead of a
-family, or of a single adult person, shall be, and is hereby protected from forced sale, for the payment
-of all debts except for:
+Sec. 50.  HOMESTEAD; PROTECTION FROM FORCED SALE; MORTGAGES, TRUST
+DEEDS, AND LIENS.  (a) The homestead of a family, or of a single adult person, shall be, and is
+hereby protected from forced sale, for the payment of all debts except for:
 (1)  the purchase money thereof, or a part of such purchase money;
 (2)  the taxes due thereon;
 (3)   an owelty of partition imposed against the entirety of the property by a court order or by a
@@ -4752,17 +4989,17 @@ or work and material used to repair or renovate existing improvements thereon if
 of a family homestead, given in the same manner as is required in making a sale and conveyance of the
 homestead;
 (B)  the contract for the work and material is not executed by the owner or the owner's spouse before
-the 12th day after the owner makes written application for any extension of credit for the work and
+the fifth day after the owner makes written application for any extension of credit for the work and
 material, unless the work and material are necessary to complete immediate repairs to conditions on the
 homestead property that materially affect the health or safety of the owner or person residing in the
 homestead and the owner of the homestead acknowledges such in writing;
-(C)  the contract for the work and material expressly provides that the owner may rescind the contract
-without penalty or charge within three days after the execution of the contract by all parties, unless the
-work and material are necessary to complete immediate repairs to conditions on the homestead property
-that materially affect the health or safety of the owner or person residing in the homestead and the owner
-of the homestead acknowledges such in writing; and
-(D)  the contract for the work and material is executed by the owner and the owner's spouse only at
-the office of a third-party lender making an extension of credit for the work and material, an attorney
+(C)  the contract for the work and material expressly provides that the owner may rescind the
+contract without penalty or charge within three days after the execution of the contract by all parties,
+unless the work and material are necessary to complete immediate repairs to conditions on the
+homestead property that materially affect the health or safety of the owner or person residing in the
+homestead and the owner of the homestead acknowledges such in writing; and
+(D)  the contract for the work and material is executed by the owner and the owner's spouse only
+at the office of a third-party lender making an extension of credit for the work and material, an attorney
 at law, or a title company;
 (6)  an extension of credit that:
 (A)  is secured by a voluntary lien on the homestead created under a written agreement with the consent
@@ -4775,8 +5012,9 @@ made;
 unless the owner or spouse obtained the extension of credit by actual fraud;
 (D)  is secured by a lien that may be foreclosed upon only by a court order;
 (E)  does not require the owner or the owner's spouse to pay, in addition to any interest, fees to any
-person that are necessary to originate, evaluate, maintain, record, insure, or service the extension of credit
-that exceed, in the aggregate, three percent of the original principal amount of the extension of credit;
+person that are necessary to originate, evaluate, maintain, record, insure, or service the extension of
+credit that exceed, in the aggregate, three percent of the original principal amount of the extension of
+credit;
 (F)  is not a form of open-end account that may be debited from time to time or under which credit
 may be extended from time to time;
 (G)  is payable in advance without penalty or other charge;
@@ -4793,18 +5031,18 @@ later than two months from the date the extension of credit is made, each of whi
 amount of accrued interest as of the date of the scheduled installment;
 (M)  is closed not before:
 (i)  the 12th day after the later of the date that the owner of the homestead submits an application
-to the lender for the extension of credit or the date that the lender provides the owner a copy of the notice
-prescribed by Subsection (g) of this section; and
+to the lender for the extension of credit or the date that the lender provides the owner a copy of the
+notice prescribed by Subsection (g) of this section; and
 (ii) the first anniversary of the closing date of any other extension of credit described by Subsection
 (a)(6) of this section secured by the same homestead property;
 (N)  is closed only at the office of the lender, an attorney at law, or a title company;
-(O)  permits a lender to contract for and receive any fixed or variable rate of interest authorized under
-statute;
+(O)  permits a lender to contract for and receive any fixed or variable rate of interest authorized
+under statute;
 (P)  is made by one of the following that has not been found by a federal regulatory agency to have
 engaged in the practice of refusing to make loans because the applicants for the loans reside or the
 property proposed to secure the loans is located in a certain area:
-(i)  a bank, savings and loan association, savings bank, or credit union doing business under the laws
-of this state or the United States;
+(i)  a bank, savings and loan association, savings bank, or credit union doing business under the
+laws of this state or the United States;
 (ii) a federally chartered lending instrumentality or a person approved as a mortgagee by the United
 States government to make federally insured loans;
 (iii)  a person licensed to make regulated loans, as provided by statute of this state;
@@ -4834,8 +5072,12 @@ value of the homestead property on the date the extension of credit is made; and
 (x)  the lender or any holder of the note for the extension of credit shall forfeit all principal and
 interest of the extension of credit if the lender or holder fails to comply with the lender's or holder's
 obligations under the extension of credit within a reasonable time after the lender or holder is notified
-by the borrower of the lender's failure to comply; or
-(7)  a reverse mortgage.
+by the borrower of the lender's failure to comply;
+(7)  a reverse mortgage; or
+(8)  the conversion and refinance of a personal property lien secured by a manufactured home to a
+lien on real property, including the refinance of the purchase price of the manufactured home, the cost
+of installing the manufactured home on the real property, and the refinance of the purchase price of the
+real property.
 (b)  An owner or claimant of the property claimed as homestead may not sell or abandon the
 homestead without the consent of each owner and the spouse of each owner, given in such manner as
 may be prescribed by law.
@@ -4873,8 +5115,8 @@ EXCEED AN AMOUNT THAT, WHEN ADDED TO THE PRINCIPAL BALANCES OF ALL
 OTHER LIENS AGAINST YOUR HOME, IS MORE THAN 80 PERCENT OF THE FAIR MARKET
 VALUE OF YOUR HOME;
 "(C) THE LOAN MUST BE WITHOUT RECOURSE FOR PERSONAL LIABILITY AGAINST
-YOU AND YOUR SPOUSE UNLESS YOU OR YOUR SPOUSE OBTAINED THIS EXTENSION
-OF CREDIT BY ACTUAL FRAUD;
+YOU AND YOUR SPOUSE UNLESS YOU OR YOUR SPOUSE OBTAINED THIS EXTENSION OF
+CREDIT BY ACTUAL FRAUD;
 "(D) THE LIEN SECURING THE LOAN MAY BE FORECLOSED UPON ONLY WITH A COURT
 ORDER;
 "(E) FEES AND CHARGES TO MAKE THE LOAN MAY NOT EXCEED 3 PERCENT OF
@@ -4904,8 +5146,8 @@ OTHER LOAN;
 COMPANY, OR AN ATTORNEY AT LAW;
 "(O) THE LENDER MAY CHARGE ANY FIXED OR VARIABLE RATE OF INTEREST
 AUTHORIZED BY STATUTE;
-"(P) ONLY A LAWFULLY AUTHORIZED LENDER MAY MAKE LOANS DESCRIBED BY
-SECTION 50(a)(6), ARTICLE XVI, OF THE TEXAS CONSTITUTION; AND
+"(P)   ONLY A LAWFULLY AUTHORIZED LENDER MAY MAKE LOANS DESCRIBED
+BY SECTION 50(a)(6), ARTICLE XVI, OF THE TEXAS CONSTITUTION; AND
 "(Q) LOANS DESCRIBED BY SECTION 50(a)(6), ARTICLE XVI, OF THE TEXAS
 CONSTITUTION MUST:
         "(1)     NOT REQUIRE YOU TO APPLY THE PROCEEDS TO ANOTHER DEBT THAT IS NOT
@@ -4918,9 +5160,8 @@ ATTORNEY TO ANOTHER PERSON TO CONFESS JUDGMENT OR APPEAR IN A LEGAL
 PROCEEDING ON YOUR BEHALF;
         "(5)     PROVIDE THAT YOU RECEIVE A COPY OF ALL DOCUMENTS YOU SIGN AT
 CLOSING;
-        "(6)     PROVIDE THAT THE SECURITY INSTRUMENTS CONTAIN A DISCLOSURE THAT THIS
-LOAN IS A LOAN DEFINED BY SECTION 50(a)(6), ARTICLE XVI, OF THE TEXAS
-CONSTITUTION;
+        "(6)     PROVIDE THAT THE SECURITY INSTRUMENTS CONTAIN A DISCLOSURE THAT THIS LOAN
+IS A LOAN DEFINED BY SECTION 50(a)(6), ARTICLE XVI, OF THE TEXAS CONSTITUTION;
         "(7)     PROVIDE THAT WHEN THE LOAN IS PAID IN FULL, THE LENDER WILL SIGN
 AND GIVE YOU A RELEASE OF LIEN OR AN ASSIGNMENT OF THE LIEN, WHICHEVER IS
 APPROPRIATE;
@@ -4942,10 +5183,11 @@ accordance with a state or federal requirement applicable to an extension of cre
 (2)  the lender or assignee does not have actual knowledge at the time of the payment of value or
 advance of funds by the lender or assignee that the fair market value stated in the written
 acknowledgment was incorrect.
-(i)  This subsection shall not affect or impair any right of the borrower to recover damages from the
-lender or assignee under applicable law for wrongful foreclosure.  A purchaser for value without actual
-knowledge may conclusively presume that a lien securing an extension of credit described by Subsection
-(a)(6) of this section was a valid lien securing the extension of credit with homestead property if:
+(i)  This subsection shall not affect or impair any right of the borrower to recover damages from
+the lender or assignee under applicable law for wrongful foreclosure.  A purchaser for value without
+actual knowledge may conclusively presume that a lien securing an extension of credit described by
+Subsection (a)(6) of this section was a valid lien securing the extension of credit with homestead
+property if:
 (1)  the security instruments securing the extension of credit contain a disclosure that the extension
 of credit secured by the lien was the type of credit defined by Section 50(a)(6), Article XVI, Texas
 Constitution;
@@ -4970,27 +5212,27 @@ adjustment in the interest rate if periodic advances are to be made;
 (6)  that requires no payment of principal or interest until:
 (A)  all borrowers have died;
 (B)  the homestead property securing the loan is sold or otherwise transferred;
-(C)  all borrowers cease occupying the homestead property for a period of longer than 12 consecutive
-months without prior written approval from the lender; or
+(C)  all borrowers cease occupying the homestead property for a period of longer than 12
+consecutive months without prior written approval from the lender; or
 (D)  the borrower:
 (i)  defaults on an obligation specified in the loan documents to repair and maintain, pay taxes and
 assessments on, or insure the homestead property;
 (ii) commits actual fraud in connection with the loan; or
-(iii)  fails to maintain the priority of the lender's lien on the homestead property, after the lender gives
-notice to the borrower, by promptly discharging any lien that has priority or may obtain priority over the
-lender's lien within 10 days after the date the borrower receives the notice, unless the borrower:
-(a)  agrees in writing to the payment of the obligation secured by the lien in a manner acceptable to
-the lender;
+(iii)  fails to maintain the priority of the lender's lien on the homestead property, after the lender
+gives notice to the borrower, by promptly discharging any lien that has priority or may obtain priority
+over the lender's lien within 10 days after the date the borrower receives the notice, unless the borrower:
+(a)  agrees in writing to the payment of the obligation secured by the lien in a manner acceptable
+to the lender;
 (b)  contests in good faith the lien by, or defends against enforcement of the lien in, legal
 proceedings so as to prevent the enforcement of the lien or forfeiture of any part of the homestead
 property; or
 (c)  secures from the holder of the lien an agreement satisfactory to the lender subordinating the lien
 to all amounts secured by the lender's lien on the homestead property;
-(7)  that provides that if the lender fails to make loan advances as required in the loan documents and
-if the lender fails to cure the default as required in the loan documents after notice from the borrower,
-the lender forfeits all principal and interest of the reverse mortgage, provided, however, that this
-subdivision does not apply when a governmental agency or instrumentality takes an assignment of the
-loan in order to cure the default;
+(7)  that provides that if the lender fails to make loan advances as required in the loan documents
+and if the lender fails to cure the default as required in the loan documents after notice from the
+borrower, the lender forfeits all principal and interest of the reverse mortgage, provided, however, that
+this subdivision does not apply when a governmental agency or instrumentality takes an assignment of
+the loan in order to cure the default;
          (8)     that is not made unless the owner of the homestead attests in writing that the owner received
 counseling regarding the advisability and availability of reverse mortgages and other financial
 alternatives;
@@ -4998,18 +5240,18 @@ alternatives;
 notice the specific provisions contained in Subdivision (6) of this subsection under which the borrower
 is required to repay the loan;
         (10)     that does not permit the lender to commence foreclosure until the lender gives notice to the
-borrower, in the manner provided for a notice by mail related to the foreclosure of liens under Subsection
-(a)(6) of this section, that a ground for foreclosure exists and gives the borrower at least 30 days, or at
-least 20 days in the event of a default under Subdivision (6)(D)(iii) of this subsection, to:
+borrower, in the manner provided for a notice by mail related to the foreclosure of liens under
+Subsection (a)(6) of this section, that a ground for foreclosure exists and gives the borrower at least 30
+days, or at least 20 days in the event of a default under Subdivision (6)(D)(iii) of this subsection, to:
 (A)  remedy the condition creating the ground for foreclosure;
 (B)  pay the debt secured by the homestead property from proceeds of the sale of the homestead
 property by the borrower or from any other sources; or
 (C)  convey the homestead property to the lender by a deed in lieu of foreclosure; and
         (11)     that is secured by a lien that may be foreclosed upon only by a court order, if the foreclosure
 is for a ground other than a ground stated by Subdivision (6)(A) or (B) of this subsection.
-(l)  Advances made under a reverse mortgage and interest on those advances have priority over a lien
-filed for record in the real property records in the county where the homestead property is located after
-the reverse mortgage is filed for record in the real property records of that county.
+(l)  Advances made under a reverse mortgage and interest on those advances have priority over a
+lien filed for record in the real property records in the county where the homestead property is located
+after the reverse mortgage is filed for record in the real property records of that county.
 (m)  A reverse mortgage may provide for an interest rate that is fixed or adjustable and may also
 provide for interest that is contingent on appreciation in the fair market value of the homestead property. 
 Although payment of principal or interest shall not be required under a reverse mortgage until the entire
@@ -5018,8 +5260,8 @@ provided by the reverse mortgage loan agreement.
 (n)  A reverse mortgage that is secured by a valid lien against homestead property may be made or
 acquired without regard to the following provisions of any other law of this state:
 (1)  a limitation on the purpose and use of future advances or other mortgage proceeds;
-(2)  a limitation on future advances to a term of years or a limitation on the term of open-end account
-advances;
+(2)  a limitation on future advances to a term of years or a limitation on the term of open-end
+account advances;
 (3)  a limitation on the term during which future advances take priority over intervening advances;
 (4)  a requirement that a maximum loan amount be stated in the reverse mortgage loan documents;
 (5)  a prohibition on balloon payments;
@@ -5066,7 +5308,7 @@ state that provide financial services under this section.  The director shall co
 produce reports on lending activity of those making loans under this section.  The director shall report
 his or her findings to the legislature not later than December 1 of each year.  (Amended Nov. 6, 1973,
 and Nov. 7, 1995; Subsecs. (a)-(d) amended and (e)-(s) added Nov. 4, 1997;  Subsecs. (k), (p), and (r)
-amended Nov. 2, 1999.)
+amended Nov. 2, 1999; Subsec. (a) amended Nov. 6, 2001.)
 Sec. 51.  AMOUNT OF HOMESTEAD; USES.  The homestead, not in a town or city, shall consist
 of not more than two hundred acres of land, which may be in one or more parcels, with the
 improvements thereon; the homestead in a city, town or village, shall consist of lot or contiguous lots
@@ -5093,32 +5335,23 @@ Sec. 53.  (Repealed Nov. 2, 1999.)
 TEMPORARY TRANSITION PROVISIONS.1
 Sec. 54.  (Repealed Aug. 5, 1969.)
 Sec. 55.  (Repealed Aug. 5, 1969.)
-Sec. 56.  APPROPRIATIONS FOR DEVELOPMENT AND DISSEMINATION OF
-INFORMATION CONCERNING TEXAS RESOURCES.  The Legislature of the State of Texas shall
-have the power to appropriate money and establish the procedure necessary to expend such money for
-the purpose of developing information about the historical, natural, agricultural, industrial, educational,
-marketing, recreational and living resources of Texas, and for the purpose of informing persons and
-corporations of other states through advertising in periodicals having national circulation, and the
-dissemination of factual information about the advantages and economic resources offered by the State
-of Texas; providing, however, that neither the name nor the picture of any living state official shall ever
-be used in any of said advertising, and providing that the Legislature may require that any sum of money
-appropriated hereunder shall be matched by an equal sum paid into the State Treasury from private
-sources before any of said money may be expended.  (Amended Nov. 4, 1958.)
+Sec. 56.  (Repealed Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
 Sec. 57.  (Repealed Aug. 5, 1969.)
 Sec. 58.  (Repealed Aug. 5, 1969.)
-Sec. 59.  CONSERVATION AND DEVELOPMENT OF NATURAL RESOURCES; CONSERVATION AND
-RECLAMATION DISTRICTS.  (a) The conservation and development of all of the natural resources of this
-State, including the control, storing, preservation and distribution of its storm and flood waters, the
-waters of its rivers and streams, for irrigation, power and all other useful purposes, the reclamation and
-irrigation of its arid, semiarid and other lands needing irrigation, the reclamation and drainage of its
-overflowed lands, and other lands needing drainage, the conservation and development of its forests,
+Sec. 59.  CONSERVATION AND DEVELOPMENT OF NATURAL RESOURCES; CONSERVATION
+AND RECLAMATION DISTRICTS.  (a) The conservation and development of all of the natural resources
+of this State, including the control, storing, preservation and distribution of its storm and flood waters,
+the waters of its rivers and streams, for irrigation, power and all other useful purposes, the reclamation
+and irrigation of its arid, semiarid and other lands needing irrigation, the reclamation and drainage of
+its overflowed lands, and other lands needing drainage, the conservation and development of its forests,
 water and hydro-electric power, the navigation of its inland and coastal waters, and the preservation and
 conservation of all such natural resources of the State are each and all hereby declared public rights and
 duties; and the Legislature shall pass all such laws as may be appropriate thereto.
 (b)  There may be created within the State of Texas, or the State may be divided into, such number
-of conservation and reclamation districts as may be determined to be essential to the accomplishment of
-the purposes of this amendment to the constitution, which districts shall be governmental agencies and
-bodies politic and corporate with such powers of government and with the authority to exercise such
+of conservation and reclamation districts as may be determined to be essential to the accomplishment
+of the purposes of this amendment to the constitution, which districts shall be governmental agencies
+and bodies politic and corporate with such powers of government and with the authority to exercise such
 rights, privileges and functions concerning the subject matter of this amendment as may be conferred
 by law.
 (c)  The Legislature shall authorize all such indebtedness as may be necessary to provide all
@@ -5152,9 +5385,9 @@ thereof is or will be located and to the governing body of each incorporated cit
 jurisdiction said district or any part thereof is or will be located.  Each such commissioners court and
 governing body may file its written consent or opposition to the creation of the proposed district with
 the governor, lieutenant governor, and speaker of the house of representatives.  Each special law creating
-a conservation and reclamation district shall comply with the provisions of the general laws then in effect
-relating to consent by political subdivisions to the creation of conservation and reclamation districts and
-to the inclusion of land within the district.
+a conservation and reclamation district shall comply with the provisions of the general laws then in
+effect relating to consent by political subdivisions to the creation of conservation and reclamation
+districts and to the inclusion of land within the district.
 (f)  A conservation and reclamation district created under this section to perform any or all of the
 purposes of this section may engage in fire-fighting activities and may issue bonds or other indebtedness
 for fire-fighting purposes as provided by law and this constitution.  (Added Aug. 21, 1917; Subsec.
@@ -5180,8 +5413,8 @@ where earned for the account of the proper fund, provided that fees incurred by 
 municipality, or in case where a pauper's oath is filed, shall be paid into the county treasury when
 collected and provided that where any officer is compensated wholly on a fee basis such fees may be
 retained by such officer or paid into the treasury of the county as the Commissioners Court may direct.
-(e)  All Notaries Public, county surveyors and public weighers shall continue to be compensated on
-a fee basis.  (Added Aug. 24, 1935; amended Nov. 2, 1948, Nov. 7, 1972, and Nov. 2, 1999.)
+(e)  All Notaries Public, county surveyors and public weighers shall continue to be compensated
+on a fee basis.  (Added Aug. 24, 1935; amended Nov. 2, 1948, Nov. 7, 1972, and Nov. 2, 1999.)
 TEMPORARY TRANSITION PROVISIONS.1
 Sec. 62.  (Repealed April 22, 1975.)
 Sec. 63.  (Repealed April 22, 1975.)
@@ -5197,16 +5430,14 @@ Commissioners; Justices of the Peace; Sheriffs; Assessors and Collectors of Taxe
 County Attorneys; Public Weighers; and Constables.
 (b)  If any of the officers named herein shall announce their candidacy, or shall in fact become a
 candidate, in any General, Special or Primary Election, for any office of profit or trust under the laws
-of this State or the United States other than the office then held, at any time when the unexpired term of
-the office then held shall exceed one (1) year, such announcement or such candidacy shall constitute an
-automatic resignation of the office then held, and the vacancy thereby created shall be filled pursuant to
-law in the same manner as other vacancies for such office are filled.  (Added Nov. 2, 1954; amended
+of this State or the United States other than the office then held, at any time when the unexpired term
+of the office then held shall exceed one (1) year, such announcement or such candidacy shall constitute
+an automatic resignation of the office then held, and the vacancy thereby created shall be filled pursuant
+to law in the same manner as other vacancies for such office are filled.  (Added Nov. 2, 1954; amended
 Nov. 4, 1958, and Nov. 2, 1999.)
 TEMPORARY TRANSITION PROVISIONS.1
-Sec. 65A.  FORT BEND COUNTY DISTRICT ATTORNEY.  Notwithstanding Section 65 of this
-article, the election and term of office of a district attorney serving a judicial district composed entirely
-of Fort Bend County are governed by the law relating to criminal district attorneys.  (Added Nov. 7,
-1989.)
+Sec. 65A.  (Repealed Nov. 6, 2001.)
+TEMPORARY TRANSITION PROVISION.4
 Sec. 66.  (Repealed Nov. 2, 1999.)
 TEMPORARY TRANSITION PROVISIONS.1
 Sec. 67.  STATE AND LOCAL RETIREMENT SYSTEMS. (a) General Provisions.  (1) The
@@ -5223,13 +5454,13 @@ Retirement System of Texas also may be authorized by law.
 (3)  Each statewide benefit system must have a board of trustees to administer the system and to
 invest the funds of the system in such securities as the board may consider prudent investments.  In
 making investments, a board shall exercise the judgment and care under the circumstances then
-prevailing that persons of ordinary prudence, discretion, and intelligence exercise in the management of
-their own affairs, not in regard to speculation, but in regard to the permanent disposition of their funds,
-considering the probable income therefrom as well as the probable safety of their capital.  The legislature
-by law may further restrict the investment discretion of a board.
+prevailing that persons of ordinary prudence, discretion, and intelligence exercise in the management
+of their own affairs, not in regard to speculation, but in regard to the permanent disposition of their
+funds, considering the probable income therefrom as well as the probable safety of their capital.  The
+legislature by law may further restrict the investment discretion of a board.
 (4)  General laws establishing retirement systems and optional retirement programs for public
-employees and officers in effect at the time of the adoption of this section remain in effect, subject to the
-general powers of the legislature established in this subsection.
+employees and officers in effect at the time of the adoption of this section remain in effect, subject to
+the general powers of the legislature established in this subsection.
 (b)  State Retirement Systems.  (1)  The legislature shall establish by law a Teacher Retirement
 System of Texas to provide benefits for persons employed in the public schools, colleges, and
 universities supported wholly or partly by the state.  Other employees may be included under the system
@@ -5241,8 +5472,8 @@ appellate courts and judicial districts as may be included under the system by l
 or the Teacher Retirement System of Texas shall be established by the legislature but may not be less
 than six percent of current compensation.  The amount contributed by the state may not be less than six
 percent nor more than 10 percent of the aggregate compensation paid to individuals participating in the
-system.  In an emergency, as determined by the governor, the legislature may appropriate such additional
-sums as are actuarially determined to be required to fund benefits authorized by law.
+system.  In an emergency, as determined by the governor, the legislature may appropriate such
+additional sums as are actuarially determined to be required to fund benefits authorized by law.
 (c)  Local Retirement Systems.  (1)  The legislature shall provide by law for:
 (A)  the creation by any city or county of a system of benefits for its officers and employees;
 (B)  a statewide system of benefits for the officers and employees of counties or other political
@@ -5267,7 +5498,9 @@ employees and that does not participate in a statewide public retirement system 
 participants and their beneficiaries and defraying reasonable expenses of administering the system or
 program; and
 (3)  select legal counsel and an actuary and adopt sound actuarial assumptions to be used by the
-system or program.  (Added April 22, 1975; Subsec. (f) added Nov. 2, 1993.)
+system or program.
+(g)  If the legislature provides for a fire fighters' pension commissioner, the term of office for that position is four years. 
+(Added April 22, 1975; Subsec. (f) added Nov. 2, 1993; Subsec. (g) added Nov. 6, 2001.)
 Sec. 68.   ASSOCIATIONS OF AGRICULTURAL PRODUCERS; ASSESSMENTS ON PRODUCT SALES
 TO FINANCE PROGRAMS OF MARKETING, PROMOTION, RESEARCH, AND EDUCATION.  The
 legislature may provide for the advancement of food and fiber in this state by providing representative
@@ -5290,8 +5523,8 @@ improved processes or products.
 (b)  The Texas growth fund is created as a trust fund.  Except as otherwise provided by this section,
 the fund is subject to the general laws of this state governing private sector trusts.  The governing boards
 of the permanent university fund, the permanent school fund, the Teacher Retirement System of Texas,
-the Employees Retirement System of Texas, and any other pension system created under this constitution
-or by statute of this state in their sole discretion may make investments in the fund.
+the Employees Retirement System of Texas, and any other pension system created under this
+constitution or by statute of this state in their sole discretion may make investments in the fund.
 (c)  The fund is managed by a board of trustees consisting of four public members appointed by the
 governor and one member from and elected by the membership of each of the following:
 (1)  the Board of Regents of The University of Texas System;
@@ -5317,15 +5550,15 @@ February 1 of each odd-numbered year.  A member may serve more than one term as 
 (8)  alternatively, or in combination with its own staff, contract for the management of investments
 under this section with a private investment management firm or with an investing fund or system
 electing a member of the board of trustees.
-(g)  In making investments, including venture capital investments, the board of trustees shall exercise
-the judgment and care under the circumstances then prevailing that persons of ordinary prudence,
-discretion, and intelligence exercise in the management of their own affairs, not in regard to speculation
-but in regard to the permanent disposition of their funds, considering the probable income as well as the
-probable safety of the capital of the fund.  All investments of the fund shall be directly related to the
-creation, retention, or expansion of employment opportunity and economic growth in Texas.  In making
-venture capital investments, all other material matters being equal, the board of trustees shall invest in
-technological advances that could be expected to result in the greatest increase in employment
-opportunity and economic growth in Texas.
+(g)  In making investments, including venture capital investments, the board of trustees shall
+exercise the judgment and care under the circumstances then prevailing that persons of ordinary
+prudence, discretion, and intelligence exercise in the management of their own affairs, not in regard to
+speculation but in regard to the permanent disposition of their funds, considering the probable income
+as well as the probable safety of the capital of the fund.  All investments of the fund shall be directly
+related to the creation, retention, or expansion of employment opportunity and economic growth in
+Texas.  In making venture capital investments, all other material matters being equal, the board of
+trustees shall invest in technological advances that could be expected to result in the greatest increase
+in employment opportunity and economic growth in Texas.
 (h)  The board of trustees shall establish and operate the fund to the extent practical under the
 generally accepted business procedures relating to a mutual fund and shall value the investments for
 determining the purchase or sales price of participating shares of investing funds or systems participating
@@ -5351,9 +5584,9 @@ of the corpus of the Texas growth fund and shall be distributed in accordance wi
 contracts.
 (l)  The board of trustees shall make arrangements to begin liquidation, phase out investments, and
 return the principal and capital gains on investments to the investors in the fund not later than the 10th
-anniversary of the date of the adoption of this section.  Except under unusual circumstances where it may
-be necessary to protect investments previously made, further investments may not be made in or by the
-fund after the 10th anniversary of the date of the adoption of this section.
+anniversary of the date of the adoption of this section.  Except under unusual circumstances where it
+may be necessary to protect investments previously made, further investments may not be made in or
+by the fund after the 10th anniversary of the date of the adoption of this section.
 (m)  At the regular legislative session next preceding the 10th anniversary of the date of the adoption
 of this section, the legislature, by two-thirds vote of each house, may authorize the creation of Texas
 growth fund II, which shall operate under this section and under the board of trustees created by this
@@ -5372,20 +5605,21 @@ Texas growth fund II as provided by Subsection (m) of this section, this section
 named in this section and the comptroller of public accounts shall take all necessary actions for the implementation
 of this section.  The legislature shall provide by law for full disclosure of all details concerning
 investments authorized by this section.
-(r)  (Repealed Nov. 2, 1999.)
+(r)  (Repealed Nov. 2, 1999.)  (Added Nov. 8, 1988; amended Nov. 7, 1995, and Nov. 2, 1999.)
 TEMPORARY TRANSITION PROVISIONS.1
 Sec. 71.  TEXAS PRODUCT DEVELOPMENT AND SMALL BUSINESS INCUBATOR
 FUNDS; BONDS.  (a) The legislature by law may establish a Texas product development fund to be
 used without further appropriation solely in furtherance of a program established by the legislature to
 aid in the development and production of new or improved products in this state.  The fund shall contain
-a program account, an interest and sinking account, and other accounts authorized by the legislature.  To
-carry out the program authorized by this subsection, the legislature may authorize loans, loan guarantees,
-and equity investments using money in the Texas product development fund and the issuance of up to
-$25 million of general obligation bonds to provide initial funding of the Texas product development
-fund.  The Texas product development fund is composed of the proceeds of the bonds authorized by this
-subsection, loan repayments, guarantee fees, royalty receipts, dividend income, and other amounts
-received by the state from loans, loan guarantees, and equity investments made under this subsection and
-any other amounts required to be deposited in the Texas product development fund by the legislature.
+a program account, an interest and sinking account, and other accounts authorized by the legislature. 
+To carry out the program authorized by this subsection, the legislature may authorize loans, loan
+guarantees, and equity investments using money in the Texas product development fund and the
+issuance of up to $25 million of general obligation bonds to provide initial funding of the Texas product
+development fund.  The Texas product development fund is composed of the proceeds of the bonds
+authorized by this subsection, loan repayments, guarantee fees, royalty receipts, dividend income, and
+other amounts received by the state from loans, loan guarantees, and equity investments made under this
+subsection and any other amounts required to be deposited in the Texas product development fund by
+the legislature.
 (b)  The legislature by law may establish a Texas small business incubator fund to be used without
 further appropriation solely in furtherance of a program established by the legislature to foster and
 stimulate the development of small businesses in the state.  The fund shall contain a project account, an
@@ -5398,8 +5632,8 @@ initial funding of the Texas small business incubator fund.  The Texas small bus
 composed of the proceeds of the bonds authorized by this subsection, loan repayments, and other
 amounts received by the state for loans or grants made under this subsection and any other amounts
 required to be deposited in the Texas small business incubator fund by the legislature.
-(c)  The legislature may require review and approval of the issuance of bonds under this section, of
-the use of the bond proceeds, or of the rules adopted by an agency to govern use of the bond proceeds. 
+(c)  The legislature may require review and approval of the issuance of bonds under this section,
+of the use of the bond proceeds, or of the rules adopted by an agency to govern use of the bond proceeds. 
 Notwithstanding any other provision of this constitution, any entity created or directed to conduct this
 review and approval may include members, or appointees of members, of the executive, legislative, and
 judicial departments of state government.
@@ -5409,7 +5643,6 @@ coming into the treasury in each fiscal year, not otherwise appropriated by this
 sufficient to pay the principal of and interest on the bonds that mature or become due during the fiscal
 year, less any amount in any interest and sinking account at the end of the preceding fiscal year that is
 pledged to payment of the bonds or interest.  (Added Nov. 7, 1989; Subsec. (b) amended Nov. 2, 1999.)
-
                            ARTICLE 17
                       MODE OF AMENDING THE
                    CONSTITUTION OF THIS STATE
@@ -5424,13 +5657,13 @@ elected to each House, entered by yeas and nays on the journals.
 of the election and the wording of the proposition as it is to appear on the ballot, shall be published twice
 in each newspaper in the State which meets requirements set by the Legislature for the publication of
 official notices of offices and departments of the state government.  The explanatory statement shall be
-prepared by the Secretary of State and shall be approved by the Attorney General.  The Secretary of State
-shall send a full and complete copy of the proposed amendment or amendments to each county clerk who
-shall post the same in a public place in the courthouse at least 30 days prior to the election on said
-amendment.  The first notice shall be published not more than 60 days nor less than 50 days before the
-date of the election, and the second notice shall be published on the same day in the succeeding week. 
-The Legislature shall fix the standards for the rate of charge for the publication, which may not be higher
-than the newspaper's published national rate for advertising per column inch.
+prepared by the Secretary of State and shall be approved by the Attorney General.  The Secretary of
+State shall send a full and complete copy of the proposed amendment or amendments to each county
+clerk who shall post the same in a public place in the courthouse at least 30 days prior to the election
+on said amendment.  The first notice shall be published not more than 60 days nor less than 50 days
+before the date of the election, and the second notice shall be published on the same day in the
+succeeding week.  The Legislature shall fix the standards for the rate of charge for the publication, which
+may not be higher than the newspaper's published national rate for advertising per column inch.
 (c)  The election shall be held in accordance with procedures prescribed by the Legislature, and the
 returning officer in each county shall make returns to the Secretary of State of the number of legal votes
 cast at the election for and against each amendment.  If it appears from the returns that a majority of the
@@ -5439,14 +5672,13 @@ proclamation thereof shall be made by the Governor.  (Amended Nov. 7, 1972, and 
 TEMPORARY TRANSITION PROVISIONS.1
 Sec. 2.  (Repealed Nov. 2, 1999.)
 TEMPORARY TRANSITION PROVISIONS.1
-
                              NOTES
 1.  H.J.R. No. 62, Section 56, 76th Legislature, Regular Session, 1999.
    TEMPORARY TRANSITION PROVISIONS.  (a) This section applies to amendments
    proposed by H.J.R. No. 62, 76th Legislature, Regular Session, 1999.
    (b)  The amendments do not impair any obligation created by the issuance of bonds or
-   other evidences of indebtedness in accordance with prior law, and all bonds or other evidences
-   of indebtedness validly issued under provisions amended or repealed remain valid,
+   other evidences of indebtedness in accordance with prior law, and all bonds or other
+   evidences of indebtedness validly issued under provisions amended or repealed remain valid,
    enforceable, and binding according to their terms and shall be paid from the sources pledged. 
    Bonds or other evidences of indebtedness authorized but unissued on the effective date of the
    amendments may be issued in compliance with and subject to the provisions of the prior law. 
@@ -5457,23 +5689,23 @@ TEMPORARY TRANSITION PROVISIONS.1
    amount of $190,002,225 for the purpose of providing funds for the Veterans' Land Fund,
    $1,309,997,775 having previously been issued for that purpose, and $615,000,000 for the
    purpose of providing funds for the Veterans' Housing Assistance Fund II, $385,000,000
-   having previously been issued for that purpose.  The amendments do not in any manner impair
-   the authority of the Veterans' Land Board hereafter to issue bonds or incur other evidences
-   of indebtedness, provided that any bonds or other evidences of indebtedness issued or incurred
-   by the Veterans' Land Board prior to adoption of the amendments shall cause the amount of
-   authorized but unissued bonds described in this subsection to be reduced by the amount of the
-   bonds so issued or other evidences of indebtedness so incurred.
+   having previously been issued for that purpose.  The amendments do not in any manner
+   impair the authority of the Veterans' Land Board hereafter to issue bonds or incur other
+   evidences of indebtedness, provided that any bonds or other evidences of indebtedness issued
+   or incurred by the Veterans' Land Board prior to adoption of the amendments shall cause the
+   amount of authorized but unissued bonds described in this subsection to be reduced by the
+   amount of the bonds so issued or other evidences of indebtedness so incurred.
    (d)  As of the date of adoption of H.J.R. No. 62 by the 76th Legislature, Regular Session,
-   1999, the Texas Water Development Board has authorized but unissued bonds in the aggregate
-   principal amount of $945,765,000, and as of that date that board has issued $113,300,000 in
-   bonds for the purpose of providing wholesale and retail water and wastewater facilities to
-   economically distressed areas of the state, as defined by law.  The amendments do not in any
-   manner impair the authority of the Texas Water Development Board hereafter to issue bonds
-   or incur other evidences of indebtedness, provided that any bonds or other evidences of
-   indebtedness issued or incurred by the Texas Water Development Board prior to adoption of
-   the amendments shall cause the amount of authorized but unissued bonds described in this
-   subsection to be reduced by the amount of the bonds so issued or other evidences of
-   indebtedness so incurred.
+   1999, the Texas Water Development Board has authorized but unissued bonds in the
+   aggregate principal amount of $945,765,000, and as of that date that board has issued
+   $113,300,000 in bonds for the purpose of providing wholesale and retail water and
+   wastewater facilities to economically distressed areas of the state, as defined by law.  The
+   amendments do not in any manner impair the authority of the Texas Water Development
+   Board hereafter to issue bonds or incur other evidences of indebtedness, provided that any
+   bonds or other evidences of indebtedness issued or incurred by the Texas Water Development
+   Board prior to adoption of the amendments shall cause the amount of authorized but unissued
+   bonds described in this subsection to be reduced by the amount of the bonds so issued or other
+   evidences of indebtedness so incurred.
    (e)  As of the date of adoption of H.J.R. No. 62 by the 76th Legislature, Regular Session,
    1999, the Texas Higher Education Coordinating Board has authorized but unissued bonds in
    the aggregate principal amount of $150,000,000, and as of that date the board has issued
@@ -5489,8 +5721,8 @@ TEMPORARY TRANSITION PROVISIONS.1
    that increase is preserved and given effect in accordance with the prior law.
    (g)  The amendment of Subsection (b), Section 1-j, Article VIII, does not affect the
    taxation of personal property in accordance with action taken under that section before April
-   1, 1990, and that authority to tax personal property is preserved and given effect in accordance
-   with the prior law.
+   1, 1990, and that authority to tax personal property is preserved and given effect in
+   accordance with the prior law.
    (h)  The amendment of Subsection (c), Section 5, Article IX, does not affect the validity
    of a confirmation election held in accordance with that section.
    (i)  The repeal of Section 5, Article VIII, does not affect the power of a municipality to
@@ -5511,8 +5743,8 @@ TEMPORARY TRANSITION PROVISIONS.1
    TEMPORARY PROVISION.  (a) The amendment of Section 18, Article VII, of this
    constitution adopted in 1999 does not impair any obligation created by the issuance of bonds
    or notes in accordance with that section before January 1, 2000, and all outstanding bonds and
-   notes validly issued under that section remain valid, enforceable, and binding and shall be paid
-   in full, both principal and interest, in accordance with their terms and from the sources
+   notes validly issued under that section remain valid, enforceable, and binding and shall be
+   paid in full, both principal and interest, in accordance with their terms and from the sources
    pledged to their payment.  In order to ensure that the amendment of that section does not
    impair any obligation created by the issuance of those bonds and notes, there shall be
    distributed from the income, investment returns, or other assets of the permanent university
@@ -5520,22 +5752,15 @@ TEMPORARY TRANSITION PROVISIONS.1
    amount necessary to pay the principal and interest due and owing during the fiscal year on
    those bonds and notes.
    (b)  This section expires January 1, 2030.
-
-3.  H.J.R. No. 4, Section 3, 76th Legislature, Regular Session, 1999.
-   TEMPORARY PROVISION.  The Constitutional amendment proposed by the 76th
-   Legislature, Regular Session, 1999, to authorize the exemption of property of institutions
-   engaged primarily in public charitable functions from ad valorem taxation takes effect January
-   1, 2000, and applies only to taxes imposed on or after that date.  This temporary provision
-   expires January 1, 2002.
-4.  H.J.R. No. 29, Section 2, 76th Legislature, Regular Session, 1999.
+3.  H.J.R. No. 29, Section 2, 76th Legislature, Regular Session, 1999.
    TEMPORARY PROVISION.  (a) This temporary provision applies to the amendment to
    Section 30a, Article XVI, of this constitution, proposed by the 76th Legislature, that provides
    that the governing body of a state agency may be composed of an odd number of three or
    more members.  This provision expires September 1, 2005.
    (b)  The legislature shall provide by law for the change in composition of the governing
    body of a state agency that is composed in accordance with Section 30a, Article XVI, of this
-   constituion, as added in 1912, but that is not composed in accordance with the amendment to
-   that section.  Laws enacted by the legislature under this subsection shall provide that the
+   constituion, as added in 1912, but that is not composed in accordance with the amendment
+   to that section.  Laws enacted by the legislature under this subsection shall provide that the
    change in composition into a form allowed under this constitution will take place not later
    than September 1, 2003.
    (c)  The governing body of a state agency composed in accordance with Section 30a,
@@ -5543,3 +5768,10 @@ TEMPORARY TRANSITION PROVISIONS.1
    with the amendment to that section, may continue to act as the governing body until a quorum
    of the members of the governing body who take office under a law adopted under Subsection
    (b) of this section have qualified.
+4. H.J.R. No. 75, Section 9.01, 77th Legislature, Regular Session, 2001.
+   TEMPORARY TRANSITION PROVISION. (a) This section applies to the amendments
+   to this constitution proposed by H.J.R. No. 75, 77th Legislature, Regular Session, 2001.
+   (b)  The reenactment of any provision of this constitution for purposes of amendment does
+   not revive a provision that may have been impliedly repealed by the adoption of a later
+   amendment.
+   (c)  The amendment of any provision of this constitution does not affect vested rights.
