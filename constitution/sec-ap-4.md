@@ -1,4 +1,3 @@
-# AP.4
 4. S.J.R. No. 27, Section 3, 89th Legislature, Regular Session, 2025.
 TEMPORARY PROVISION. (a) This temporary provision applies to the constitutional amendment proposed by the 89th Legislature, Regular Session, 2025, regarding the membership of the State Commission on Judicial Conduct, the membership of the tribunal to review the commission's recommendations, and the authority of the commission, the tribunal, and the Texas Supreme Court to more effectively sanction judges and justices for judicial misconduct. The constitutional amendment takes effect January 1, 2026.
 (b) Notwithstanding any other law, the terms of the commissioners of the State Commission on Judicial Conduct serving before January 1, 2026, expire July 1, 2026.
