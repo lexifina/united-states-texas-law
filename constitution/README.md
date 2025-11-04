@@ -520,3 +520,8 @@ TX Const. · 1 versions, from 2026-07-31 (latest in force: 2026-07-31) · <https
 | AP.7 | [sec-ap-7.md](sec-ap-7.md) | 0 |  |
 | AP.8 | [sec-ap-8.md](sec-ap-8.md) | 0 |  |
 | PR.1 | [sec-pr-1.md](sec-pr-1.md) | 0 |  |
+
+## Current-text date source
+
+In-force date: 2025-11-04.
+Texas Legislative Council source note `CN.8.htm`: `(Added Nov. 4, 2025.)`
