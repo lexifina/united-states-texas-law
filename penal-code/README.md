@@ -471,3 +471,8 @@ Penal Code · 1 versions, from 2026-04-10 (latest in force: 2026-04-10) · <http
 | Sec. 76.045 | [sec-0076-045.md](sec-0076-045.md) | 0 |  |
 | Sec. 76.046 | [sec-0076-046.md](sec-0076-046.md) | 0 |  |
 | Sec. 76.05 | [sec-0076-05.md](sec-0076-05.md) | 0 |  |
+
+## Current-text date source
+
+In-force date: 2025-12-04.
+Texas Legislative Council source note `pe.8.htm`: `Acts 2025, 89th Leg., 2nd C.S., Ch. 14 (S.B. 11 ), Sec. 1, eff. December 4, 2025`
