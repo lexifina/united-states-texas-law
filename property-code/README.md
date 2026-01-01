@@ -1786,3 +1786,8 @@ Property Code · 1 versions, from 2026-04-10 (latest in force: 2026-04-10) · <h
 | Sec. 301.155 | [sec-0301-155.md](sec-0301-155.md) | 0 |  |
 | Sec. 301.156 | [sec-0301-156.md](sec-0301-156.md) | 0 |  |
 | Sec. 301.171 | [sec-0301-171.md](sec-0301-171.md) | 0 |  |
+
+## Current-text date source
+
+In-force date: 2026-01-01.
+Texas Legislative Council source note `pr.24.htm`: `Acts 2025, 89th Leg., R.S., Ch. 960 (S.B. 38 ), Sec. 9, eff. January 1, 2026`
