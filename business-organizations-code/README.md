@@ -1366,3 +1366,8 @@ Bus. Orgs. Code · 1 versions, from 2026-04-10 (latest in force: 2026-04-10) · 
 | Sec. 402.013 | [sec-0402-013.md](sec-0402-013.md) | 0 |  |
 | Sec. 402.014 | [sec-0402-014.md](sec-0402-014.md) | 0 |  |
 | Sec. 402.015 | [sec-0402-015.md](sec-0402-015.md) | 0 |  |
+
+## Current-text date source
+
+In-force date: 2026-01-01.
+Texas Legislative Council source note `bo.12.htm`: `Acts 2021, 87th Leg., R.S., Ch. 859 (S.B. 938 ), Sec. 9(1), eff. January 1, 2026`
