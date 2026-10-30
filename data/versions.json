@@ -1,0 +1,61 @@
+{
+ "country": "US-TX",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "TX Const.",
+   "title": "Constitution of the State of Texas",
+   "url": "https://statutes.capitol.texas.gov/Docs/CN/htm/CN.1.htm",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 516,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/CN.htm.zip",
+     "sha256": "fef182ff36ccab9e227b4abc3ac2a8844854f93d362d9248ccda616b96d8e2e8"
+    }
+   ]
+  },
+  {
+   "slug": "penal-code",
+   "short": "Penal Code",
+   "title": "Texas Penal Code",
+   "url": "https://statutes.capitol.texas.gov/Docs/PE/htm/PE.1.htm",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 467,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/PE.htm.zip",
+     "sha256": "3f0ef6b9b3360d08146697178e6bd101f03d8b4347f03825f0f4511c7147e599"
+    }
+   ]
+  },
+  {
+   "slug": "property-code",
+   "short": "Property Code",
+   "title": "Texas Property Code",
+   "url": "https://statutes.capitol.texas.gov/Docs/PR/htm/PR.1.htm",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 1782,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/PR.htm.zip",
+     "sha256": "aecec713bd0e163f0decc823ded4f8608f7ee983973bc812f4f160f597dfc52f"
+    }
+   ]
+  },
+  {
+   "slug": "business-organizations-code",
+   "short": "Bus. Orgs. Code",
+   "title": "Texas Business Organizations Code",
+   "url": "https://statutes.capitol.texas.gov/Docs/BO/htm/BO.1.htm",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 1362,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/BO.htm.zip",
+     "sha256": "ca43a4e339980cc590afa15c55cdc0fcc82e2238916f0787ec1a4c244b269411"
+    }
+   ]
+  }
+ ]
+}
