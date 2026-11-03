@@ -210,6 +210,216 @@
      "sha256": "6514e4e386b8c1ae81c8e1bc1f0e9acc06b91d7783bb306ba6d5edb5ba197d8f"
     }
    ]
+  },
+  {
+   "slug": "government-code",
+   "short": "Tex. Government Code",
+   "title": "Texas Government Code",
+   "url": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.1.htm",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 14728,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/GV.htm.zip",
+     "sha256": "0df3c740a1db3e05872f368c036f7698ff68c9dfca14304fe7b88f2eb52535f9"
+    }
+   ]
+  },
+  {
+   "slug": "health-and-safety-code",
+   "short": "Tex. Health and Safety Code",
+   "title": "Texas Health and Safety Code",
+   "url": "https://statutes.capitol.texas.gov/Docs/HS/htm/HS.1.htm",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 8552,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/HS.htm.zip",
+     "sha256": "f499d2678d22f12e48f9ec957ad329dbf7e99bb9502d3a33143e6b8b7c5f485a"
+    }
+   ]
+  },
+  {
+   "slug": "human-resources-code",
+   "short": "Tex. Human Resources Code",
+   "title": "Texas Human Resources Code",
+   "url": "https://statutes.capitol.texas.gov/Docs/HR/htm/HR.1.htm",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1623,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/HR.htm.zip",
+     "sha256": "89e9e219034a7a855e99b97f4985ea8bea052a19a480a97980d404d4fc205aaa"
+    }
+   ]
+  },
+  {
+   "slug": "insurance-code",
+   "short": "Tex. Insurance Code",
+   "title": "Texas Insurance Code",
+   "url": "https://statutes.capitol.texas.gov/Docs/IN/htm/IN.1.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 7832,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/IN.htm.zip",
+     "sha256": "20f59111e73803b476f3815190c94581f714b68c630e410e18babc50c1889e71"
+    }
+   ]
+  },
+  {
+   "slug": "insurance-code-not-codified",
+   "short": "Tex. Insurance Code - Not Codified",
+   "title": "Texas Insurance Code - Not Codified",
+   "url": "https://statutes.capitol.texas.gov/Docs/I1/htm/I1.1.htm",
+   "versions": [
+    {
+     "from": "2011-09-01",
+     "units": 53,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/I1.htm.zip",
+     "sha256": "ad5f1d147dbe464c7f7b3e8946880bb076b744865735c9aadf46e77ec64c9851"
+    }
+   ]
+  },
+  {
+   "slug": "labor-code",
+   "short": "Tex. Labor Code",
+   "title": "Texas Labor Code",
+   "url": "https://statutes.capitol.texas.gov/Docs/LA/htm/LA.1.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1796,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/LA.htm.zip",
+     "sha256": "6b3ee9141bbd140438e62522a01db482802c92cc79b4e6cbe9b9d28727017708"
+    }
+   ]
+  },
+  {
+   "slug": "local-government-code",
+   "short": "Tex. Local Government Code",
+   "title": "Texas Local Government Code",
+   "url": "https://statutes.capitol.texas.gov/Docs/LG/htm/LG.1.htm",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 5338,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/LG.htm.zip",
+     "sha256": "368f8f7a602d0688282e1e1abd797d64b2f329f20d28d7d98650e9b6da72577b"
+    }
+   ]
+  },
+  {
+   "slug": "natural-resources-code",
+   "short": "Tex. Natural Resources Code",
+   "title": "Texas Natural Resources Code",
+   "url": "https://statutes.capitol.texas.gov/Docs/NR/htm/NR.1.htm",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 2297,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/NR.htm.zip",
+     "sha256": "12cdb9d1f0e4e4f29544329dbeb2961d476f3e79be2fc28e1be03cdc051c861a"
+    }
+   ]
+  },
+  {
+   "slug": "occupations-code",
+   "short": "Tex. Occupations Code",
+   "title": "Texas Occupations Code",
+   "url": "https://statutes.capitol.texas.gov/Docs/OC/htm/OC.1.htm",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 7010,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/OC.htm.zip",
+     "sha256": "f353a87a1140a01dcec8fd251c254e43492bb8c7d842ba634b974bdd6f7ae749"
+    }
+   ]
+  },
+  {
+   "slug": "parks-and-wildlife-code",
+   "short": "Tex. Parks and Wildlife Code",
+   "title": "Texas Parks and Wildlife Code",
+   "url": "https://statutes.capitol.texas.gov/Docs/PW/htm/PW.1.htm",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 1487,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/PW.htm.zip",
+     "sha256": "3d3866c2a8ce8a9f201f4a547f233e025a8b4da1775969715b9bba63b5715f93"
+    }
+   ]
+  },
+  {
+   "slug": "tax-code",
+   "short": "Tex. Tax Code",
+   "title": "Texas Tax Code",
+   "url": "https://statutes.capitol.texas.gov/Docs/TX/htm/TX.1.htm",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 2125,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/TX.htm.zip",
+     "sha256": "1af025f5d369ef9a1c41653e48e0aca14ff08ded78b94723470acd882ff8edcb"
+    }
+   ]
+  },
+  {
+   "slug": "transportation-code",
+   "short": "Tex. Transportation Code",
+   "title": "Texas Transportation Code",
+   "url": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.1.htm",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 5662,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/TN.htm.zip",
+     "sha256": "6554fb47af70f5f1acdd8ba8d6aec95e79d6bcacbdc80ac373a2182d85f096b4"
+    }
+   ]
+  },
+  {
+   "slug": "utilities-code",
+   "short": "Tex. Utilities Code",
+   "title": "Texas Utilities Code",
+   "url": "https://statutes.capitol.texas.gov/Docs/UT/htm/UT.1.htm",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1766,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/UT.htm.zip",
+     "sha256": "f425ef060caad7479d459396a3ba6cefe4acc60bb21d0c0ebe1c0dc2dc84b17c"
+    }
+   ]
+  },
+  {
+   "slug": "water-code",
+   "short": "Tex. Water Code",
+   "title": "Texas Water Code",
+   "url": "https://statutes.capitol.texas.gov/Docs/WA/htm/WA.1.htm",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 4139,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/WA.htm.zip",
+     "sha256": "a832752e998d7bf9bb58bf5b104d97d3925eb83b4f8fbdb71796cb80513663b8"
+    }
+   ]
+  },
+  {
+   "slug": "vernon-s-civil-statutes",
+   "short": "Tex. Vernon's Civil Statutes",
+   "title": "Texas Vernon's Civil Statutes",
+   "url": "https://statutes.capitol.texas.gov/Docs/CV/htm/CV.1.htm",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 267,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/CV.htm.zip",
+     "sha256": "62fc936ae736790ebb79d3773555f41370d670408ee842a6914fa159dd2924b3"
+    }
+   ]
   }
  ]
 }
