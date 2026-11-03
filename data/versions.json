@@ -352,6 +352,20 @@
    ]
   },
   {
+   "slug": "special-district-local-laws-code",
+   "short": "Tex. Special District Local Laws Code",
+   "title": "Texas Special District Local Laws Code",
+   "url": "https://statutes.capitol.texas.gov/Docs/SD/htm/SD.1.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 31523,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/SD.htm.zip",
+     "sha256": "89b3ef160f1401af08cf47f2ff50850cda0f64c781bde3cd0aecdc7bf481de97"
+    }
+   ]
+  },
+  {
    "slug": "tax-code",
    "short": "Tex. Tax Code",
    "title": "Texas Tax Code",
