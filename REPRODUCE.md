@@ -1,12 +1,13 @@
 # How this repository was made (Texas)
 
-This file is written by the build on 2026-10-30, the day the source data was retrieved.
+This file is written by the build on 2026-11-03, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Texas Constitution and Statutes (Texas Legislative Council) | <https://statutes.capitol.texas.gov/> | 2026-10-30 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). No annotations are taken. |
+| Texas Legislative Council: every code, one HTML zip each | <https://statutes.capitol.texas.gov/assets/StatuteCodeDownloads.json> | 2026-11-03 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). No annotations are taken. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -18,20 +19,31 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `penal-code` | Texas Penal Code | 1 | 2026-04-10 to 2026-04-10 |
 | `property-code` | Texas Property Code | 1 | 2026-04-10 to 2026-04-10 |
 | `business-organizations-code` | Texas Business Organizations Code | 1 | 2026-04-10 to 2026-04-10 |
+| `agriculture-code` | Texas Agriculture Code | 1 | 2025-09-01 to 2025-09-01 |
+| `alcoholic-beverage-code` | Texas Alcoholic Beverage Code | 1 | 2025-09-01 to 2025-09-01 |
+| `auxiliary-water-laws` | Texas Auxiliary Water Laws | 1 | 1989-09-01 to 1989-09-01 |
+| `business-and-commerce-code` | Texas Business & Commerce Code | 1 | 2026-09-01 to 2026-09-01 |
+| `civil-practice-and-remedies-code` | Texas Civil Practice and Remedies Code | 1 | 2025-12-04 to 2025-12-04 |
+| `code-of-criminal-procedure` | Texas Code of Criminal Procedure | 1 | 2026-04-01 to 2026-04-01 |
+| `education-code` | Texas Education Code | 1 | 2026-09-01 to 2026-09-01 |
+| `election-code` | Texas Election Code | 1 | 2025-12-04 to 2025-12-04 |
+| `estates-code` | Texas Estates Code | 1 | 2026-01-01 to 2026-01-01 |
+| `family-code` | Texas Family Code | 1 | 2025-12-04 to 2025-12-04 |
+| `finance-code` | Texas Finance Code | 1 | 2026-01-01 to 2026-01-01 |
 
-The build made 4 commits:
+The build made 15 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 4 | first version of an act |
+| 15 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-10-30.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 4 tags.
+- 15 tags.
 
 ## Dates
 
@@ -43,8 +55,8 @@ When a law gives no date of its own, the default rule applies: Tex. Gov't Code 3
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `f3a5e34d54a85636b40d7097388089d86d25709163dae1060c451ab52e5ccc4c` (6153746 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3e59cb6f05eccb94a9ec14431a7f6781221e83ef`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
+- Corpus: sha256 `18ec338b9c8f2682823c30343aa55cb403057eb227235056a9fa8b63aa07dc69` (37737299 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
@@ -58,6 +70,9 @@ No second build of this corpus has been compared yet.
 - First build: only the current text of the Constitution, Penal Code, Property Code and Business Organizations Code is published, so each act has one version, dated the day the Council last modified its zip and credited to the publisher as the oldest version available.
 - Chapter files named *_old.htm (the text a section has until a future amendment takes effect) are left out so each section appears once; where the Council prints two texts of one section in the current file, the second gets the key suffix -dup2.
 - Article and chapter headings between sections are left out; each section keeps the Council's source note.
+- Wave 3 (2026-11-03): every other Texas code in this part is added from the Council's HTML zips, one act per code, parsed as in the first build (one unit per section, the source note kept, *_old.htm files left out).
+- Each new code's single version is dated by the latest in-force day ("eff. <date>") its source notes give on or before the retrieval day (2026-11-03), so the current wording is never dated before its latest amendment took effect; with no such day, the retrieval day. It is credited to the publisher as the oldest version available.
+- A section whose every source note gives an in-force day after 2026-11-03, or that the Council heads "Text of section effective on <a later day>", is left out as not yet in force (102 sections). Subsection-level "Text of subsection effective ..." variants are kept as printed.
 
 ## What AI did and did not do
 

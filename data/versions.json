@@ -56,6 +56,160 @@
      "sha256": "ca43a4e339980cc590afa15c55cdc0fcc82e2238916f0787ec1a4c244b269411"
     }
    ]
+  },
+  {
+   "slug": "agriculture-code",
+   "short": "Tex. Agriculture Code",
+   "title": "Texas Agriculture Code",
+   "url": "https://statutes.capitol.texas.gov/Docs/AG/htm/AG.1.htm",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 2158,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/AG.htm.zip",
+     "sha256": "92a4b221a9cf0b644d9851946142430c86b8de6e937e2926e40de8585e4aa9c2"
+    }
+   ]
+  },
+  {
+   "slug": "alcoholic-beverage-code",
+   "short": "Tex. Alcoholic Beverage Code",
+   "title": "Texas Alcoholic Beverage Code",
+   "url": "https://statutes.capitol.texas.gov/Docs/AL/htm/AL.1.htm",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 833,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/AL.htm.zip",
+     "sha256": "d83238f58449fe5ad95aa345f4fee32feb096091998856fe9bb75ba114b46ac3"
+    }
+   ]
+  },
+  {
+   "slug": "auxiliary-water-laws",
+   "short": "Tex. Auxiliary Water Laws",
+   "title": "Texas Auxiliary Water Laws",
+   "url": "https://statutes.capitol.texas.gov/Docs/WL/htm/WL.1.htm",
+   "versions": [
+    {
+     "from": "1989-09-01",
+     "units": 69,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/WL.htm.zip",
+     "sha256": "79fcf8f6d1d5cc5ada522b087bd90e1d4b36c1598497c54f2fdc02b5821726e0"
+    }
+   ]
+  },
+  {
+   "slug": "business-and-commerce-code",
+   "short": "Tex. Business & Commerce Code",
+   "title": "Texas Business & Commerce Code",
+   "url": "https://statutes.capitol.texas.gov/Docs/BC/htm/BC.1.htm",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1857,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/BC.htm.zip",
+     "sha256": "007dac26cf54de14da2aed615c2dff788dfea1a0500f8d70e56effda934c8381"
+    }
+   ]
+  },
+  {
+   "slug": "civil-practice-and-remedies-code",
+   "short": "Tex. Civil Practice and Remedies Code",
+   "title": "Texas Civil Practice and Remedies Code",
+   "url": "https://statutes.capitol.texas.gov/Docs/CP/htm/CP.1.htm",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1477,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/CP.htm.zip",
+     "sha256": "2019503cd64e9562fcfaec8ed5cc16e41e2ff22fa62ea700b1ac2d7628f3d9c1"
+    }
+   ]
+  },
+  {
+   "slug": "code-of-criminal-procedure",
+   "short": "Tex. Code of Criminal Procedure",
+   "title": "Texas Code of Criminal Procedure",
+   "url": "https://statutes.capitol.texas.gov/Docs/CR/htm/CR.1.htm",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 2367,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/CR.htm.zip",
+     "sha256": "8cbc423a390926c9a944e2c7c2303301a914d9142da6b9d5cc0e63bedd48bd10"
+    }
+   ]
+  },
+  {
+   "slug": "education-code",
+   "short": "Tex. Education Code",
+   "title": "Texas Education Code",
+   "url": "https://statutes.capitol.texas.gov/Docs/ED/htm/ED.1.htm",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 5743,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/ED.htm.zip",
+     "sha256": "fdab34ddacbae01686516e906aab3342b98816c52d278e0c05fa3d71a6a91842"
+    }
+   ]
+  },
+  {
+   "slug": "election-code",
+   "short": "Tex. Election Code",
+   "title": "Texas Election Code",
+   "url": "https://statutes.capitol.texas.gov/Docs/EL/htm/EL.1.htm",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 2053,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/EL.htm.zip",
+     "sha256": "ea3ad84614ab63798b18a796c72d6e4a86fdf4be969545b619ceb0acd9ca3a96"
+    }
+   ]
+  },
+  {
+   "slug": "estates-code",
+   "short": "Tex. Estates Code",
+   "title": "Texas Estates Code",
+   "url": "https://statutes.capitol.texas.gov/Docs/ES/htm/ES.1.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1898,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/ES.htm.zip",
+     "sha256": "30545fbd65fa8fefe52365ef44ab47b2f98a6130fac638e71eb4c352f1096559"
+    }
+   ]
+  },
+  {
+   "slug": "family-code",
+   "short": "Tex. Family Code",
+   "title": "Texas Family Code",
+   "url": "https://statutes.capitol.texas.gov/Docs/FA/htm/FA.1.htm",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 2406,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/FA.htm.zip",
+     "sha256": "4fde9c12a361060daeb7fc4ed223839c330ab2cbeaf29f080d9c12ef014c2d73"
+    }
+   ]
+  },
+  {
+   "slug": "finance-code",
+   "short": "Tex. Finance Code",
+   "title": "Texas Finance Code",
+   "url": "https://statutes.capitol.texas.gov/Docs/FI/htm/FI.1.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 2836,
+     "source_url": "https://tcss.legis.texas.gov/resources/Zips/FI.htm.zip",
+     "sha256": "6514e4e386b8c1ae81c8e1bc1f0e9acc06b91d7783bb306ba6d5edb5ba197d8f"
+    }
+   ]
   }
  ]
 }
