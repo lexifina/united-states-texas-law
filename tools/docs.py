@@ -1,35 +1,34 @@
-import json, os, sys
-HERE = os.path.dirname(os.path.abspath(__file__))
-sys.path.insert(0, os.path.join(HERE, '..', 'world-law'))
-from state_docs import write_docs
+"""Write the Texas source and coverage summary from the current corpus."""
+import json
+from pathlib import Path
 
-c = json.load(open(os.path.join(HERE, 'corpus.json'), encoding='utf-8'))
-acts = []
-folders = {'constitution': 'Constitution of the State of Texas', 'penal-code': 'Texas Penal Code',
-           'property-code': 'Texas Property Code', 'business-organizations-code': 'Texas Business Organizations Code'}
-for a in c['acts']:
-    v = a['versions'][0]
-    acts.append({'folder': a['slug'], 'title': a['title'] + f" ({len(v['units'])} sections)", 'versions': 1,
-                 'history': f"One version: the current text as the Texas Legislative Council published it, dated {v['from']}"})
-write_docs(HERE, {
-    'name': 'Texas', 'code': 'TX', 'slug': 'united-states-texas', 'date': '2026-10-30', 'domain': 'statutes-texas',
-    'publisher': 'the Texas Legislative Council',
-    'acts': acts,
-    'build': 'built: Texas Constitution, Penal Code, Property Code and Business Organizations Code, current text only (one version each, Council zips of 2026)',
-    'source': ("The text is read from the per-code HTML zips that the **Texas Legislative Council** lists for download at "
-              "<https://statutes.capitol.texas.gov/> (`StatuteCodeDownloads.json`; files at `tcss.legis.texas.gov/resources/Zips/`). "
-              "Neither host publishes a robots.txt. Four files were fetched, one at a time. Only statute text and the Council's source "
-              "note for each section (the \"Acts 1973, 63rd Leg., ... eff. ...\" line) are kept; chapter and article headings between "
-              "sections are left out."),
-    'dates': ("- Each act has **one version**, dated the day the Council last modified its zip (the Constitution 31 July 2026; the "
-              "three codes 10 April 2026). It is the oldest version available: the Council publishes no past versions online.\n"
-              "- The first commit of each act is credited to the Texas Legislative Council as \"oldest version available\".\n"
-              "- The effective dates in each section's source note are part of its text, not the commit dates."),
-    'limits': ("- Any amendment history: the text before the Council's 2026 files is not here.\n"
-              "- Text that takes effect in the future: the Council's current file prints both texts of some sections; the second keeps the key suffix `-dup2`. Files the Council keeps for the pre-amendment text of a chapter (`*_old.htm`) are left out.\n"
-              "- The other 27 Texas codes, Vernon's Civil Statutes, session laws and regulations.\n"
-              "- Nothing here is an official publication."),
-    'licence': ("The legal text is the Constitution and statutes of Texas as published by the Texas Legislative Council at "
-                "https://statutes.capitol.texas.gov/. Statutes are not copyrightable (Georgia v. Public.Resource.Org, Inc., 590 U.S. 255 (2020)); "
-                "no annotations are taken. The text is republished unaltered in its wording, with credit to the Texas Legislative Council as its publisher."),
-})
+HERE = Path(__file__).resolve().parent
+corpus = json.loads((HERE / 'corpus.json').read_text(encoding='utf8'))
+rows = []
+for act in corpus['acts']:
+    version = act['versions'][0]
+    rows.append(f"| `{act['slug']}/` | {act['title']} | {len(version['units']):,} | {version['from']} |")
+
+readme = """# Texas: law history in git
+
+This repository holds all 31 download groups listed by the Texas Legislative Council, including the Constitution and Vernon's Civil Statutes. Each has one version of the Council's current text, with one file per section. Earlier versions, session laws and regulations are outside this record.
+
+| Folder | Act | Sections | Version date |
+| --- | --- | ---: | --- |
+""" + '\n'.join(rows) + """
+
+## Source and dates
+
+The Texas Legislative Council publishes the Constitution and statutes at <https://statutes.capitol.texas.gov/>. The text here comes from its per-code HTML downloads, including the Council's section source notes. Article and chapter headings between sections are outside this section-level record.
+
+Each act has one version, the oldest available here. For the first four acts, the version date is the source file's Last-Modified day. For the other acts, it is the latest effective day in the Council's section source notes on or before 3 November 2026, or the retrieval day if no such day appears. These dates describe a current-text snapshot; they do not reconstruct the act's earlier history. The Council is credited as publisher.
+
+Sections that the source says take effect after 3 November 2026 are excluded. Some subsection-level future variants remain as the Council prints them. Files that the Council names `*_old.htm` are outside the current-text record.
+
+The source's punctuation is preserved, including curly quotation marks and dashes. This is an unofficial reproduction; consult the Council's publication for legal use.
+"""
+(HERE / 'repo' / 'README.md').write_text(readme, encoding='utf8', newline='\n')
+path = HERE / 'repo' / 'jurisdiction.json'
+j = json.loads(path.read_text(encoding='utf8'))
+j['build'] = 'built: Texas Constitution and all 30 listed codes, current text only (one version each)'
+path.write_text(json.dumps(j, indent=2) + '\n', encoding='utf8', newline='\n')

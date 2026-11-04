@@ -4,6 +4,6 @@
   "name": "Texas",
   "level": "state",
   "repo": "https://github.com/lexifina/united-states-texas-law",
-  "build": "built: Texas Constitution, Penal Code, Property Code and Business Organizations Code, current text only (one version each, Council zips of 2026)",
+  "build": "built: Texas Constitution and all 30 listed codes, current text only (one version each)",
   "register_date": "2026-10-30"
 }

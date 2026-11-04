@@ -6,11 +6,20 @@ published by the Texas Legislative Council (the zip's Last-Modified day), credit
 version available. Each section is one unit; one paragraph per line, with the Council's source note (the "Acts ..., eff."
 line) kept as the last line.
 """
-import json, os, re, sys
+import html, json, os, re, sys
 from email.utils import parsedate_to_datetime
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(HERE, '..', 'world-law'))
-from state_corpus import clean, unit_key, add_unit, sha256_file, write  # noqa: E402
+from state_corpus import unit_key, add_unit, sha256_file, write  # noqa: E402
+
+
+def clean(s):
+    """Read the Council's HTML without changing its punctuation."""
+    s = re.sub(r'<[^>]+>', '', s)
+    s = html.unescape(s)
+    s = s.replace('\u00a0', ' ').replace('\u2009', ' ').replace('\u2002', ' ').replace('\u2003', ' ').replace('\u2005', ' ')
+    s = s.replace('\ufeff', '').replace('\u00ad', '')
+    return re.sub(r'[ \t\r\n]+', ' ', s).strip()
 
 CACHE = os.path.join(HERE, '.cache')
 LOG = json.load(open(os.path.join(CACHE, 'fetch-log.json')))

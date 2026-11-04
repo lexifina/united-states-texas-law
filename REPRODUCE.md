@@ -1,6 +1,6 @@
 # How this repository was made (Texas)
 
-This file is written by the build on 2026-11-03, the day the source data was retrieved.
+This documentation was updated on 2026-11-04. The source data was retrieved on 2026-10-30 and 2026-11-03, as recorded below.
 
 ## Sources
 
@@ -47,16 +47,17 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `water-code` | Texas Water Code | 1 | 2026-09-01 to 2026-09-01 |
 | `vernon-s-civil-statutes` | Texas Vernon's Civil Statutes | 1 | 2025-10-01 to 2025-10-01 |
 
-The build made 31 commits:
+The main history has 38 law and correction commits, followed by a documentation commit:
 
 | Commits | Kind |
 | ---: | --- |
 | 31 | first version of an act |
+| 7 | correction to previously published text |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-04.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
 - 31 tags.
@@ -71,8 +72,9 @@ When a law gives no date of its own, the default rule applies: Tex. Gov't Code 3
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `66886802a9408724b6a7ba76681f12537751dc3ea6fc80e2dce6d4cbb155c5f6` (140235254 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
+- Corpus: sha256 `605ed1fa799f74054b6cc81b55a0bd09d65c7d1239873d197db0bcd501d75332` (140237510 bytes).
+- Shipped tool Git blob hashes: `tools/build.py` `3fa29d18e75f2ec35d37d87b5147fea1f2e4afdf`, `tools/check_repo.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, and `tools/on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`. These are the retained published tools.
+- External build-environment Git blob hashes, not shipped by this documentation commit: `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, and `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
