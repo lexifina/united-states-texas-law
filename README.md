@@ -1,5 +1,7 @@
 # Texas: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Texas, United States, which global-law reads at `united-states/texas/acts/`.
+
 This repository holds all 31 download groups listed by the Texas Legislative Council, including the Constitution and Vernon's Civil Statutes. Each has one version of the Council's current text, with one file per section. Earlier versions, session laws and regulations are outside this record.
 
 | Folder | Act | Sections | Version date |
