@@ -47,14 +47,14 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `water-code` | Texas Water Code | 1 | 2026-09-01 to 2026-09-01 |
 | `vernon-s-civil-statutes` | Texas Vernon's Civil Statutes | 1 | 2025-10-01 to 2025-10-01 |
 
-The build made 57 commits:
+The build made 89 commits:
 
 | Commits | Kind |
 | ---: | --- |
 | 31 | baseline texts where the record starts |
 | 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
-| 26 | corrections to the existing record |
+| 58 | corrections to the existing record |
 | 0 | printing or layout changes |
 
 Other counts:
@@ -73,7 +73,7 @@ For enacted laws with no stated date, the default rule is Tex. Gov't Code 311.02
 
 `tools/build.py` creates a deterministic baseline history from the corpus. This append preserves published commits and records corrections with `Corrects` ranges. The correction-aware `gitlaw_common.append.check_corrected` gate reads those ranges and compares each corrected version and the tip with the corpus; the plain `tools/check_repo.py` does not apply correction overlays. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `10d5dacfdc32ceda4f29338ec3355c2a1e7ed587e6b3b50533ce515638e92078` (143470945 bytes).
+- Corpus: sha256 `28ccb5e4166bcdc4418b02b677f9e684e5e516d148fde322b810971bcbf2c0f8` (142913796 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -98,6 +98,8 @@ No second build of this corpus has been compared yet.
 - Constitution Article I Section 1 and Criminal Procedure Article 102.001 follow the Council HTML word order.
 - Agriculture Code Section 13.028 retains the Council HTML table of standard bushel weights, rendered as seven source rows in place.
 
+- Council HTML text tables are retained at their section positions, with cells and merged-cell spans preserved; their official word and punctuation order is verified.
+
 ## What AI did and did not do
 
 The source readers and builders were developed under Lexifina's direction with coding assistants, including Claude Code and Codex.
@@ -112,3 +114,5 @@ Model use at data-build time:
 - A model identified the source-date findings and scoped this correction. A deterministic HTML parser rendered Property Code Section 5.008 from the Council ZIP; its words and punctuation were checked in source order. No legal wording was authored or corrected by a model.
 - A model identified two inherited section-order defects; deterministic rearrangement and removal were checked token by token against the official Council HTML ZIPs. No legal words were authored.
 - A model identified the omitted table; deterministic extraction of the Council HTML rows supplied every restored word, checked in source order. No legal words were authored.
+
+- A coding assistant developed a deterministic HTML table renderer. All restored wording is extracted from Council HTML and independently checked; no model wrote legal text.
