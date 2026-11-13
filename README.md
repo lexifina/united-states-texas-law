@@ -11,10 +11,10 @@ This repository holds all 31 download groups listed by the Texas Legislative Cou
 
 | Folder | Act | Sections | Version date |
 | --- | --- | ---: | --- |
-| `constitution/` | Constitution of the State of Texas | 516 current; 1 per historical edition | 1995-11-07, 1997-11-04, 1999-11-02, 2002-11-05, 2003-09-13, 2026-07-31 |
-| `penal-code/` | Texas Penal Code | 467 | 2026-04-10 |
-| `property-code/` | Texas Property Code | 1,782 | 2026-04-10 |
-| `business-organizations-code/` | Texas Business Organizations Code | 1,362 | 2026-04-10 |
+| `constitution/` | Constitution of the State of Texas | 516 current; 1 per historical edition | 1995-11-07, 1997-11-04, 1999-11-02, 2002-11-05, 2003-09-13, 2025-11-04 |
+| `penal-code/` | Texas Penal Code | 467 | 2025-12-04 |
+| `property-code/` | Texas Property Code | 1,782 | 2026-01-01 |
+| `business-organizations-code/` | Texas Business Organizations Code | 1,362 | 2026-01-01 |
 | `agriculture-code/` | Texas Agriculture Code | 2,158 | 2025-09-01 |
 | `alcoholic-beverage-code/` | Texas Alcoholic Beverage Code | 833 | 2025-09-01 |
 | `auxiliary-water-laws/` | Texas Auxiliary Water Laws | 69 | 1989-09-01 |
@@ -47,7 +47,7 @@ This repository holds all 31 download groups listed by the Texas Legislative Cou
 
 The Texas Legislative Council publishes the Constitution and statutes at <https://statutes.capitol.texas.gov/>. The text here comes from its per-code HTML downloads, including the Council's section source notes. Article and chapter headings between sections are outside this section-level record.
 
-The Constitution has five earlier Council edition snapshots; the other acts have one version, the oldest available here. For the first four acts, the version date is the source file's Last-Modified day. For the other acts, it is the latest effective day in the Council's section source notes on or before 3 November 2026, or the retrieval day if no such day appears. The Constitution's 1995, 1997, 1999, 2002 and 2003 dates are the latest amendment days printed in the respective historical editions. The dates of the other acts describe current-text snapshots; they do not reconstruct earlier history. The Council is credited as publisher.
+The Constitution has five earlier Council edition snapshots; the other acts have one version, the oldest available here. For each current code, the version date is the latest applicable in-force date in the Council's section source notes on or before 3 November 2026, or the retrieval day if no source date appears. The Constitution's historical edition dates are the latest amendment days printed in each edition. The Constitution's 1995, 1997, 1999, 2002 and 2003 dates are the latest amendment days printed in the respective historical editions. The dates of the other acts describe current-text snapshots; they do not reconstruct earlier history. The Council is credited as publisher.
 
 Sections that the source says take effect after 3 November 2026 are excluded. Some subsection-level future variants remain as the Council prints them. Files that the Council names `*_old.htm` are outside the current-text record.
 
