@@ -1,6 +1,6 @@
 # Texas Penal Code
 
-Penal Code · 1 versions, from 2026-04-10 (latest in force: 2026-04-10) · <https://statutes.capitol.texas.gov/Docs/PE/htm/PE.1.htm>
+Penal Code · 1 versions, from 2025-12-04 (latest in force: 2025-12-04) · <https://statutes.capitol.texas.gov/Docs/PE/htm/PE.1.htm>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

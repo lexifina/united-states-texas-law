@@ -1,6 +1,6 @@
 # Constitution of the State of Texas
 
-TX Const. · 1 versions, from 2026-07-31 (latest in force: 2026-07-31) · <https://statutes.capitol.texas.gov/Docs/CN/htm/CN.1.htm>
+TX Const. · 1 versions, from 2025-11-04 (latest in force: 2025-11-04) · <https://statutes.capitol.texas.gov/Docs/CN/htm/CN.1.htm>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

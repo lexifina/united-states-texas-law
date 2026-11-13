@@ -1,6 +1,6 @@
 # Texas Property Code
 
-Property Code · 1 versions, from 2026-04-10 (latest in force: 2026-04-10) · <https://statutes.capitol.texas.gov/Docs/PR/htm/PR.1.htm>
+Property Code · 1 versions, from 2026-01-01 (latest in force: 2026-01-01) · <https://statutes.capitol.texas.gov/Docs/PR/htm/PR.1.htm>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

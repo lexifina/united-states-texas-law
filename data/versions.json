@@ -8,52 +8,7 @@
    "url": "https://statutes.capitol.texas.gov/Docs/CN/htm/CN.1.htm",
    "versions": [
     {
-     "from": "1995-11-07",
-     "to": "1997-11-03",
-     "status": "replaced",
-     "text_as_of": null,
-     "units": 1,
-     "source_url": "ftp://ftp.legis.state.tx.us/pub/txconst/const.asc.95",
-     "sha256": "00b8faed59cff3cdd3bc5e4b39a7ac000390029e2f5e4cb165dc04bec59fea39"
-    },
-    {
-     "from": "1997-11-04",
-     "to": "1999-11-01",
-     "status": "replaced",
-     "text_as_of": null,
-     "units": 1,
-     "source_url": "ftp://ftp.legis.state.tx.us/pub/txconst/const.asc.97",
-     "sha256": "3cda137dd2c7f5975dabed9f51a4afd73edff2bf6ae68b836e9fbbc78d26ad8e"
-    },
-    {
-     "from": "1999-11-02",
-     "to": "2002-11-04",
-     "status": "replaced",
-     "text_as_of": null,
-     "units": 1,
-     "source_url": "ftp://ftp.legis.state.tx.us/pub/txconst/const.zip.99",
-     "sha256": "bfb82e5cfe3b59d1a21d1a1d503bdf38e3a2bb7446175550aa4fb0c03f301592"
-    },
-    {
-     "from": "2002-11-05",
-     "to": "2003-09-12",
-     "status": "replaced",
-     "text_as_of": null,
-     "units": 1,
-     "source_url": "ftp://ftp.legis.state.tx.us/pub/txconst/const.zip.03",
-     "sha256": "2949929372b5a193e43478559b51ab1629cbab97d5d30c9943d943a79a3eeb29"
-    },
-    {
-     "from": "2003-09-13",
-     "to": "2026-07-30",
-     "status": "replaced",
-     "text_as_of": null,
-     "units": 1,
-     "source_url": "ftp://ftp.legis.state.tx.us/pub/txconst/const.zip.03b",
-     "sha256": "4138acce8f6f7ac884b5f20496f0acfa13195ebf08dced16440af6ad50709934"
-    },
-    {
-     "from": "2026-07-31",
+     "from": "2025-11-04",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -70,7 +25,7 @@
    "url": "https://statutes.capitol.texas.gov/Docs/PE/htm/PE.1.htm",
    "versions": [
     {
-     "from": "2026-04-10",
+     "from": "2025-12-04",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -87,7 +42,7 @@
    "url": "https://statutes.capitol.texas.gov/Docs/PR/htm/PR.1.htm",
    "versions": [
     {
-     "from": "2026-04-10",
+     "from": "2026-01-01",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -104,7 +59,7 @@
    "url": "https://statutes.capitol.texas.gov/Docs/BO/htm/BO.1.htm",
    "versions": [
     {
-     "from": "2026-04-10",
+     "from": "2026-01-01",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
