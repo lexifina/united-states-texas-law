@@ -47,14 +47,14 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `water-code` | Texas Water Code | 1 | 2026-09-01 to 2026-09-01 |
 | `vernon-s-civil-statutes` | Texas Vernon's Civil Statutes | 1 | 2025-10-01 to 2025-10-01 |
 
-The build made 53 commits:
+The build made 56 commits:
 
 | Commits | Kind |
 | ---: | --- |
 | 31 | baseline texts where the record starts |
 | 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
-| 22 | corrections to the existing record |
+| 25 | corrections to the existing record |
 | 0 | printing or layout changes |
 
 Other counts:
@@ -73,7 +73,7 @@ For enacted laws with no stated date, the default rule is Tex. Gov't Code 311.02
 
 `tools/build.py` creates a deterministic baseline history from the corpus. This append preserves published commits and records corrections with `Corrects` ranges. The correction-aware `gitlaw_common.append.check_corrected` gate reads those ranges and compares each corrected version and the tip with the corpus; the plain `tools/check_repo.py` does not apply correction overlays. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `cb593c0d43a8dd9aae16528388fc72bd6c2b5be7b251d589ac708664a40c14b1` (142848840 bytes).
+- Corpus: sha256 `e3254c5bcf93100dc8c77c3e948cd6396aac7c94fda444d44435ddeeccd408d5` (143470201 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -95,6 +95,7 @@ No second build of this corpus has been compared yet.
 - The November 2003 Constitution edition comes from the Texas Legislative Council anonymous FTP and is a complete single-file historical snapshot dated by its latest printed amendment date.
 - The Constitution, Business Organizations Code, Penal Code and Property Code current-text dates use the latest applicable dates in the Council section source notes, not download ZIP Last-Modified days.
 - Property Code Section 5.008 retains the Council's complete four-table seller disclosure form, rendered from the official HTML table cells in source order.
+- Constitution Article I Section 1 and Criminal Procedure Article 102.001 follow the Council HTML word order.
 
 ## What AI did and did not do
 
@@ -108,3 +109,4 @@ Model use at data-build time:
 - A model identified the FTP editions and their date evidence; a deterministic script copied the text without editing words.
 - A model identified the November 2003 FTP edition and its date evidence; antiword extracted the official Word text without editing words.
 - A model identified the source-date findings and scoped this correction. A deterministic HTML parser rendered Property Code Section 5.008 from the Council ZIP; its words and punctuation were checked in source order. No legal wording was authored or corrected by a model.
+- A model identified two inherited section-order defects; deterministic rearrangement and removal were checked token by token against the official Council HTML ZIPs. No legal words were authored.
