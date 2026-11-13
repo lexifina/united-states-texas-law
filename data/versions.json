@@ -36,12 +36,21 @@
     },
     {
      "from": "2002-11-05",
-     "to": "2026-07-30",
+     "to": "2003-09-12",
      "status": "replaced",
      "text_as_of": null,
      "units": 1,
      "source_url": "ftp://ftp.legis.state.tx.us/pub/txconst/const.zip.03",
      "sha256": "2949929372b5a193e43478559b51ab1629cbab97d5d30c9943d943a79a3eeb29"
+    },
+    {
+     "from": "2003-09-13",
+     "to": "2026-07-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "ftp://ftp.legis.state.tx.us/pub/txconst/const.zip.03b",
+     "sha256": "4138acce8f6f7ac884b5f20496f0acfa13195ebf08dced16440af6ad50709934"
     },
     {
      "from": "2026-07-31",

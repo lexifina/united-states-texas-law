@@ -15,7 +15,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| `constitution` | Constitution of the State of Texas | 5 | 1995-11-07 to 2026-07-31 |
+| `constitution` | Constitution of the State of Texas | 6 | 1995-11-07 to 2026-07-31 |
 | `penal-code` | Texas Penal Code | 1 | 2026-04-10 to 2026-04-10 |
 | `property-code` | Texas Property Code | 1 | 2026-04-10 to 2026-04-10 |
 | `business-organizations-code` | Texas Business Organizations Code | 1 | 2026-04-10 to 2026-04-10 |
@@ -47,14 +47,14 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `water-code` | Texas Water Code | 1 | 2026-09-01 to 2026-09-01 |
 | `vernon-s-civil-statutes` | Texas Vernon's Civil Statutes | 1 | 2025-10-01 to 2025-10-01 |
 
-The build made 43 commits:
+The build made 45 commits:
 
 | Commits | Kind |
 | ---: | --- |
 | 31 | baseline texts where the record starts |
 | 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
-| 12 | corrections to the existing record |
+| 14 | corrections to the existing record |
 | 0 | printing or layout changes |
 
 Other counts:
@@ -73,7 +73,7 @@ When a law gives no date of its own, the default rule applies: Tex. Gov't Code 3
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `72685f01d2b7c9844e2e07e300af05403bba2b37b42cd283443b0c7418d2c46e` (142889060 bytes).
+- Corpus: sha256 `6e34b9bfa8f5ac739193396d7a60e85924b64bb403086b18d4f3c374fe8740a9` (143463278 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -92,6 +92,7 @@ No second build of this corpus has been compared yet.
 - Each new code's single version is dated by the latest in-force day ("eff. <date>") its source notes give on or before the retrieval day (2026-11-03), so the current wording is never dated before its latest amendment took effect; with no such day, the retrieval day. It is credited to the publisher as the oldest version available.
 - A section whose every source note gives an in-force day after 2026-11-03, or that the Council heads "Text of section effective on <a later day>", is left out as not yet in force (342 sections). Subsection-level "Text of subsection effective ..." variants are kept as printed.
 - The 1995, 1997, 1999 and 2002 Constitution editions come from the Texas Legislative Council anonymous FTP; each is a complete single-file historical snapshot dated by its latest printed amendment date.
+- The November 2003 Constitution edition comes from the Texas Legislative Council anonymous FTP and is a complete single-file historical snapshot dated by its latest printed amendment date.
 
 ## What AI did and did not do
 
@@ -104,3 +105,4 @@ The commit messages are written by `build.py` from the source data.
 Model use at data-build time:
 - none
 - A model identified the FTP editions and their date evidence; a deterministic script copied the text without editing words.
+- A model identified the November 2003 FTP edition and its date evidence; antiword extracted the official Word text without editing words.
