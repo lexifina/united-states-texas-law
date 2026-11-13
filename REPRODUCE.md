@@ -1,6 +1,6 @@
 # How this repository was made (Texas)
 
-This documentation was updated on 2026-11-04. The source data was retrieved on 2026-10-30 and 2026-11-03, as recorded below.
+This file is written by the build on 2026-11-13, the day the source data was retrieved.
 
 ## Sources
 
@@ -15,7 +15,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| `constitution` | Constitution of the State of Texas | 1 | 2026-07-31 to 2026-07-31 |
+| `constitution` | Constitution of the State of Texas | 5 | 1995-11-07 to 2026-07-31 |
 | `penal-code` | Texas Penal Code | 1 | 2026-04-10 to 2026-04-10 |
 | `property-code` | Texas Property Code | 1 | 2026-04-10 to 2026-04-10 |
 | `business-organizations-code` | Texas Business Organizations Code | 1 | 2026-04-10 to 2026-04-10 |
@@ -47,17 +47,18 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `water-code` | Texas Water Code | 1 | 2026-09-01 to 2026-09-01 |
 | `vernon-s-civil-statutes` | Texas Vernon's Civil Statutes | 1 | 2025-10-01 to 2025-10-01 |
 
-The main history has 38 law and correction commits, followed by a documentation commit:
+The build made 43 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 31 | first version of an act |
-| 7 | correction to previously published text |
-| 0 | one law on its in-force day |
+| 31 | baseline texts where the record starts |
+| 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
+| 12 | corrections to the existing record |
+| 0 | printing or layout changes |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-04.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
 - 31 tags.
@@ -72,9 +73,8 @@ When a law gives no date of its own, the default rule applies: Tex. Gov't Code 3
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `605ed1fa799f74054b6cc81b55a0bd09d65c7d1239873d197db0bcd501d75332` (140237510 bytes).
-- Shipped tool Git blob hashes: `tools/build.py` `3fa29d18e75f2ec35d37d87b5147fea1f2e4afdf`, `tools/check_repo.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, and `tools/on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`. These are the retained published tools.
-- External build-environment Git blob hashes, not shipped by this documentation commit: `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, and `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Corpus: sha256 `72685f01d2b7c9844e2e07e300af05403bba2b37b42cd283443b0c7418d2c46e` (142889060 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
@@ -91,10 +91,11 @@ No second build of this corpus has been compared yet.
 - Wave 3 (2026-11-03): every other Texas code is added from the Council's HTML zips, one act per code, parsed as in the first build (one unit per section, the source note kept, *_old.htm files left out).
 - Each new code's single version is dated by the latest in-force day ("eff. <date>") its source notes give on or before the retrieval day (2026-11-03), so the current wording is never dated before its latest amendment took effect; with no such day, the retrieval day. It is credited to the publisher as the oldest version available.
 - A section whose every source note gives an in-force day after 2026-11-03, or that the Council heads "Text of section effective on <a later day>", is left out as not yet in force (342 sections). Subsection-level "Text of subsection effective ..." variants are kept as printed.
+- The 1995, 1997, 1999 and 2002 Constitution editions come from the Texas Legislative Council anonymous FTP; each is a complete single-file historical snapshot dated by its latest printed amendment date.
 
 ## What AI did and did not do
 
-The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+The source readers and builders were developed under Lexifina's direction with coding assistants, including Claude Code and Codex.
 
 No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
 
@@ -102,3 +103,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- A model identified the FTP editions and their date evidence; a deterministic script copied the text without editing words.

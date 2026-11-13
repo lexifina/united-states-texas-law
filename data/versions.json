@@ -8,7 +8,46 @@
    "url": "https://statutes.capitol.texas.gov/Docs/CN/htm/CN.1.htm",
    "versions": [
     {
+     "from": "1995-11-07",
+     "to": "1997-11-03",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "ftp://ftp.legis.state.tx.us/pub/txconst/const.asc.95",
+     "sha256": "00b8faed59cff3cdd3bc5e4b39a7ac000390029e2f5e4cb165dc04bec59fea39"
+    },
+    {
+     "from": "1997-11-04",
+     "to": "1999-11-01",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "ftp://ftp.legis.state.tx.us/pub/txconst/const.asc.97",
+     "sha256": "3cda137dd2c7f5975dabed9f51a4afd73edff2bf6ae68b836e9fbbc78d26ad8e"
+    },
+    {
+     "from": "1999-11-02",
+     "to": "2002-11-04",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "ftp://ftp.legis.state.tx.us/pub/txconst/const.zip.99",
+     "sha256": "bfb82e5cfe3b59d1a21d1a1d503bdf38e3a2bb7446175550aa4fb0c03f301592"
+    },
+    {
+     "from": "2002-11-05",
+     "to": "2026-07-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "ftp://ftp.legis.state.tx.us/pub/txconst/const.zip.03",
+     "sha256": "2949929372b5a193e43478559b51ab1629cbab97d5d30c9943d943a79a3eeb29"
+    },
+    {
      "from": "2026-07-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 516,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/CN.htm.zip",
      "sha256": "fef182ff36ccab9e227b4abc3ac2a8844854f93d362d9248ccda616b96d8e2e8"
@@ -23,6 +62,9 @@
    "versions": [
     {
      "from": "2026-04-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 467,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/PE.htm.zip",
      "sha256": "3f0ef6b9b3360d08146697178e6bd101f03d8b4347f03825f0f4511c7147e599"
@@ -37,6 +79,9 @@
    "versions": [
     {
      "from": "2026-04-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1782,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/PR.htm.zip",
      "sha256": "aecec713bd0e163f0decc823ded4f8608f7ee983973bc812f4f160f597dfc52f"
@@ -51,6 +96,9 @@
    "versions": [
     {
      "from": "2026-04-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1362,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/BO.htm.zip",
      "sha256": "ca43a4e339980cc590afa15c55cdc0fcc82e2238916f0787ec1a4c244b269411"
@@ -65,6 +113,9 @@
    "versions": [
     {
      "from": "2025-09-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 2158,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/AG.htm.zip",
      "sha256": "92a4b221a9cf0b644d9851946142430c86b8de6e937e2926e40de8585e4aa9c2"
@@ -79,6 +130,9 @@
    "versions": [
     {
      "from": "2025-09-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 833,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/AL.htm.zip",
      "sha256": "d83238f58449fe5ad95aa345f4fee32feb096091998856fe9bb75ba114b46ac3"
@@ -93,6 +147,9 @@
    "versions": [
     {
      "from": "1989-09-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 69,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/WL.htm.zip",
      "sha256": "79fcf8f6d1d5cc5ada522b087bd90e1d4b36c1598497c54f2fdc02b5821726e0"
@@ -107,6 +164,9 @@
    "versions": [
     {
      "from": "2026-09-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1857,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/BC.htm.zip",
      "sha256": "007dac26cf54de14da2aed615c2dff788dfea1a0500f8d70e56effda934c8381"
@@ -121,6 +181,9 @@
    "versions": [
     {
      "from": "2025-12-04",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1477,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/CP.htm.zip",
      "sha256": "2019503cd64e9562fcfaec8ed5cc16e41e2ff22fa62ea700b1ac2d7628f3d9c1"
@@ -135,6 +198,9 @@
    "versions": [
     {
      "from": "2026-04-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 2367,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/CR.htm.zip",
      "sha256": "8cbc423a390926c9a944e2c7c2303301a914d9142da6b9d5cc0e63bedd48bd10"
@@ -149,6 +215,9 @@
    "versions": [
     {
      "from": "2026-09-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 5743,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/ED.htm.zip",
      "sha256": "fdab34ddacbae01686516e906aab3342b98816c52d278e0c05fa3d71a6a91842"
@@ -163,6 +232,9 @@
    "versions": [
     {
      "from": "2025-12-04",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 2053,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/EL.htm.zip",
      "sha256": "ea3ad84614ab63798b18a796c72d6e4a86fdf4be969545b619ceb0acd9ca3a96"
@@ -177,6 +249,9 @@
    "versions": [
     {
      "from": "2026-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1898,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/ES.htm.zip",
      "sha256": "30545fbd65fa8fefe52365ef44ab47b2f98a6130fac638e71eb4c352f1096559"
@@ -191,6 +266,9 @@
    "versions": [
     {
      "from": "2025-12-04",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 2406,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/FA.htm.zip",
      "sha256": "4fde9c12a361060daeb7fc4ed223839c330ab2cbeaf29f080d9c12ef014c2d73"
@@ -205,6 +283,9 @@
    "versions": [
     {
      "from": "2026-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 2836,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/FI.htm.zip",
      "sha256": "6514e4e386b8c1ae81c8e1bc1f0e9acc06b91d7783bb306ba6d5edb5ba197d8f"
@@ -219,6 +300,9 @@
    "versions": [
     {
      "from": "2026-10-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 14728,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/GV.htm.zip",
      "sha256": "0df3c740a1db3e05872f368c036f7698ff68c9dfca14304fe7b88f2eb52535f9"
@@ -233,6 +317,9 @@
    "versions": [
     {
      "from": "2026-09-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 8552,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/HS.htm.zip",
      "sha256": "f499d2678d22f12e48f9ec957ad329dbf7e99bb9502d3a33143e6b8b7c5f485a"
@@ -247,6 +334,9 @@
    "versions": [
     {
      "from": "2026-09-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1623,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/HR.htm.zip",
      "sha256": "89e9e219034a7a855e99b97f4985ea8bea052a19a480a97980d404d4fc205aaa"
@@ -261,6 +351,9 @@
    "versions": [
     {
      "from": "2026-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 7832,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/IN.htm.zip",
      "sha256": "20f59111e73803b476f3815190c94581f714b68c630e410e18babc50c1889e71"
@@ -275,6 +368,9 @@
    "versions": [
     {
      "from": "2011-09-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 53,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/I1.htm.zip",
      "sha256": "ad5f1d147dbe464c7f7b3e8946880bb076b744865735c9aadf46e77ec64c9851"
@@ -289,6 +385,9 @@
    "versions": [
     {
      "from": "2026-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1796,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/LA.htm.zip",
      "sha256": "6b3ee9141bbd140438e62522a01db482802c92cc79b4e6cbe9b9d28727017708"
@@ -303,6 +402,9 @@
    "versions": [
     {
      "from": "2026-06-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 5338,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/LG.htm.zip",
      "sha256": "368f8f7a602d0688282e1e1abd797d64b2f329f20d28d7d98650e9b6da72577b"
@@ -317,6 +419,9 @@
    "versions": [
     {
      "from": "2025-09-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 2297,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/NR.htm.zip",
      "sha256": "12cdb9d1f0e4e4f29544329dbeb2961d476f3e79be2fc28e1be03cdc051c861a"
@@ -331,6 +436,9 @@
    "versions": [
     {
      "from": "2026-09-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 7010,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/OC.htm.zip",
      "sha256": "f353a87a1140a01dcec8fd251c254e43492bb8c7d842ba634b974bdd6f7ae749"
@@ -345,6 +453,9 @@
    "versions": [
     {
      "from": "2025-09-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1487,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/PW.htm.zip",
      "sha256": "3d3866c2a8ce8a9f201f4a547f233e025a8b4da1775969715b9bba63b5715f93"
@@ -359,6 +470,9 @@
    "versions": [
     {
      "from": "2026-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 31523,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/SD.htm.zip",
      "sha256": "89b3ef160f1401af08cf47f2ff50850cda0f64c781bde3cd0aecdc7bf481de97"
@@ -373,6 +487,9 @@
    "versions": [
     {
      "from": "2026-09-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 2125,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/TX.htm.zip",
      "sha256": "1af025f5d369ef9a1c41653e48e0aca14ff08ded78b94723470acd882ff8edcb"
@@ -387,6 +504,9 @@
    "versions": [
     {
      "from": "2026-09-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 5662,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/TN.htm.zip",
      "sha256": "6554fb47af70f5f1acdd8ba8d6aec95e79d6bcacbdc80ac373a2182d85f096b4"
@@ -401,6 +521,9 @@
    "versions": [
     {
      "from": "2026-09-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1766,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/UT.htm.zip",
      "sha256": "f425ef060caad7479d459396a3ba6cefe4acc60bb21d0c0ebe1c0dc2dc84b17c"
@@ -415,6 +538,9 @@
    "versions": [
     {
      "from": "2026-09-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 4139,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/WA.htm.zip",
      "sha256": "a832752e998d7bf9bb58bf5b104d97d3925eb83b4f8fbdb71796cb80513663b8"
@@ -429,6 +555,9 @@
    "versions": [
     {
      "from": "2025-10-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 267,
      "source_url": "https://tcss.legis.texas.gov/resources/Zips/CV.htm.zip",
      "sha256": "62fc936ae736790ebb79d3773555f41370d670408ee842a6914fa159dd2924b3"
