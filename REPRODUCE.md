@@ -47,14 +47,14 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `water-code` | Texas Water Code | 1 | 2026-09-01 to 2026-09-01 |
 | `vernon-s-civil-statutes` | Texas Vernon's Civil Statutes | 1 | 2025-10-01 to 2025-10-01 |
 
-The build made 89 commits:
+The build made 91 commits:
 
 | Commits | Kind |
 | ---: | --- |
 | 31 | baseline texts where the record starts |
 | 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
-| 58 | corrections to the existing record |
+| 60 | corrections to the existing record |
 | 0 | printing or layout changes |
 
 Other counts:
@@ -73,7 +73,7 @@ For enacted laws with no stated date, the default rule is Tex. Gov't Code 311.02
 
 `tools/build.py` creates a deterministic baseline history from the corpus. This append preserves published commits and records corrections with `Corrects` ranges. The correction-aware `gitlaw_common.append.check_corrected` gate reads those ranges and compares each corrected version and the tip with the corpus; the plain `tools/check_repo.py` does not apply correction overlays. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `28ccb5e4166bcdc4418b02b677f9e684e5e516d148fde322b810971bcbf2c0f8` (142913796 bytes).
+- Corpus: sha256 `b2902591b0cf81f0cc935ecf787234b0f9c189aaf79b8d98a1b1a3804df01d72` (142914138 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -100,6 +100,8 @@ No second build of this corpus has been compared yet.
 
 - Council HTML text tables are retained at their section positions, with cells and merged-cell spans preserved; their official word and punctuation order is verified.
 
+- Constitution Article XVI, Section 50 includes the Council reverse-mortgage notice heading in source order.
+
 ## What AI did and did not do
 
 The source readers and builders were developed under Lexifina's direction with coding assistants, including Claude Code and Codex.
@@ -116,3 +118,5 @@ Model use at data-build time:
 - A model identified the omitted table; deterministic extraction of the Council HTML rows supplied every restored word, checked in source order. No legal words were authored.
 
 - A coding assistant developed a deterministic HTML table renderer. All restored wording is extracted from Council HTML and independently checked; no model wrote legal text.
+
+- A coding assistant identified an omission; the restored section is rendered directly from Council HTML and checked against its complete source token stream.
