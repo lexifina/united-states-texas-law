@@ -45,7 +45,7 @@
     },
     {
      "from": "2003-09-13",
-     "to": "2026-07-30",
+     "to": "2025-11-03",
      "status": "replaced",
      "text_as_of": null,
      "units": 1,
@@ -53,7 +53,7 @@
      "sha256": "4138acce8f6f7ac884b5f20496f0acfa13195ebf08dced16440af6ad50709934"
     },
     {
-     "from": "2026-07-31",
+     "from": "2025-11-04",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -70,7 +70,7 @@
    "url": "https://statutes.capitol.texas.gov/Docs/PE/htm/PE.1.htm",
    "versions": [
     {
-     "from": "2026-04-10",
+     "from": "2025-12-04",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -87,7 +87,7 @@
    "url": "https://statutes.capitol.texas.gov/Docs/PR/htm/PR.1.htm",
    "versions": [
     {
-     "from": "2026-04-10",
+     "from": "2026-01-01",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
@@ -104,7 +104,7 @@
    "url": "https://statutes.capitol.texas.gov/Docs/BO/htm/BO.1.htm",
    "versions": [
     {
-     "from": "2026-04-10",
+     "from": "2026-01-01",
      "to": null,
      "status": "as captured",
      "text_as_of": null,

@@ -1,9 +1,10 @@
 {
-  "path": "us-tx",
-  "code": "TX",
-  "name": "Texas",
-  "level": "state",
-  "repo": "https://github.com/lexifina/united-states-texas-law",
-  "build": "built: Texas Constitution and all 30 listed codes, current text only (one version each)",
-  "register_date": "2026-10-30"
+ "path": "united-states/texas",
+ "code": "US-TX",
+ "name": "Texas",
+ "level": "state",
+ "repo": "https://github.com/lexifina/united-states-texas-law",
+ "build": "built: Texas Constitution and all 30 listed codes, current text only (one version each)",
+ "register_date": "2026-10-30",
+ "parent": "united-states"
 }
